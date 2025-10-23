@@ -63,36 +63,17 @@
             form.classList.remove('loaded');
         }
         
-        // Define um gradiente com a cor #d83756 de fallback primeiro
-        body.style.background = 'linear-gradient(135deg, #d83756 0%, #c42a4a 100%)';
+        // Aplicar gradiente azul diretamente
+        body.style.background = 'linear-gradient(135deg, #0066cc 0%, #004499 100%)';
+        body.style.backgroundSize = 'cover';
+        body.style.backgroundPosition = 'center center';
+        body.style.backgroundRepeat = 'no-repeat';
+        body.style.backgroundAttachment = 'fixed';
         
-        // Tenta carregar a imagem
-        const img = new Image();
-        img.onload = function() {
-            // Se a imagem carregou, aplica ela
-            body.style.backgroundImage = `url('../../images/background-mobile.jpg?v=${timestamp}')`;
-            body.style.backgroundSize = 'cover';
-            body.style.backgroundPosition = 'center center';
-            body.style.backgroundRepeat = 'no-repeat';
-            body.style.backgroundAttachment = 'fixed';
-            
-            // Mostra o formulário após carregar
-            if (form) {
-                form.classList.add('loaded');
-            }
-            console.log('✅ Background com imagem carregado');
-        };
-        img.onerror = function() {
-            // Se a imagem não carregou, mantém o gradiente com #d83756
-            console.log('⚠️ Imagem não encontrada, usando gradiente #d83756');
-            body.style.background = 'linear-gradient(135deg, #d83756 0%, #c42a4a 100%)';
-            
-            // Mostra o formulário mesmo sem imagem
-            if (form) {
-                form.classList.add('loaded');
-            }
-        };
-        img.src = `../../images/background-mobile.jpg?v=${timestamp}`;
+        // Mostra o formulário após aplicar o background
+        if (form) {
+            form.classList.add('loaded');
+        }
     }
     
     // Função para mostrar formulário após carregamento

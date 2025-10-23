@@ -39,6 +39,9 @@ vendor/
 uploads/
 files/
 
+# Screenshots (manter no repositório para portfólio)
+# screenshots/
+
 # Arquivos de sessão PHP
 sess_*
 

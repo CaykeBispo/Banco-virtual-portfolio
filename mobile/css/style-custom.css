@@ -7,12 +7,11 @@
 
 body {
     font-family: 'Montserrat-Regular', sans-serif;
-    background: linear-gradient(135deg, #d83756 0%, #c42a4a 100%);
-    background-image: url('../../images/background-mobile.jpg?v=2.0'), linear-gradient(135deg, #d83756 0%, #c42a4a 100%);
-    background-repeat: no-repeat, no-repeat;
-    background-position: center center, center center;
-    background-size: cover, cover;
-    background-attachment: fixed, fixed;
+    background: linear-gradient(135deg, #0066cc 0%, #004499 100%);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
     color: #FFF;
     overflow-x: hidden;
     padding-bottom: 0;

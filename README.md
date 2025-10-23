@@ -1,156 +1,155 @@
-# 🏦 Banco Virtual - Sistema de Internet Banking
+# 🏦 Banco Virtual - Portfolio Website
 
-## 📋 Sobre o Projeto
+Um site de portfólio demonstrativo que simula a interface de um banco virtual moderno, desenvolvido com PHP, HTML, CSS e JavaScript.
 
-Este é um projeto de **demonstração** de um sistema de internet banking desenvolvido para fins **educacionais e de portfólio**. O sistema simula uma interface bancária completa com funcionalidades de login, autenticação, transações e gerenciamento de conta.
+## 🚀 **Demonstração Online**
 
-## ⚠️ Disclaimer
+**Acesse o site:** [Link do GitHub Pages ou Netlify]
 
-**Este projeto é apenas para fins educacionais e demonstração de habilidades de desenvolvimento.** Não possui conexão com nenhuma instituição financeira real e não deve ser usado para transações reais.
+## 📱 **Funcionalidades**
 
-## 🚀 Funcionalidades
+### **Versão Desktop**
+- Interface responsiva e moderna
+- Carousel de produtos e serviços
+- Menu lateral interativo
+- Paleta de cores azul profissional
+- Navegação intuitiva
 
-### 🔐 Sistema de Autenticação
-- Login com CPF e senha
-- Autenticação de dois fatores
-- Componente de segurança virtual
-- Geração de tokens de segurança
+### **Versão Mobile**
+- Design otimizado para dispositivos móveis
+- Interface touch-friendly
+- Menu hambúrguer
+- Formulários adaptados para mobile
+- Performance otimizada
 
-### 💳 Interface do Cliente
-- Dashboard personalizado
-- Visualização de saldo e extratos
-- Transferências bancárias
-- Pagamentos e boletos
-- Cartões de crédito e débito
+### **Recursos Técnicos**
+- Sistema de autenticação simulado
+- Validação de formulários
+- Teclado numérico virtual
+- Carregamento dinâmico de conteúdo
+- Compatibilidade cross-browser
 
-### 📱 Versão Mobile
-- Interface responsiva para dispositivos móveis
-- Funcionalidades adaptadas para touch
-- Design otimizado para smartphones
+## 🛠️ **Tecnologias Utilizadas**
 
-### 🎨 Temas e Personalização
-- Múltiplos temas (Classic, Prime, Private, Exclusive)
-- Interface personalizável
-- Suporte a diferentes tipos de conta
-
-## 🛠️ Tecnologias Utilizadas
-
-- **Frontend:** HTML5, CSS3, JavaScript (ES6+)
 - **Backend:** PHP 7.4+
-- **Banco de Dados:** SQLite
+- **Frontend:** HTML5, CSS3, JavaScript (ES6)
 - **Frameworks:** Bootstrap, jQuery
-- **Design:** CSS Grid, Flexbox, Responsive Design
+- **Ícones:** Font Awesome, SVG
+- **Responsividade:** CSS Grid, Flexbox
+- **Compatibilidade:** Chrome, Firefox, Safari, Edge
 
-## 📁 Estrutura do Projeto
+## 📁 **Estrutura do Projeto**
 
 ```
-htdocs/
+banco-virtual-portfolio/
+├── _admin/
+│   └── config.php          # Configurações e funções do backend
 ├── css/                    # Estilos CSS
+├── images/                 # Imagens e ícones
 ├── js/                     # Scripts JavaScript
-├── images/                 # Imagens e logos
 ├── mobile/                 # Versão mobile
-├── home.php               # Página inicial
-├── identificacao.php      # Página de login
-├── interna.php           # Dashboard principal
-├── fim.php               # Página de logout
-└── api.php              # API endpoints
+│   ├── css/
+│   ├── images/
+│   ├── js/
+│   └── *.php
+├── index.php              # Página inicial
+├── home.php               # Home desktop
+├── identificacao.php      # Tela de login
+├── validacao.php          # Validação de acesso
+└── README.md
 ```
 
-## 🚀 Como Executar
+## 🚀 **Como Executar Localmente**
 
-### Pré-requisitos
+### **Pré-requisitos**
+- XAMPP, WAMP ou servidor Apache
 - PHP 7.4 ou superior
-- Servidor web (Apache/Nginx)
-- SQLite (opcional)
+- Navegador web moderno
 
-### Instalação
-1. Clone o repositório
-2. Configure um servidor web local
-3. Acesse o projeto através do navegador
-4. Use as credenciais de demonstração
+### **Instalação**
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/SEU_USUARIO/banco-virtual-portfolio.git
+   ```
 
-### Credenciais de Teste
-- **CPF:** 123.456.789-00
-- **Senha:** 123456
-- **Token:** 123456
+2. Coloque os arquivos na pasta `htdocs` do XAMPP
 
-## 🎯 Funcionalidades Demonstradas
+3. Inicie o Apache no XAMPP
 
-### Interface do Usuário
-- ✅ Design responsivo e moderno
-- ✅ Navegação intuitiva
-- ✅ Formulários validados
-- ✅ Feedback visual para ações
+4. Acesse: `http://localhost/banco-virtual-portfolio`
 
-### Segurança
-- ✅ Validação de dados no frontend e backend
-- ✅ Sanitização de inputs
-- ✅ Proteção contra CSRF
-- ✅ Sessões seguras
+## 📸 **Screenshots**
 
-### Performance
-- ✅ Carregamento otimizado
-- ✅ Compressão de assets
-- ✅ Cache de recursos
-- ✅ Lazy loading de imagens
+### **Desktop**
+![Home Desktop](screenshots/desktop-home.png)
+*Interface principal da versão desktop*
 
-## 📱 Responsividade
+![Login Desktop](screenshots/desktop-login.png)
+*Tela de identificação desktop*
 
-O projeto foi desenvolvido com foco em responsividade, funcionando perfeitamente em:
-- 📱 Smartphones (320px+)
-- 📱 Tablets (768px+)
-- 💻 Desktops (1024px+)
-- 🖥️ Telas grandes (1440px+)
+### **Mobile**
+![Home Mobile](screenshots/mobile-home.png)
+*Interface mobile responsiva*
 
-## 🎨 Temas Disponíveis
+![Login Mobile](screenshots/mobile-login.png)
+*Tela de login mobile*
 
-- **Classic:** Tema padrão com cores vibrantes
-- **Prime:** Tema premium com azul corporativo
-- **Private:** Tema exclusivo para clientes VIP
-- **Exclusive:** Tema de luxo com gradientes
-- **Universitário:** Tema jovem e dinâmico
+## 🎨 **Design System**
 
-## 🔧 Personalização
+### **Paleta de Cores**
+- **Primária:** #0066cc (Azul principal)
+- **Secundária:** #004499 (Azul escuro)
+- **Acento:** #b3d9ff (Azul claro)
+- **Texto:** #333333 (Cinza escuro)
+- **Fundo:** #ffffff (Branco)
 
-### Cores e Branding
-- Todas as cores podem ser facilmente alteradas no CSS
-- Logos e imagens podem ser substituídas
-- Textos e conteúdo são facilmente editáveis
+### **Tipografia**
+- **Títulos:** Montserrat, sans-serif
+- **Corpo:** Arial, sans-serif
+- **Tamanhos:** 14px, 16px, 18px, 24px, 32px
 
-### Funcionalidades
-- Novas funcionalidades podem ser adicionadas
-- APIs podem ser integradas
-- Banco de dados pode ser expandido
+## 🔧 **Funcionalidades Implementadas**
 
-## 📊 Métricas do Projeto
+- ✅ **Responsividade** - Funciona em todos os dispositivos
+- ✅ **Validação de Formulários** - Campos obrigatórios e formatos
+- ✅ **Navegação Intuitiva** - Menu lateral e mobile
+- ✅ **Carregamento Dinâmico** - Conteúdo carregado via AJAX
+- ✅ **Sistema de Sessão** - Controle de acesso simulado
+- ✅ **Teclado Virtual** - Para dispositivos touch
+- ✅ **Otimização de Performance** - CSS e JS minificados
 
-- **Linhas de Código:** ~15.000+
-- **Arquivos:** 200+
-- **Tecnologias:** 8+
-- **Tempo de Desenvolvimento:** Demonstração
+## 📱 **Compatibilidade**
 
-## 🤝 Contribuições
+| Navegador | Desktop | Mobile |
+|-----------|---------|--------|
+| Chrome    | ✅      | ✅     |
+| Firefox   | ✅      | ✅     |
+| Safari    | ✅      | ✅     |
+| Edge      | ✅      | ✅     |
 
-Este projeto é para fins educacionais. Se você quiser contribuir com melhorias:
+## 🚀 **Deploy**
 
-1. Fork o projeto
-2. Crie uma branch para sua feature
-3. Commit suas mudanças
-4. Push para a branch
-5. Abra um Pull Request
+### **GitHub Pages**
+1. Ative o GitHub Pages nas configurações do repositório
+2. Selecione a branch `main`
+3. Acesse: `https://SEU_USUARIO.github.io/banco-virtual-portfolio`
 
-## 📄 Licença
+### **Netlify**
+1. Conecte o repositório ao Netlify
+2. Configure o build command: `php -S localhost:8000`
+3. Deploy automático a cada push
 
-Este projeto é de código aberto e está disponível sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
+## 📄 **Licença**
 
-## 👨‍💻 Desenvolvedor
+Este projeto é apenas para fins de portfólio e demonstração.
 
-Desenvolvido como projeto de portfólio para demonstração de habilidades em desenvolvimento web full-stack.
+## 👨‍💻 **Desenvolvedor**
 
-## 📞 Contato
-
-Para dúvidas sobre o projeto ou oportunidades de trabalho, entre em contato através do GitHub.
+**Seu Nome**
+- GitHub: [@seu_usuario](https://github.com/SEU_USUARIO)
+- LinkedIn: [Seu Perfil](https://linkedin.com/in/SEU_PERFIL)
+- Email: seu.email@exemplo.com
 
 ---
 
-**⚠️ Lembre-se: Este é um projeto de demonstração. Não use para transações reais!**
+**Desenvolvido com ❤️ para demonstrar habilidades em desenvolvimento web**

@@ -98,7 +98,7 @@ ini_set('display_errors', 1);
             'css/style-custom.css' => 'Estilos CSS',
             'js/cache-control.js' => 'Controlador de Cache',
             'js/background-manager.js' => 'Gerenciador de Background',
-            'images/background-mobile.jpg' => 'Background Principal'
+            'images/logo.png' => 'Logo Principal'
         ];
         
         echo '<div class="status info">';
