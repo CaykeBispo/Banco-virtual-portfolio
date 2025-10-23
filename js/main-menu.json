@@ -1,0 +1,3507 @@
+[
+    {
+        "NomeArea":"Produtos <span>e Serviços</span>",
+        "UrlArea":"/html/classic/produtos-servicos/index.shtm",
+        "ClassArea":"produtos-servicos",
+        "SubMenu":[
+            {
+                "NomeArea":"Capitalização <span>Pé Quente<span>",
+                "UrlArea":"/html/classic/produtos-servicos/capitalizacao/index.shtm",
+                "ClassArea":"capitalizacao 1",
+                "SubMenu":[
+                    {
+                        "NomeArea":"O que é Capitalização",
+                        "UrlArea":"/html/classic/produtos-servicos/capitalizacao/o-que-e-capitalizacao.shtm",
+                        "ClassArea":"o-que-e-capitalizacao"
+                    },
+                    {
+                        "NomeArea":"Encontre seu Título",
+                        "UrlArea":"/html/classic/produtos-servicos/capitalizacao/encontre-seu-titulo/index.shtm",
+                        "ClassArea":"encontre-seu-titulo"
+                    },
+                    {
+                        "NomeArea":"Resultados dos Sorteios",
+                        "UrlArea":"/html/classic/produtos-servicos/capitalizacao/resultados-de-sorteios.shtm",
+                        "ClassArea":"resultados-de-sorteios"
+                    },
+                    {
+                        "NomeArea":"Ganhadores",
+                        "UrlArea":"/html/classic/produtos-servicos/capitalizacao/ganhadores.shtm",
+                        "ClassArea":"ganhadores"
+                    },
+                    {
+                        "NomeArea":"Meus Títulos",
+                        "UrlArea":"/html/classic/produtos-servicos/capitalizacao/meus-titulos/index.shtm",
+                        "ClassArea":"meus-titulos",
+                        "SubMenu":[
+                            {
+                                "NomeArea":"Títulos Descontinuados",
+                                "UrlArea":"/html/classic/produtos-servicos/capitalizacao/meus-titulos/titulos-nao-comercializados.shtm",
+                                "ClassArea":"titulos-nao-comercializados"
+                            }
+                        ]
+                    }
+                ]
+			},
+			{
+					"NomeArea":"Câmbio",
+					"UrlArea":"/html/classic/produtos-servicos/cambio/index.shtm",
+					"ClassArea":"cambio",
+					"SubMenu":[
+						{
+							"NomeArea":"Cartão Pré-Pago em Moeda Estrangeira",
+							"UrlArea":"/html/classic/produtos-servicos/cambio/cartao-pre-pago.shtm",
+							"ClassArea":"cartao-pre-pago"
+						},
+						{
+							"NomeArea":"Moeda Estrangeira em Espécie",
+							"UrlArea":"/html/classic/produtos-servicos/cambio/moeda-estrangeira.shtm",
+							"ClassArea":"moeda-estrangeira"
+						},
+						{
+							"NomeArea":"Remessas Internacionais",
+							"UrlArea":"/html/classic/produtos-servicos/cambio/remessas-internacionais/index.shtm",
+							"ClassArea":"remessas-internacionais",
+							"SubMenu": [
+								{
+									"NomeArea": "Remessa pelo Internet Banking",
+									"UrlArea": "/html/classic/produtos-servicos/cambio/remessas-internacionais/internet-banking.shtm",
+									"ClassArea": "remessa-pelo-internet-banking"
+								},
+								{
+									"NomeArea": "Mesa de Câmbio Pessoa Física",
+									"UrlArea": "/html/classic/produtos-servicos/cambio/remessas-internacionais/mesa-de-cambio.shtm",
+									"ClassArea": "mesa-de-cambio"
+								},
+								{
+									"NomeArea": "Canal Bancário",
+									"UrlArea": "/html/classic/produtos-servicos/cambio/remessas-internacionais/canal-bancario.shtm",
+									"ClassArea": "canal-bancario"
+								},
+								{
+									"NomeArea": "Google Adsense",
+									"UrlArea": "/html/classic/produtos-servicos/cambio/remessas-internacionais/google-adsense.shtm",
+									"ClassArea": "google-adsense"
+								},
+								{
+									"NomeArea": "Western Union",
+									"UrlArea": "/html/classic/produtos-servicos/cambio/remessas-internacionais/western-union.shtm",
+									"ClassArea": "western-union"
+								},
+								{
+									"NomeArea": "Convênios",
+									"UrlArea": "/html/classic/produtos-servicos/cambio/remessas-internacionais/convenios.shtm",
+									"ClassArea": "convenios"
+								},
+								{
+									"NomeArea": "Remessa pelo APP Bradesco",
+									"UrlArea": "/html/classic/produtos-servicos/cambio/remessas-internacionais/remessa-app.shtm",
+									"ClassArea": "remessa-app"
+								}
+							]
+						},
+						{
+							"NomeArea":"Atestado de Idoneidade e Capacidade Financeira",
+							"UrlArea":"/html/classic/produtos-servicos/cambio/atestado-de-idoneidade-e-capacidade-financeira.shtm",
+							"ClassArea":"atestado-de-idoneidade-e-capacidade-financeira"
+						}
+					]
+			},
+			{
+                "NomeArea":"Cartões",
+                "UrlArea":"/html/classic/produtos-servicos/cartoes/index.shtm",
+                "ClassArea":"cartoes 1",
+                "SubMenu":[
+                    {
+                        "NomeArea":"Conheça os Cartões",
+                        "UrlArea":"/html/classic/produtos-servicos/cartoes/conheca-os-cartoes/index.shtm",
+                        "ClassArea":"conheca-os-cartoes"
+                    },
+                    {
+                      "NomeArea":"Débito",
+                      "UrlArea":"/debito/index.shtm",
+                      "ClassArea":"debito"
+                    },
+                    {
+                        "NomeArea":"Peça seu Cartão",
+                        "UrlArea":"https://banco.bradesco/soliciteseucartao?OrigeVda=913&PtoVda=001&TpoPto=3&Campa=913",
+                        "ClassArea":"peca-seu-cartao"
+                    },
+          {
+            "NomeArea": "Guia Digital",
+            "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/escolha-seu-cartao.shtm",
+            "ClassArea": "meu-cartao",
+            "SubMenu": [
+              {
+                "NomeArea": "Bradesco Visa Básico",
+                "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-visa-basico/meu-cartao.shtm",
+                "ClassArea": "bradesco-visa-basico",
+                "SubMenu": [
+                  {
+                    "NomeArea": "Benefícios e Serviços",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-visa-basico/beneficios.shtm",
+                    "ClassArea": "beneficios"
+                  },
+                  {
+                    "NomeArea": "Segurança",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-visa-basico/seguranca.shtm",
+                    "ClassArea": "seguranca"
+                  },
+                  {
+                    "NomeArea": "Soluções de Pagamento",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-visa-basico/solucoes-de-pagamento.shtm",
+                    "ClassArea": "solucoes-de-pagamento"
+                  },
+                  {
+                    "NomeArea": "Seguros e Assistências",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-visa-basico/seguros-e-assistencias.shtm",
+                    "ClassArea": "seguros-e-assistencias"
+                  },
+                  {
+                    "NomeArea": "Promoções e Ofertas",
+                    "UrlArea": "/cartoes/ofertasebeneficios/",
+                    "ClassArea": "promocoes-e-ofertas"
+                  }
+                ]
+              },
+              {
+                "NomeArea": "Bradesco Elo Nacional - Função Crédito",
+                "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-elo-nacional-credito/meu-cartao.shtm",
+                "ClassArea": "bradesco-elo-nacional-credito",
+                "SubMenu": [
+                  {
+                    "NomeArea": "Benefícios e Serviços",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-elo-nacional-credito/beneficios.shtm",
+                    "ClassArea": "beneficios"
+                  },
+                  {
+                    "NomeArea": "Segurança",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-elo-nacional-credito/seguranca.shtm",
+                    "ClassArea": "seguranca"
+                  },
+                  {
+                    "NomeArea": "Soluções de Pagamento",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-elo-nacional-credito/solucoes-de-pagamento.shtm",
+                    "ClassArea": "solucoes-de-pagamento"
+                  },
+                  {
+                    "NomeArea": "Seguros e Assistências",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-elo-nacional-credito/seguros-e-assistencias.shtm",
+                    "ClassArea": "seguros-e-assistencias"
+                  },
+                  {
+                    "NomeArea": "Promoções e Ofertas",
+                    "UrlArea": "/cartoes/ofertasebeneficios/",
+                    "ClassArea": "promocoes-e-ofertas"
+                  }
+                ]
+              },
+             
+              {
+                "NomeArea": "Bradesco Visa Internacional",
+                "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-visa-internacional/meu-cartao.shtm",
+                "ClassArea": "bradesco-visa-internacional",
+                "SubMenu": [
+                  {
+                    "NomeArea": "Benefícios e Serviços",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-visa-internacional/beneficios.shtm",
+                    "ClassArea": "beneficios"
+                  },
+                  {
+                    "NomeArea": "Segurança",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-visa-internacional/seguranca.shtm",
+                    "ClassArea": "seguranca"
+                  },
+                  {
+                    "NomeArea": "Soluções de Pagamento",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-visa-internacional/solucoes-de-pagamento.shtm",
+                    "ClassArea": "solucoes-de-pagamento"
+                  },
+                  {
+                    "NomeArea": "Seguros e Assistências",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-visa-internacional/seguros-e-assistencias.shtm",
+                    "ClassArea": "seguros-e-assistencias"
+                  },
+                  {
+                    "NomeArea": "Promoções e Ofertas",
+                    "UrlArea": "/cartoes/ofertasebeneficios/",
+                    "ClassArea": "promocoes-e-ofertas"
+                  }
+                ]
+              },
+              {
+                "NomeArea": "Bradesco Mastercard® Internacional",
+                "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-mastercard-internacional/meu-cartao.shtm",
+                "ClassArea": "bradesco-mastercard-internacional",
+                "SubMenu": [
+                  {
+                    "NomeArea": "Benefícios e Serviços",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-mastercard-internacional/beneficios.shtm",
+                    "ClassArea": "beneficios"
+                  },
+                  {
+                    "NomeArea": "Segurança",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-mastercard-internacional/seguranca.shtm",
+                    "ClassArea": "seguranca"
+                  },
+                  {
+                    "NomeArea": "Soluções de Pagamento",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-mastercard-internacional/solucoes-de-pagamento.shtm",
+                    "ClassArea": "solucoes-de-pagamento"
+                  },
+                  {
+                    "NomeArea": "Seguros e Assistências",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-mastercard-internacional/seguros-e-assistencias.shtm",
+                    "ClassArea": "seguros-e-assistencias"
+                  },
+                  {
+                    "NomeArea": "Promoções e Ofertas",
+                    "UrlArea": "/cartoes/ofertasebeneficios/",
+                    "ClassArea": "promocoes-e-ofertas"
+                  }
+                ]
+              },
+			  {
+                "NomeArea": "Bradesco Elo Mais Nacional",
+                "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-elo-mais-nacional/meu-cartao.shtm",
+                "ClassArea": "bradesco-elo-mais-nacional",
+                "SubMenu": [
+                  {
+                    "NomeArea": "Benefícios e Serviços",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-elo-mais-nacional/beneficios.shtm",
+                    "ClassArea": "beneficios"
+                  },
+                  {
+                    "NomeArea": "Segurança",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-elo-mais-nacional/seguranca.shtm",
+                    "ClassArea": "seguranca"
+                  },
+                  {
+                    "NomeArea": "Soluções de Pagamento",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-elo-mais-nacional/solucoes-de-pagamento.shtm",
+                    "ClassArea": "solucoes-de-pagamento"
+                  },
+                  {
+                    "NomeArea": "Seguros e Assistências",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-elo-mais-nacional/seguros-e-assistencias.shtm",
+                    "ClassArea": "seguros-e-assistencias"
+                  },
+                  {
+                    "NomeArea": "Promoções e Ofertas",
+                    "UrlArea": "/cartoes/ofertasebeneficios/",
+                    "ClassArea": "promocoes-e-ofertas"
+                  }
+                ]
+              },
+            {
+              "NomeArea": "Consignado INSS Elo Internacional",
+              "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/consignado-inss-elo-internacional/meu-cartao.shtm",
+              "ClassArea": "consignado-inss-elo-internacional",
+              "SubMenu": [
+                {
+                  "NomeArea": "Benefícios e Serviços",
+                  "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/consignado-inss-elo-internacional/beneficios.shtm",
+                  "ClassArea": "beneficios"
+                },
+                {
+                  "NomeArea": "Segurança",
+                  "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/consignado-inss-elo-internacional/seguranca.shtm",
+                  "ClassArea": "seguranca"
+                },
+                {
+                  "NomeArea": "Soluções de Pagamento",
+                  "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/consignado-inss-elo-internacional/solucoes-de-pagamento.shtm",
+                  "ClassArea": "solucoes-de-pagamento"
+                },
+                {
+                  "NomeArea": "Seguros e Assistências",
+                  "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/consignado-inss-elo-internacional/seguros-e-assistencias.shtm",
+                  "ClassArea": "seguros-e-assistencias"
+                },
+                {
+                  "NomeArea": "Promoções e Ofertas",
+                  "UrlArea": "/cartoes/ofertasebeneficios/",
+                  "ClassArea": "promocoes-e-ofertas"
+                }
+              ]
+            },
+            {
+              "NomeArea": "Consignado INSS Elo Nacional",
+              "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/consignado-inss-elo-nacional/meu-cartao.shtm",
+              "ClassArea": "consignado-inss-elo-nacional",
+              "SubMenu": [
+                {
+                  "NomeArea": "Benefícios e Serviços",
+                  "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/consignado-inss-elo-nacional/beneficios.shtm",
+                  "ClassArea": "beneficios"
+                },
+                {
+                  "NomeArea": "Segurança",
+                  "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/consignado-inss-elo-nacional/seguranca.shtm",
+                  "ClassArea": "seguranca"
+                },
+                {
+                  "NomeArea": "Soluções de Pagamento",
+                  "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/consignado-inss-elo-nacional/solucoes-de-pagamento.shtm",
+                  "ClassArea": "solucoes-de-pagamento"
+                },
+                {
+                  "NomeArea": "Seguros e Assistências",
+                  "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/consignado-inss-elo-nacional/seguros-e-assistencias.shtm",
+                  "ClassArea": "seguros-e-assistencias"
+                },
+                {
+                  "NomeArea": "Promoções e Ofertas",
+                  "UrlArea": "/cartoes/ofertasebeneficios/",
+                  "ClassArea": "promocoes-e-ofertas"
+                }
+              ]
+            },
+			      {
+                "NomeArea": "Bradesco Elo Nacional",
+                "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-elo-nacional/meu-cartao.shtm",
+                "ClassArea": "bradesco-elo-nacional",
+                "SubMenu": [
+                  {
+                    "NomeArea": "Benefícios e Serviços",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-elo-nacional/beneficios.shtm",
+                    "ClassArea": "beneficios"
+                  },
+                  {
+                    "NomeArea": "Segurança",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-elo-nacional/seguranca.shtm",
+                    "ClassArea": "seguranca"
+                  },
+                  {
+                    "NomeArea": "Soluções de Pagamento",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-elo-nacional/solucoes-de-pagamento.shtm",
+                    "ClassArea": "solucoes-de-pagamento"
+                  },
+                  {
+                    "NomeArea": "Seguros e Assistências",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-elo-nacional/seguros-e-assistencias.shtm",
+                    "ClassArea": "seguros-e-assistencias"
+                  },
+                  {
+                    "NomeArea": "Promoções e Ofertas",
+                    "UrlArea": "/cartoes/ofertasebeneficios/",
+                    "ClassArea": "promocoes-e-ofertas"
+                  }
+                ]
+              },
+              {
+                "NomeArea": "Bradesco Seguros Elo Nacional",
+                "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-seguros-elo-nacional/meu-cartao.shtm",
+                "ClassArea": "bradesco-seguros-elo-nacional",
+                "SubMenu": [
+                  {
+                    "NomeArea": "Benefícios e Serviços",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-seguros-elo-nacional/beneficios.shtm",
+                    "ClassArea": "beneficios"
+                  },
+                  {
+                    "NomeArea": "Segurança",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-seguros-elo-nacional/seguranca.shtm",
+                    "ClassArea": "seguranca"
+                  },
+                  {
+                    "NomeArea": "Soluções de Pagamento",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-seguros-elo-nacional/solucoes-de-pagamento.shtm",
+                    "ClassArea": "solucoes-de-pagamento"
+                  },
+                  {
+                    "NomeArea": "Seguros e Assistências",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-seguros-elo-nacional/seguros-e-assistencias.shtm",
+                    "ClassArea": "seguros-e-assistencias"
+                  },
+                  {
+                    "NomeArea": "Promoções e Ofertas",
+                    "UrlArea": "/cartoes/ofertasebeneficios/",
+                    "ClassArea": "promocoes-e-ofertas"
+                  }
+                ]
+              },
+			       {
+                "NomeArea": "Bradesco Elo Plus Nacional",
+                "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-elo-plus-nacional/meu-cartao.shtm",
+                "ClassArea": "bradesco-elo-plus-nacional",
+                "SubMenu": [
+                  {
+                    "NomeArea": "Benefícios e Serviços",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-elo-plus-nacional/beneficios.shtm",
+                    "ClassArea": "beneficios"
+                  },
+                  {
+                    "NomeArea": "Segurança",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-elo-plus-nacional/seguranca.shtm",
+                    "ClassArea": "seguranca"
+                  },
+                  {
+                    "NomeArea": "Soluções de Pagamento",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-elo-plus-nacional/solucoes-de-pagamento.shtm",
+                    "ClassArea": "solucoes-de-pagamento"
+                  },
+                  {
+                    "NomeArea": "Seguros e Assistências",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-elo-plus-nacional/seguros-e-assistencias.shtm",
+                    "ClassArea": "seguros-e-assistencias"
+                  },
+                  {
+                    "NomeArea": "Promoções e Ofertas",
+                    "UrlArea": "/cartoes/ofertasebeneficios/",
+                    "ClassArea": "promocoes-e-ofertas"
+                  }
+                ]
+              },
+			  {
+                "NomeArea": "Bradesco Mastercard® Nacional",
+                "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-mastercard-nacional/meu-cartao.shtm",
+                "ClassArea": "bradesco-mastercard-nacional",
+                "SubMenu": [
+                  {
+                    "NomeArea": "Benefícios e Serviços",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-mastercard-nacional/beneficios.shtm",
+                    "ClassArea": "beneficios"
+                  },
+                  {
+                    "NomeArea": "Segurança",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-mastercard-nacional/seguranca.shtm",
+                    "ClassArea": "seguranca"
+                  },
+                  {
+                    "NomeArea": "Soluções de Pagamento",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-mastercard-nacional/solucoes-de-pagamento.shtm",
+                    "ClassArea": "solucoes-de-pagamento"
+                  },
+                  {
+                    "NomeArea": "Seguros e Assistências",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-mastercard-nacional/seguros-e-assistencias.shtm",
+                    "ClassArea": "seguros-e-assistencias"
+                  },
+                  {
+                    "NomeArea": "Promoções e Ofertas",
+                    "UrlArea": "/cartoes/ofertasebeneficios/",
+                    "ClassArea": "promocoes-e-ofertas"
+                  }
+                ]
+              },
+			  {
+                "NomeArea": "Bradesco Visa Nacional",
+                "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-visa-nacional/meu-cartao.shtm",
+                "ClassArea": "bradesco-visa-nacional",
+                "SubMenu": [
+                  {
+                    "NomeArea": "Benefícios e Serviços",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-visa-nacional/beneficios.shtm",
+                    "ClassArea": "beneficios"
+                  },
+                  {
+                    "NomeArea": "Segurança",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-visa-nacional/seguranca.shtm",
+                    "ClassArea": "seguranca"
+                  },
+                  {
+                    "NomeArea": "Soluções de Pagamento",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-visa-nacional/solucoes-de-pagamento.shtm",
+                    "ClassArea": "solucoes-de-pagamento"
+                  },
+                  {
+                    "NomeArea": "Seguros e Assistências",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-visa-nacional/seguros-e-assistencias.shtm",
+                    "ClassArea": "seguros-e-assistencias"
+                  },
+                  {
+                    "NomeArea": "Promoções e Ofertas",
+                    "UrlArea": "/cartoes/ofertasebeneficios/",
+                    "ClassArea": "promocoes-e-ofertas"
+                  }
+                ]
+              },
+			  {
+                "NomeArea": "Bradesco AACD Visa Nacional",
+                "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-aacd-visa-nacional/meu-cartao.shtm",
+                "ClassArea": "bradesco-aacd-visa-nacional",
+                "SubMenu": [
+                  {
+                    "NomeArea": "Benefícios e Serviços",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-aacd-visa-nacional/beneficios.shtm",
+                    "ClassArea": "beneficios"
+                  },
+                  {
+                    "NomeArea": "Segurança",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-aacd-visa-nacional/seguranca.shtm",
+                    "ClassArea": "seguranca"
+                  },
+                  {
+                    "NomeArea": "Soluções de Pagamento",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-aacd-visa-nacional/solucoes-de-pagamento.shtm",
+                    "ClassArea": "solucoes-de-pagamento"
+                  },
+                  {
+                    "NomeArea": "Seguros e Assistências",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-aacd-visa-nacional/seguros-e-assistencias.shtm",
+                    "ClassArea": "seguros-e-assistencias"
+                  },
+                  {
+                    "NomeArea": "Promoções e Ofertas",
+                    "UrlArea": "/cartoes/ofertasebeneficios/",
+                    "ClassArea": "promocoes-e-ofertas"
+                  }
+                ]
+              },
+			  {
+                "NomeArea": "Bradesco AACD Visa Internacional",
+                "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-aacd-visa-internacional/meu-cartao.shtm",
+                "ClassArea": "bradesco-aacd-visa-internacional",
+                "SubMenu": [
+                  {
+                    "NomeArea": "Benefícios e Serviços",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-aacd-visa-internacional/beneficios.shtm",
+                    "ClassArea": "beneficios"
+                  },
+                  {
+                    "NomeArea": "Segurança",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-aacd-visa-internacional/seguranca.shtm",
+                    "ClassArea": "seguranca"
+                  },
+                  {
+                    "NomeArea": "Soluções de Pagamento",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-aacd-visa-internacional/solucoes-de-pagamento.shtm",
+                    "ClassArea": "solucoes-de-pagamento"
+                  },
+                  {
+                    "NomeArea": "Seguros e Assistências",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-aacd-visa-internacional/seguros-e-assistencias.shtm",
+                    "ClassArea": "seguros-e-assistencias"
+                  },
+                  {
+                    "NomeArea": "Promoções e Ofertas",
+                    "UrlArea": "/cartoes/ofertasebeneficios/",
+                    "ClassArea": "promocoes-e-ofertas"
+                  }
+                ]
+              },
+              {
+                "NomeArea": "Bradesco Smiles Visa Gold",
+                "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-smiles-gold/smiles-brad-visa-gold-meucartao.shtm",
+                "ClassArea": "bradesco-smiles-gold",
+                "SubMenu": [
+                  {
+                    "NomeArea": "Benefícios e Serviços",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-smiles-gold/smiles-brad-visa-gold-beneficios.shtm",
+                    "ClassArea": "beneficios"
+                  },
+                  {
+                    "NomeArea": "Segurança",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-smiles-gold/smiles-brad-visa-gold-seguranca.shtm",
+                    "ClassArea": "seguranca"
+                  },
+                  {
+                    "NomeArea": "Soluções de Pagamento",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-smiles-gold/smiles-brad-visa-gold-solucoes-de-pagamento.shtm",
+                    "ClassArea": "solucoes-de-pagamento"
+                  },
+                  {
+                    "NomeArea": "Seguros e Assistências",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-smiles-gold/smiles-brad-visa-gold-seguros-e-assistencias.shtm",
+                    "ClassArea": "seguros-e-assistencias"
+                  },
+                  {
+                    "NomeArea": "Promoções e Ofertas",
+                    "UrlArea": "/cartoes/ofertasebeneficios/",
+                    "ClassArea": "promocoes-e-ofertas"
+                  }
+                ]
+              },
+              {
+                "NomeArea": "Bradesco Smiles Visa Internacional",
+                "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-smiles-internacional/smiles-brad-visa-internacional-meucartao.shtm",
+                "ClassArea": "bradesco-smiles-internacional",
+                "SubMenu": [
+                  {
+                    "NomeArea": "Benefícios e Serviços",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-smiles-internacional/smiles-brad-visa-internacional-beneficios.shtm",
+                    "ClassArea": "beneficios"
+                  },
+                  {
+                    "NomeArea": "Segurança",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-smiles-internacional/smiles-brad-visa-internacional-seguranca.shtm",
+                    "ClassArea": "seguranca"
+                  },
+                  {
+                    "NomeArea": "Soluções de Pagamento",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-smiles-internacional/smiles-brad-visa-internacional-solucoes-de-pagamento.shtm",
+                    "ClassArea": "solucoes-de-pagamento"
+                  },
+                  {
+                    "NomeArea": "Seguros e Assistências",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-smiles-internacional/smiles-brad-visa-internacional-seguros-e-assistencias.shtm",
+                    "ClassArea": "seguros-e-assistencias"
+                  },
+                  {
+                    "NomeArea": "Promoções e Ofertas",
+                    "UrlArea": "/cartoes/ofertasebeneficios/",
+                    "ClassArea": "promocoes-e-ofertas"
+                  }
+                ]
+              },
+
+              {
+                "NomeArea": "Bradesco Smiles Visa Platinum",
+                "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-smiles-platinum/smiles-brad-visa-platinum-meucartao.shtm",
+                "ClassArea": "bradesco-smiles-platinum",
+                "SubMenu": [
+                  {
+                    "NomeArea": "Benefícios e Serviços",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-smiles-platinum/smiles-brad-visa-platinum-beneficios.shtm",
+                    "ClassArea": "beneficios"
+                  },
+                  {
+                    "NomeArea": "Segurança",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-smiles-platinum/smiles-brad-visa-platinum-seguranca.shtm",
+                    "ClassArea": "seguranca"
+                  },
+                  {
+                    "NomeArea": "Soluções de Pagamento",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-smiles-platinum/smiles-brad-visa-platinum-solucoes-de-pagamento.shtm",
+                    "ClassArea": "solucoes-de-pagamento"
+                  },
+                  {
+                    "NomeArea": "Seguros e Assistências",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-smiles-platinum/smiles-brad-visa-platinum-seguros-e-assistencias.shtm",
+                    "ClassArea": "seguros-e-assistencias"
+                  },
+                  {
+                    "NomeArea": "Promoções e Ofertas",
+                    "UrlArea": "/cartoes/ofertasebeneficios/",
+                    "ClassArea": "promocoes-e-ofertas"
+                  }
+                ]
+              },
+              {
+                "NomeArea": "Bradesco Smiles Visa Infinite",
+                "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-smiles-infinite/smiles-brad-visa-infinite-meucartao.shtm",
+                "ClassArea": "bradesco-smiles-infinite",
+                "SubMenu": [
+                  {
+                    "NomeArea": "Benefícios e Serviços",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-smiles-infinite/smiles-brad-visa-infinite-beneficios.shtm",
+                    "ClassArea": "beneficios"
+                  },
+                  {
+                    "NomeArea": "Segurança",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-smiles-infinite/smiles-brad-visa-infinite-seguranca.shtm",
+                    "ClassArea": "seguranca"
+                  },
+                  {
+                    "NomeArea": "Soluções de Pagamento",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-smiles-infinite/smiles-brad-visa-infinite-solucoes-de-pagamento.shtm",
+                    "ClassArea": "solucoes-de-pagamento"
+                  },
+                  {
+                    "NomeArea": "Seguros e Assistências",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-smiles-infinite/smiles-brad-visa-infinite-seguros-e-assistencias.shtm",
+                    "ClassArea": "seguros-e-assistencias"
+                  },
+                  {
+                    "NomeArea": "Promoções e Ofertas",
+                    "UrlArea": "/cartoes/ofertasebeneficios/",
+                    "ClassArea": "promocoes-e-ofertas"
+                  }
+                ]
+              },
+              {
+                "NomeArea": "Bradesco Smiles Mastercard® Internacional",
+                "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/brades-smiles-mastercard-international/meu-cartao.shtm",
+                "ClassArea": "brades-smiles-mastercard-international",
+                "SubMenu": [
+                  {
+                    "NomeArea": "Benefícios e Serviços",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/brades-smiles-mastercard-international/beneficios.shtm",
+                    "ClassArea": "beneficios"
+                  },
+                  {
+                    "NomeArea": "Segurança",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/brades-smiles-mastercard-international/seguranca.shtm",
+                    "ClassArea": "seguranca"
+                  },
+                  {
+                    "NomeArea": "Soluções de Pagamento",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/brades-smiles-mastercard-international/solucoes-de-pagamento.shtm",
+                    "ClassArea": "solucoes-de-pagamento"
+                  },
+                  {
+                    "NomeArea": "Seguros e Assistências",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/brades-smiles-mastercard-international/seguros-e-assistencias.shtm",
+                    "ClassArea": "seguros-e-assistencias"
+                  },
+                  {
+                    "NomeArea": "Promoções e Ofertas",
+                    "UrlArea": "/cartoes/ofertasebeneficios/",
+                    "ClassArea": "promocoes-e-ofertas"
+                  }
+                ]
+              },
+              {
+                "NomeArea": "Bradesco Smiles Mastercard® Gold",
+                "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-smiles-mastercard-gold/meu-cartao.shtm",
+                "ClassArea": "bradesco-smiles-mastercard-gold",
+                "SubMenu": [
+                  {
+                    "NomeArea": "Benefícios e Serviços",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-smiles-mastercard-gold/beneficios.shtm",
+                    "ClassArea": "beneficios"
+                  },
+                  {
+                    "NomeArea": "Segurança",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-smiles-mastercard-gold/seguranca.shtm",
+                    "ClassArea": "seguranca"
+                  },
+                  {
+                    "NomeArea": "Soluções de Pagamento",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-smiles-mastercard-gold/solucoes-de-pagamento.shtm",
+                    "ClassArea": "solucoes-de-pagamento"
+                  },
+                  {
+                    "NomeArea": "Seguros e Assistências",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-smiles-mastercard-gold/seguros-e-assistencias.shtm",
+                    "ClassArea": "seguros-e-assistencias"
+                  },
+                  {
+                    "NomeArea": "Promoções e Ofertas",
+                    "UrlArea": "/cartoes/ofertasebeneficios/",
+                    "ClassArea": "promocoes-e-ofertas"
+                  }
+                ]
+              },
+              {
+                "NomeArea": "Bradesco Smiles Mastercard® Platinum",
+                "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-smiles-mastercard-platinum/meu-cartao.shtm",
+                "ClassArea": "bradesco-smiles-mastercard-platinum",
+                "SubMenu": [
+                  {
+                    "NomeArea": "Benefícios e Serviços",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-smiles-mastercard-platinum/beneficios.shtm",
+                    "ClassArea": "beneficios"
+                  },
+                  {
+                    "NomeArea": "Segurança",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-smiles-mastercard-platinum/seguranca.shtm",
+                    "ClassArea": "seguranca"
+                  },
+                  {
+                    "NomeArea": "Soluções de Pagamento",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-smiles-mastercard-platinum/solucoes-de-pagamento.shtm",
+                    "ClassArea": "solucoes-de-pagamento"
+                  },
+                  {
+                    "NomeArea": "Seguros e Assistências",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-smiles-mastercard-platinum/seguros-e-assistencias.shtm",
+                    "ClassArea": "seguros-e-assistencias"
+                  },
+                  {
+                    "NomeArea": "Promoções e Ofertas",
+                    "UrlArea": "/cartoes/ofertasebeneficios/",
+                    "ClassArea": "promocoes-e-ofertas"
+                  }
+                ]
+              },
+              {
+                "NomeArea": "Bradesco Harley-Davidson® Visa Gold",
+                "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-harley-davidson-visa-gold/meu-cartao.shtm",
+                "ClassArea": "bradesco-harley-davidson-visa-gold",
+                "SubMenu": [
+                  {
+                    "NomeArea": "Benefícios e Serviços",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-harley-davidson-visa-gold/beneficios.shtm",
+                    "ClassArea": "beneficios"
+                  },
+                  {
+                    "NomeArea": "Segurança",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-harley-davidson-visa-gold/seguranca.shtm",
+                    "ClassArea": "seguranca"
+                  },
+                  {
+                    "NomeArea": "Soluções de Pagamento",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-harley-davidson-visa-gold/solucoes-de-pagamento.shtm",
+                    "ClassArea": "solucoes-de-pagamento"
+                  },
+                  {
+                    "NomeArea": "Seguros e Assistências",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-harley-davidson-visa-gold/seguros-e-assistencias.shtm",
+                    "ClassArea": "seguros-e-assistencias"
+                  },
+                  {
+                    "NomeArea": "Promoções e Ofertas",
+                    "UrlArea": "/cartoes/ofertasebeneficios/",
+                    "ClassArea": "promocoes-e-ofertas"
+                  }
+                ]
+              },
+              {
+                "NomeArea": "Bradesco Harley-Davidson® Visa Platinum",
+                "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-harley-davidson-visa-platinum/meu-cartao.shtm",
+                "ClassArea": "bradesco-harley-davidson-visa-platinum",
+                "SubMenu": [
+                  {
+                    "NomeArea": "Benefícios e Serviços",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-harley-davidson-visa-platinum/beneficios.shtm",
+                    "ClassArea": "beneficios"
+                  },
+                  {
+                    "NomeArea": "Segurança",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-harley-davidson-visa-platinum/seguranca.shtm",
+                    "ClassArea": "seguranca"
+                  },
+                  {
+                    "NomeArea": "Soluções de Pagamento",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-harley-davidson-visa-platinum/solucoes-de-pagamento.shtm",
+                    "ClassArea": "solucoes-de-pagamento"
+                  },
+                  {
+                    "NomeArea": "Seguros e Assistências",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-harley-davidson-visa-platinum/seguros-e-assistencias.shtm",
+                    "ClassArea": "seguros-e-assistencias"
+                  },
+                  {
+                    "NomeArea": "Promoções e Ofertas",
+                    "UrlArea": "/cartoes/ofertasebeneficios/",
+                    "ClassArea": "promocoes-e-ofertas"
+                  }
+                ]
+              },
+              {
+                "NomeArea": "Bradesco Visa Gold",
+                "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-visa-gold/meu-cartao.shtm",
+                "ClassArea": "bradesco-visa-gold",
+                "SubMenu": [
+                  {
+                    "NomeArea": "Benefícios e Serviços",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-visa-gold/beneficios.shtm",
+                    "ClassArea": "beneficios"
+                  },
+                  {
+                    "NomeArea": "Segurança",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-visa-gold/seguranca.shtm",
+                    "ClassArea": "seguranca"
+                  },
+                  {
+                    "NomeArea": "Soluções de Pagamento",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-visa-gold/solucoes-de-pagamento.shtm",
+                    "ClassArea": "solucoes-de-pagamento"
+                  },
+                  {
+                    "NomeArea": "Seguros e Assistências",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-visa-gold/seguros-e-assistencias.shtm",
+                    "ClassArea": "seguros-e-assistencias"
+                  },
+                  {
+                    "NomeArea": "Promoções e Ofertas",
+                    "UrlArea": "/cartoes/ofertasebeneficios/",
+                    "ClassArea": "promocoes-e-ofertas"
+                  }
+                ]
+              },
+              {
+                "NomeArea": "Bradesco Visa Infinite",
+                "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-visa-infinite/meu-cartao.shtm",
+                "ClassArea": "bradesco-visa-infinite",
+                "SubMenu": [
+                  {
+                    "NomeArea": "Benefícios e Serviços",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-visa-infinite/beneficios.shtm",
+                    "ClassArea": "beneficios"
+                  },
+                  {
+                    "NomeArea": "Segurança",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-visa-infinite/seguranca.shtm",
+                    "ClassArea": "seguranca"
+                  },
+                  {
+                    "NomeArea": "Soluções de Pagamento",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-visa-infinite/solucoes-de-pagamento.shtm",
+                    "ClassArea": "solucoes-de-pagamento"
+                  },
+                  {
+                    "NomeArea": "Seguros e Assistências",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-visa-infinite/seguros-e-assistencias.shtm",
+                    "ClassArea": "seguros-e-assistencias"
+                  },
+                  {
+                    "NomeArea": "Promoções e Ofertas",
+                    "UrlArea": "/cartoes/ofertasebeneficios/",
+                    "ClassArea": "promocoes-e-ofertas"
+                  }
+                ]
+              },
+              {
+                "NomeArea": "Bradesco MasterCard Black",
+                "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-mastercard-black/meu-cartao.shtm",
+                "ClassArea": "bradesco-mastercard-black",
+                "SubMenu": [
+                  {
+                    "NomeArea": "Benefícios e Serviços",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-mastercard-black/beneficios.shtm",
+                    "ClassArea": "beneficios"
+                  },
+                  {
+                    "NomeArea": "Segurança",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-mastercard-black/seguranca.shtm",
+                    "ClassArea": "seguranca"
+                  },
+                  {
+                    "NomeArea": "Soluções de Pagamento",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-mastercard-black/solucoes-de-pagamento.shtm",
+                    "ClassArea": "solucoes-de-pagamento"
+                  },
+                  {
+                    "NomeArea": "Seguros e Assistências",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-mastercard-black/seguros-e-assistencias.shtm",
+                    "ClassArea": "seguros-e-assistencias"
+                  },
+                  {
+                    "NomeArea": "Promoções e Ofertas",
+                    "UrlArea": "/cartoes/ofertasebeneficios/",
+                    "ClassArea": "promocoes-e-ofertas"
+                  }
+                ]
+              },
+              {
+                "NomeArea": "Bradesco Elo Internacional",
+                "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-elo-internacional/meu-cartao.shtm",
+                "ClassArea": "bradesco-elo-internacional",
+                "SubMenu": [
+                  {
+                    "NomeArea": "Benefícios e Serviços",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-elo-internacional/beneficios.shtm",
+                    "ClassArea": "beneficios"
+                  },
+                  {
+                    "NomeArea": "Segurança",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-elo-internacional/seguranca.shtm",
+                    "ClassArea": "seguranca"
+                  },
+                  {
+                    "NomeArea": "Soluções de Pagamento",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-elo-internacional/solucoes-de-pagamento.shtm",
+                    "ClassArea": "solucoes-de-pagamento"
+                  },
+                  {
+                    "NomeArea": "Seguros e Assistências",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-elo-internacional/seguros-e-assistencias.shtm",
+                    "ClassArea": "seguros-e-assistencias"
+                  },
+                  {
+                    "NomeArea": "Promoções e Ofertas",
+                    "UrlArea": "/cartoes/ofertasebeneficios/",
+                    "ClassArea": "promocoes-e-ofertas"
+                  }
+                ]
+              },
+              {
+                "NomeArea": "Bradesco Consignado Elo Internacional",
+                "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-elo-consignado-internacional/meu-cartao.shtm",
+                "ClassArea": "bradesco-elo-consignado-internacional",
+                "SubMenu": [
+                  {
+                    "NomeArea": "Benefícios e Serviços",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-elo-consignado-internacional/beneficios.shtm",
+                    "ClassArea": "beneficios"
+                  },
+                  {
+                    "NomeArea": "Segurança",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-elo-consignado-internacional/seguranca.shtm",
+                    "ClassArea": "seguranca"
+                  },
+                  {
+                    "NomeArea": "Soluções de Pagamento",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-elo-consignado-internacional/solucoes-de-pagamento.shtm",
+                    "ClassArea": "solucoes-de-pagamento"
+                  },
+                  {
+                    "NomeArea": "Seguros e Assistências",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-elo-consignado-internacional/seguros-e-assistencias.shtm",
+                    "ClassArea": "seguros-e-assistencias"
+                  },
+                  {
+                    "NomeArea": "Promoções e Ofertas",
+                    "UrlArea": "/cartoes/ofertasebeneficios/",
+                    "ClassArea": "promocoes-e-ofertas"
+                  }
+                ]
+              },
+            {
+                "NomeArea": "Bradesco Elo Débito",
+                "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-elo-debito/meu-cartao.shtm",
+                "ClassArea": "bradesco-elo-debito",
+                "SubMenu": [
+                  {
+                    "NomeArea": "Benefícios",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-elo-debito/beneficios.shtm",
+                    "ClassArea": "beneficios"
+                  },
+                  {
+                    "NomeArea": "Segurança",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-elo-debito/seguranca.shtm",
+                    "ClassArea": "seguranca"
+                  },
+                  {
+                    "NomeArea": "Serviços",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-elo-debito/servicos.shtm",
+                    "ClassArea": "servicos"
+                  },
+                  {
+                    "NomeArea": "Seguros e Assistências",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/servicos/seguros-opcionais/seguro-mais-protecao-bradesco.shtm",
+                    "ClassArea": "seguros-e-assistencias"
+                  }
+
+                ]
+              },
+              {
+                "NomeArea": "Bradesco Elo Mais",
+                "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-elo-mais/meu-cartao.shtm",
+                "ClassArea": "bradesco-elo-mais",
+                "SubMenu": [
+                  {
+                    "NomeArea": "Benefícios e Serviços",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-elo-mais/beneficios.shtm",
+                    "ClassArea": "beneficios"
+                  },
+                  {
+                    "NomeArea": "Segurança",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-elo-mais/seguranca.shtm",
+                    "ClassArea": "seguranca"
+                  },
+                  {
+                    "NomeArea": "Soluções de Pagamento",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-elo-mais/solucoes-de-pagamento.shtm",
+                    "ClassArea": "solucoes-de-pagamento"
+                  },
+                  {
+                    "NomeArea": "Seguros e Assistências",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-elo-mais/seguros-e-assistencias.shtm",
+                    "ClassArea": "seguros-e-assistencias"
+                  },
+                  {
+                    "NomeArea": "Promoções e Ofertas",
+                    "UrlArea": "/cartoes/ofertasebeneficios/",
+                    "ClassArea": "promocoes-e-ofertas"
+                  }
+                ]
+              },
+              {
+                "NomeArea": "Bradesco Gold American Express",
+                "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-gold-amex/meu-cartao.shtm",
+                "ClassArea": "bradesco-gold-amex",
+                "SubMenu": [
+                  {
+                    "NomeArea": "Benefícios e Serviços",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-gold-amex/beneficios.shtm",
+                    "ClassArea": "beneficios"
+                  },
+                  {
+                    "NomeArea": "Segurança",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-gold-amex/seguranca.shtm",
+                    "ClassArea": "seguranca"
+                  },
+                  {
+                    "NomeArea": "Soluções de Pagamento",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-gold-amex/solucoes-de-pagamento.shtm",
+                    "ClassArea": "solucoes-de-pagamento"
+                  },
+                  {
+                    "NomeArea": "Seguros e Assistências",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-gold-amex/seguros-e-assistencias.shtm",
+                    "ClassArea": "seguros-e-assistencias"
+                  },
+                  {
+                    "NomeArea": "Promoções e Ofertas",
+                    "UrlArea": "/cartoes/ofertasebeneficios/",
+                    "ClassArea": "promocoes-e-ofertas"
+                  }
+                ]
+              },
+              {
+                "NomeArea": "Bradesco Platinum American Express",
+                "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-platinum-amex/meu-cartao.shtm",
+                "ClassArea": "bradesco-platinum-amex",
+                "SubMenu": [
+                    {
+                        "NomeArea": "Benefícios e Serviços",
+                        "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-platinum-amex/beneficios.shtm",
+                        "ClassArea": "beneficios"
+                    },
+                    {
+                        "NomeArea": "Segurança",
+                        "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-platinum-amex/seguranca.shtm",
+                        "ClassArea": "seguranca"
+                    },
+                    {
+                        "NomeArea": "Soluções de Pagamento",
+                        "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-platinum-amex/solucoes-de-pagamento.shtm",
+                        "ClassArea": "solucoes-de-pagamento"
+                    },
+                    {
+                        "NomeArea": "Seguros e Assistências",
+                        "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-platinum-amex/seguros-e-assistencias.shtm",
+                        "ClassArea": "seguros-e-assistencias"
+                    },
+                    {
+                        "NomeArea": "Promoções e Ofertas",
+                        "UrlArea": "/cartoes/ofertasebeneficios/",
+                        "ClassArea": "promocoes-e-ofertas"
+                    }
+                ]
+            },
+              {
+                "NomeArea": "Universitário Bradesco Visa",
+                "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-universitario-visa/meu-cartao.shtm",
+                "ClassArea": "bradesco-universitario-visa",
+                "SubMenu": [
+                  {
+                    "NomeArea": "Benefícios e Serviços",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-universitario-visa/beneficios.shtm",
+                    "ClassArea": "beneficios"
+                  },
+                  {
+                    "NomeArea": "Segurança",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-universitario-visa/seguranca.shtm",
+                    "ClassArea": "seguranca"
+                  },
+                  {
+                    "NomeArea": "Serviços",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-universitario-visa/servicos.shtm",
+                    "ClassArea": "servicos"
+                  },
+                  {
+                    "NomeArea": "Seguros e Assistências",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/servicos/seguros-opcionais/seguro-mais-protecao-bradesco.shtm",
+                    "ClassArea": "seguros-e-assistencias"
+                  }
+                ]
+              },
+              {
+                "NomeArea": "Bradesco Visa Platinum",
+                "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-visa-platinum/meu-cartao.shtm",
+                "ClassArea": "bradesco-visa-platinum",
+                "SubMenu": [
+                  {
+                    "NomeArea": "Benefícios e Serviços",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-visa-platinum/beneficios.shtm",
+                    "ClassArea": "beneficios"
+                  },
+                  {
+                    "NomeArea": "Segurança",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-visa-platinum/seguranca.shtm",
+                    "ClassArea": "seguranca"
+                  },
+                  {
+                    "NomeArea": "Soluções de Pagamento",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-visa-platinum/solucoes-de-pagamento.shtm",
+                    "ClassArea": "solucoes-de-pagamento"
+                  },
+                  {
+                    "NomeArea": "Seguros e Assistências",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-visa-platinum/seguros-e-assistencias.shtm",
+                    "ClassArea": "seguros-e-assistencias"
+                  },
+                  {
+                    "NomeArea": "Promoções e Ofertas",
+                    "UrlArea": "/cartoes/ofertasebeneficios/",
+                    "ClassArea": "promocoes-e-ofertas"
+                  }
+                ]
+              },
+              {
+                "NomeArea": "Bradesco Elo Grafite",
+                "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-elo-grafite/meu-cartao.shtm",
+                "ClassArea": "bradesco-elo-grafite",
+                "SubMenu": [
+                  {
+                    "NomeArea": "Benefícios e Serviços",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-elo-grafite/beneficios.shtm",
+                    "ClassArea": "beneficios"
+                  },
+                  {
+                    "NomeArea": "Segurança",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-elo-grafite/seguranca.shtm",
+                    "ClassArea": "seguranca"
+                  },
+                  {
+                    "NomeArea": "Soluções de Pagamento",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-elo-grafite/solucoes-de-pagamento.shtm",
+                    "ClassArea": "solucoes-de-pagamento"
+                  },
+                  {
+                    "NomeArea": "Seguros e Assistências",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-elo-grafite/seguros-e-assistencias.shtm",
+                    "ClassArea": "seguros-e-assistencias"
+                  },
+                  {
+                    "NomeArea": "Promoções e Ofertas",
+                    "UrlArea": "/cartoes/ofertasebeneficios/",
+                    "ClassArea": "promocoes-e-ofertas"
+                  }
+                ]
+              },
+              {
+                "NomeArea": "Bradesco Elo Nanquim",
+                "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-elo-nanquim/meu-cartao.shtm",
+                "ClassArea": "bradesco-elo-nanquim",
+                "SubMenu": [
+                  {
+                    "NomeArea": "Benefícios e Serviços",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-elo-nanquim/beneficios.shtm",
+                    "ClassArea": "beneficios"
+                  },
+                  {
+                    "NomeArea": "Segurança",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-elo-nanquim/seguranca.shtm",
+                    "ClassArea": "seguranca"
+                  },
+                  {
+                    "NomeArea": "Soluções de Pagamento",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-elo-nanquim/solucoes-de-pagamento.shtm",
+                    "ClassArea": "solucoes-de-pagamento"
+                  },
+                  {
+                    "NomeArea": "Seguros e Assistências",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-elo-nanquim/seguros-e-assistencias.shtm",
+                    "ClassArea": "seguros-e-assistencias"
+                  },
+                  {
+                    "NomeArea": "Promoções e Ofertas",
+                    "UrlArea": "/cartoes/ofertasebeneficios/",
+                    "ClassArea": "promocoes-e-ofertas"
+                  }
+                ]
+              },
+			  {
+                "NomeArea": "Bradesco Seguros Elo Nanquim",
+                "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-seguro-elo-nanquim/meu-cartao.shtm",
+                "ClassArea": "bradesco-seguro-elo-nanquim",
+                "SubMenu": [
+                  {
+                    "NomeArea": "Benefícios e Serviços",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-seguro-elo-nanquim/beneficios.shtm",
+                    "ClassArea": "beneficios"
+                  },
+                  {
+                    "NomeArea": "Segurança",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-seguro-elo-nanquim/seguranca.shtm",
+                    "ClassArea": "seguranca"
+                  },
+                  {
+                    "NomeArea": "Soluções de Pagamento",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-seguro-elo-nanquim/solucoes-de-pagamento.shtm",
+                    "ClassArea": "solucoes-de-pagamento"
+                  },
+                  {
+                    "NomeArea": "Seguros e Assistências",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-seguro-elo-nanquim/seguros-e-assistencias.shtm",
+                    "ClassArea": "seguros-e-assistencias"
+                  },
+                  {
+                    "NomeArea": "Promoções e Ofertas",
+                    "UrlArea": "/cartoes/ofertasebeneficios/",
+                    "ClassArea": "promocoes-e-ofertas"
+                  }
+                ]
+              },
+			  {
+                "NomeArea": "Bradesco Elo Nanquim Diners Club",
+                "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-elo-nanquim-diners-club/meu-cartao.shtm",
+                "ClassArea": "bradesco-elo-nanquim-diners-club",
+                "SubMenu": [
+                  {
+                    "NomeArea": "Benefícios e Serviços",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-elo-nanquim-diners-club/beneficios.shtm",
+                    "ClassArea": "beneficios"
+                  },
+                  {
+                    "NomeArea": "Segurança",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-elo-nanquim-diners-club/seguranca.shtm",
+                    "ClassArea": "seguranca"
+                  },
+                  {
+                    "NomeArea": "Soluções de Pagamento",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-elo-nanquim-diners-club/solucoes-de-pagamento.shtm",
+                    "ClassArea": "solucoes-de-pagamento"
+                  },
+                  {
+                    "NomeArea": "Seguros e Assistências",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-elo-nanquim-diners-club/seguros-e-assistencias.shtm",
+                    "ClassArea": "seguros-e-assistencias"
+                  },
+                  {
+                    "NomeArea": "Promoções e Ofertas",
+                    "UrlArea": "/cartoes/ofertasebeneficios/",
+                    "ClassArea": "promocoes-e-ofertas"
+                  }
+                ]
+              },
+              { 
+                "NomeArea": "Bradesco Elo Internacional",
+                "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-elo-internacional-debito/meu-cartao.shtm",
+                "ClassArea": "bradesco-elo-internacional-debito",
+                "SubMenu": [
+                  {
+                    "NomeArea": "Benefícios e Serviços",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-elo-internacional-debito/beneficios.shtm",
+                    "ClassArea": "beneficios"
+                  },
+                  {
+                    "NomeArea": "Segurança",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-elo-internacional-debito/seguranca.shtm",
+                    "ClassArea": "seguranca"
+                  },
+                  {
+                    "NomeArea": "Serviços",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-elo-internacional-debito/servicos.shtm",
+                    "ClassArea": "servicos"
+                  },
+                  {
+                    "NomeArea": "Seguros e Assistências",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/servicos/seguros-opcionais/seguro-mais-protecao-bradesco.shtm",
+                    "ClassArea": "seguros-e-assistencias"
+                  }
+                ]
+              },
+              {
+                "NomeArea": "American Express® Green Bradesco",
+                "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-amex-green/meu-cartao.shtm",
+                "ClassArea": "bradesco-amex-green",
+                "SubMenu": [
+                  {
+                    "NomeArea": "Benefícios e Serviços",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-amex-green/beneficios.shtm",
+                    "ClassArea": "beneficios"
+                  },
+                  {
+                    "NomeArea": "Segurança",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-amex-green/seguranca.shtm",
+                    "ClassArea": "seguranca"
+                  },
+                  {
+                    "NomeArea": "Soluções de Pagamento",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-amex-green/solucoes-de-pagamento.shtm",
+                    "ClassArea": "solucoes-de-pagamento"
+                  },
+                  {
+                    "NomeArea": "Seguros e Assistências",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-amex-green/seguros-e-assistencias.shtm",
+                    "ClassArea": "seguros-e-assistencias"
+                  },
+                  {
+                    "NomeArea": "Promoções e Ofertas",
+                    "UrlArea": "/cartoes/ofertasebeneficios/",
+                    "ClassArea": "promocoes-e-ofertas"
+                  }
+                ]
+              },
+              {
+                "NomeArea": " Bradesco Neo Visa Internacional ",
+                "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-neo-visa-internacional/meu-cartao.shtm",
+                "ClassArea": "bradesco-neo-visa-internacional ",
+                "SubMenu": [
+                  {
+                    "NomeArea": "Benefícios e Serviços",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-neo-visa-internacional/beneficios.shtm",
+                    "ClassArea": "beneficios"
+                  },
+                  {
+                    "NomeArea": "Segurança",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-neo-visa-internacional/seguranca.shtm",
+                    "ClassArea": "seguranca"
+                  },
+                  {
+                    "NomeArea": "Soluções de Pagamento",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-neo-visa-internacional/solucoes-de-pagamento.shtm",
+                    "ClassArea": "solucoes-de-pagamento"
+                  },
+                  {
+                    "NomeArea": "Seguros e Assistências",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-neo-visa-internacional/seguros-e-assistencias.shtm",
+                    "ClassArea": "seguros-e-assistencias"
+                  },
+                  {
+                    "NomeArea": "Promoções e Ofertas",
+                    "UrlArea": "/cartoes/ofertasebeneficios/",
+                    "ClassArea": "promocoes-e-ofertas"
+                  }
+                ]
+              },
+              {
+                "NomeArea": " Bradesco Like Visa ",
+                "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-visa-like/meu-cartao.shtm",
+                "ClassArea": "bradesco-visa-like ",
+                "SubMenu": [
+                  {
+                    "NomeArea": "Benefícios e Serviços",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-visa-like/beneficios.shtm",
+                    "ClassArea": "beneficios"
+                  },
+                  {
+                    "NomeArea": "Segurança",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-visa-like/seguranca.shtm",
+                    "ClassArea": "seguranca"
+                  },
+                  {
+                    "NomeArea": "Soluções de Pagamento",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-visa-like/solucoes-de-pagamento.shtm",
+                    "ClassArea": "solucoes-de-pagamento"
+                  },
+                  {
+                    "NomeArea": "Seguros e Assistências",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-visa-like/seguros-e-assistencias.shtm",
+                    "ClassArea": "seguros-e-assistencias"
+                  },
+                  {
+                    "NomeArea": "Promoções e Ofertas",
+                    "UrlArea": "/cartoes/ofertasebeneficios/",
+                    "ClassArea": "promocoes-e-ofertas"
+                  }
+                ]
+              },
+              {
+                "NomeArea": "American Express® Gold Card Bradesco",
+                "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-amex-gold-card/meu-cartao.shtm",
+                "ClassArea": "bradesco-amex-gold-card",
+                "SubMenu": [
+                  {
+                    "NomeArea": "Benefícios e Serviços",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-amex-gold-card/beneficios.shtm",
+                    "ClassArea": "beneficios"
+                  },
+                  {
+                    "NomeArea": "Segurança",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-amex-gold-card/seguranca.shtm",
+                    "ClassArea": "seguranca"
+                  },
+                  {
+                    "NomeArea": "Soluções de Pagamento",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-amex-gold-card/solucoes-de-pagamento.shtm",
+                    "ClassArea": "solucoes-de-pagamento"
+                  },
+                  {
+                    "NomeArea": "Seguros e Assistências",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-amex-gold-card/seguros-e-assistencias.shtm",
+                    "ClassArea": "seguros-e-assistencias"
+                  },
+                  {
+                    "NomeArea": "Promoções e Ofertas",
+                    "UrlArea": "/cartoes/ofertasebeneficios/",
+                    "ClassArea": "promocoes-e-ofertas"
+                  }
+                ]
+              },
+              {
+                "NomeArea": "The Platinum Card® Bradesco",
+                "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-amex-the-platinum/meu-cartao.shtm",
+                "ClassArea": "bradesco-amex-the-platinum",
+                "SubMenu": [
+                  {
+                    "NomeArea": "Benefícios e Serviços",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-amex-the-platinum/beneficios.shtm",
+                    "ClassArea": "beneficios"
+                  },
+                  {
+                    "NomeArea": "Segurança",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-amex-the-platinum/seguranca.shtm",
+                    "ClassArea": "seguranca"
+                  },
+                  {
+                    "NomeArea": "Soluções de Pagamento",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-amex-the-platinum/solucoes-de-pagamento.shtm",
+                    "ClassArea": "solucoes-de-pagamento"
+                  },
+                  {
+                    "NomeArea": "Seguros e Assistências",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-amex-the-platinum/seguros-e-assistencias.shtm",
+                    "ClassArea": "seguros-e-assistencias"
+                  },
+                  {
+                    "NomeArea": "Promoções e Ofertas",
+                    "UrlArea": "/cartoes/ofertasebeneficios/",
+                    "ClassArea": "promocoes-e-ofertas"
+                  }
+                ]
+              },
+              {
+                "NomeArea": "Bradesco Elo Internacional Básico",
+                "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-elo-basico/meu-cartao.shtm",
+                "ClassArea": "bradesco-elo-basico",
+                "SubMenu": [
+                  {
+                    "NomeArea": "Benefícios e Serviços",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-elo-basico/beneficios.shtm",
+                    "ClassArea": "beneficios"
+                  },
+                  {
+                    "NomeArea": "Segurança",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-elo-basico/seguranca.shtm",
+                    "ClassArea": "seguranca"
+                  },
+                  {
+                    "NomeArea": "Soluções de Pagamento",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-elo-basico/solucoes-de-pagamento.shtm",
+                    "ClassArea": "solucoes-de-pagamento"
+                  },
+                  {
+                    "NomeArea": "Seguros e Assistências",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-elo-basico/seguros-e-assistencias.shtm",
+                    "ClassArea": "seguros-e-assistencias"
+                  },
+                  {
+                    "NomeArea": "Promoções e Ofertas",
+                    "UrlArea": "/cartoes/ofertasebeneficios/",
+                    "ClassArea": "promocoes-e-ofertas"
+                  }
+                ]
+              },
+              {
+                "NomeArea": "Bradesco Elo Plus Internacional",
+                "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-elo-plus/meu-cartao.shtm",
+                "ClassArea": "bradesco-elo-plus",
+                "SubMenu": [
+                  {
+                    "NomeArea": "Benefícios e Serviços",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-elo-plus/beneficios.shtm",
+                    "ClassArea": "beneficios"
+                  },
+                  {
+                    "NomeArea": "Segurança",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-elo-plus/seguranca.shtm",
+                    "ClassArea": "seguranca"
+                  },
+                  {
+                    "NomeArea": "Soluções de Pagamento",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-elo-plus/solucoes-de-pagamento.shtm",
+                    "ClassArea": "solucoes-de-pagamento"
+                  },
+                  {
+                    "NomeArea": "Seguros e Assistências",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-elo-plus/seguros-e-assistencias.shtm",
+                    "ClassArea": "seguros-e-assistencias"
+                  },
+                  {
+                    "NomeArea": "Promoções e Ofertas",
+                    "UrlArea": "/cartoes/ofertasebeneficios/",
+                    "ClassArea": "promocoes-e-ofertas"
+                  }
+                ]
+              },
+              {
+                "NomeArea": "Bradesco Elo Internacional – Função Crédito",
+                "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-elo-internacional-credito/meu-cartao.shtm",
+                "ClassArea": "bradesco-elo-internacional-credito",
+                "SubMenu": [
+                  {
+                    "NomeArea": "Benefícios e Serviços",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-elo-internacional-credito/beneficios.shtm",
+                    "ClassArea": "beneficios"
+                  },
+                  {
+                    "NomeArea": "Segurança",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-elo-internacional-credito/seguranca.shtm",
+                    "ClassArea": "seguranca"
+                  },
+                  {
+                    "NomeArea": "Soluções de Pagamento",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-elo-internacional-credito/solucoes-de-pagamento.shtm",
+                    "ClassArea": "solucoes-de-pagamento"
+                  },
+                  {
+                    "NomeArea": "Seguros e Assistências",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-elo-internacional-credito/seguros-e-assistencias.shtm",
+                    "ClassArea": "seguros-e-assistencias"
+                  },
+                  {
+                    "NomeArea": "Promoções e Ofertas",
+                    "UrlArea": "/cartoes/ofertasebeneficios/",
+                    "ClassArea": "promocoes-e-ofertas"
+                  }
+                ]
+              },
+              {
+                "NomeArea": "Bradesco Elo Universitário – Função Crédito",
+                "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-elo-universitario/meu-cartao.shtm",
+                "ClassArea": "bradesco-elo-universitario",
+                "SubMenu": [
+                  {
+                    "NomeArea": "Benefícios e Serviços",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-elo-universitario/beneficios.shtm",
+                    "ClassArea": "beneficios"
+                  },
+                  {
+                    "NomeArea": "Segurança",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-elo-universitario/seguranca.shtm",
+                    "ClassArea": "seguranca"
+                  },
+                  {
+                    "NomeArea": "Soluções de Pagamento",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-elo-universitario/solucoes-de-pagamento.shtm",
+                    "ClassArea": "solucoes-de-pagamento"
+                  },
+                  {
+                    "NomeArea": "Seguros e Assistências",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-elo-universitario/seguros-e-assistencias.shtm",
+                    "ClassArea": "seguros-e-assistencias"
+                  },
+                  {
+                    "NomeArea": "Promoções e Ofertas",
+                    "UrlArea": "/cartoes/ofertasebeneficios/",
+                    "ClassArea": "promocoes-e-ofertas"
+                  }
+                ]
+              },
+              {
+                "NomeArea": "Cartão de Débito Bradesco Universitário Elo",
+                "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/cartao-debito-bradesco-universitario-elo/meu-cartao.shtm",
+                "ClassArea": "cartao-debito-bradesco-universitario-elo",
+                "SubMenu": [
+                  {
+                    "NomeArea": "Benefícios e Serviços",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/cartao-debito-bradesco-universitario-elo/beneficios.shtm",
+                    "ClassArea": "beneficios"
+                  },
+                  {
+                    "NomeArea": "Segurança",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/cartao-debito-bradesco-universitario-elo/seguranca.shtm",
+                    "ClassArea": "seguranca"
+                  },
+                  {
+                    "NomeArea": "Serviços",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/cartao-debito-bradesco-universitario-elo/servicos.shtm",
+                    "ClassArea": "servicos"
+                  },
+                  {
+                    "NomeArea": "Seguros e Assistências",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/servicos/seguros-opcionais/seguro-mais-protecao-bradesco.shtm",
+                    "ClassArea": "seguros-e-assistencias"
+                  }
+                ]
+              },
+			  {
+                "NomeArea": "Cartão Bradesco Universitário Elo",
+                "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-elo-universitario-debito/meu-cartao.shtm",
+                "ClassArea": "bradesco-elo-universitario-debito",
+                "SubMenu": [
+                  {
+                    "NomeArea": "Benefícios e Serviços",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-elo-universitario-debito/beneficios.shtm",
+                    "ClassArea": "beneficios"
+                  },
+                  {
+                    "NomeArea": "Segurança",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-elo-universitario-debito/seguranca.shtm",
+                    "ClassArea": "seguranca"
+                  },
+                  {
+                    "NomeArea": "Serviços",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-elo-universitario-debito/servicos.shtm",
+                    "ClassArea": "servicos"
+                  },
+                  {
+                    "NomeArea": "Seguros e Assistências",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/servicos/seguros-opcionais/seguro-mais-protecao-bradesco.shtm",
+                    "ClassArea": "seguros-e-assistencias"
+                  }
+                ]
+              },
+              {
+                "NomeArea": "Cartão de Débito Bradesco Universitário Visa",
+                "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-visa-universitario-debito/meu-cartao.shtm",
+                "ClassArea": "bradesco-visa-universitario-debito",
+                "SubMenu": [
+                  {
+                    "NomeArea": "Benefícios",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-visa-universitario-debito/beneficios.shtm",
+                    "ClassArea": "beneficios"
+                  },
+                  {
+                    "NomeArea": "Segurança",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-visa-universitario-debito/seguranca.shtm",
+                    "ClassArea": "seguranca"
+                  },
+                  {
+                    "NomeArea": "Serviços",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-visa-universitario-debito/servicos.shtm",
+                    "ClassArea": "servicos"
+                  },
+                  {
+                    "NomeArea": "Seguros e Assistências",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/servicos/seguros-opcionais/seguro-mais-protecao-bradesco.shtm",
+                    "ClassArea": "seguros-e-assistencias"
+                  }
+                ]
+              },
+              {
+                "NomeArea": "Cartão de Débito Bradesco Poupcard Visa",
+                "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-poupcard-visa/meu-cartao.shtm",
+                "ClassArea": "bradesco-poupcard-visa",
+                "SubMenu": [
+                  {
+                    "NomeArea": "Benefícios",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-poupcard-visa/beneficios.shtm",
+                    "ClassArea": "beneficios"
+                  },
+                  {
+                    "NomeArea": "Segurança",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-poupcard-visa/seguranca.shtm",
+                    "ClassArea": "seguranca"
+                  },
+                  {
+                    "NomeArea": "Serviços",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-poupcard-visa/servicos.shtm",
+                    "ClassArea": "servicos"
+                  },
+                  {
+                    "NomeArea": "Seguros e Assistências",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/servicos/seguros-opcionais/seguro-mais-protecao-bradesco.shtm",
+                    "ClassArea": "seguros-e-assistencias"
+                  }
+                ]
+              },
+            {
+                "NomeArea": "Bradesco Poupcard Elo",
+                "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-poupcard-elo/meu-cartao.shtm",
+                "ClassArea": "bradesco-poupcard-elo",
+                "SubMenu": [
+                  {
+                    "NomeArea": "Benefícios",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-poupcard-elo/beneficios.shtm",
+                    "ClassArea": "beneficios"
+                  },
+                  {
+                    "NomeArea": "Segurança",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-poupcard-elo/seguranca.shtm",
+                    "ClassArea": "seguranca"
+                  },
+                  {
+                    "NomeArea": "Serviços",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-poupcard-elo/servicos.shtm",
+                    "ClassArea": "servicos"
+                  },
+                  {
+                    "NomeArea": "Seguros e Assistências",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/servicos/seguros-opcionais/seguro-mais-protecao-bradesco.shtm",
+                    "ClassArea": "seguros-e-assistencias"
+                  }
+                ]
+              },
+{
+                "NomeArea": "Cartão de Débito Conta Salário Elo Nacional",
+                "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-conta-salario-elo/meu-cartao.shtm",
+                "ClassArea": "bradesco-conta-salario-elo",
+                "SubMenu": [
+                  {
+                    "NomeArea": "Benefícios",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-conta-salario-elo/beneficios.shtm",
+                    "ClassArea": "beneficios"
+                  },
+                  {
+                    "NomeArea": "Segurança",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-conta-salario-elo/seguranca.shtm",
+                    "ClassArea": "seguranca"
+                  },
+                  {
+                    "NomeArea": "Serviços",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-conta-salario-elo/servicos.shtm",
+                    "ClassArea": "servicos"
+                  },
+                  {
+                    "NomeArea": "Seguros e Assistências",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/servicos/seguros-opcionais/seguro-mais-protecao-bradesco.shtm",
+                    "ClassArea": "seguros-e-assistencias"
+                  }
+                ]
+              },
+{
+                "NomeArea": "Cartão de Débito Conta Salário Visa Nacional",
+                "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-conta-salario-visa/meu-cartao.shtm",
+                "ClassArea": "bradesco-conta-salario-visa",
+                "SubMenu": [
+                  {
+                    "NomeArea": "Benefícios",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-conta-salario-visa/beneficios.shtm",
+                    "ClassArea": "beneficios"
+                  },
+                  {
+                    "NomeArea": "Segurança",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-conta-salario-visa/seguranca.shtm",
+                    "ClassArea": "seguranca"
+                  },
+                  {
+                    "NomeArea": "Serviços",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-conta-salario-visa/servicos.shtm",
+                    "ClassArea": "servicos"
+                  },
+                  {
+                    "NomeArea": "Seguros e Assistências",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/servicos/seguros-opcionais/seguro-mais-protecao-bradesco.shtm",
+                    "ClassArea": "seguros-e-assistencias"
+                  }
+                ]
+              },
+              {
+                "NomeArea": "Bradesco Mastercard® Gold",
+                "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-mastercard-gold/meu-cartao.shtm",
+                "ClassArea": "bradesco-mastercard-gold",
+                "SubMenu": [
+                  {
+                    "NomeArea": "Benefícios e Serviços",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-mastercard-gold/beneficios.shtm",
+                    "ClassArea": "beneficios"
+                  },
+                  {
+                    "NomeArea": "Segurança",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-mastercard-gold/seguranca.shtm",
+                    "ClassArea": "seguranca"
+                  },
+                  {
+                    "NomeArea": "Soluções de Pagamento",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-mastercard-gold/solucoes-de-pagamento.shtm",
+                    "ClassArea": "solucoes-de-pagamento"
+                  },
+                  {
+                    "NomeArea": "Seguros e Assistências",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-mastercard-gold/seguros-e-assistencias.shtm",
+                    "ClassArea": "seguros-e-assistencias"
+                  },
+                  {
+                    "NomeArea": "Promoções e Ofertas",
+                    "UrlArea": "/cartoes/ofertasebeneficios/",
+                    "ClassArea": "promocoes-e-ofertas"
+                  }
+                ]
+              },
+			  {
+                "NomeArea": "Bradesco Mastercard® Platinum",
+                "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-mastercard-platinum/meu-cartao.shtm",
+                "ClassArea": "bradesco-mastercard-platinum",
+                "SubMenu": [
+                  {
+                    "NomeArea": "Benefícios e Serviços",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-mastercard-platinum/beneficios.shtm",
+                    "ClassArea": "beneficios"
+                  },
+                  {
+                    "NomeArea": "Segurança",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-mastercard-platinum/seguranca.shtm",
+                    "ClassArea": "seguranca"
+                  },
+                  {
+                    "NomeArea": "Soluções de Pagamento",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-mastercard-platinum/solucoes-de-pagamento.shtm",
+                    "ClassArea": "solucoes-de-pagamento"
+                  },
+                  {
+                    "NomeArea": "Seguros e Assistências",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-mastercard-platinum/seguros-e-assistencias.shtm",
+                    "ClassArea": "seguros-e-assistencias"
+                  },
+                  {
+                    "NomeArea": "Promoções e Ofertas",
+                    "UrlArea": "/cartoes/ofertasebeneficios/",
+                    "ClassArea": "promocoes-e-ofertas"
+                  }
+                ]
+              },
+              {
+                "NomeArea": "Bradesco Seguros Elo Internacional",
+                "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-seguros-elo-internacional/meu-cartao.shtm",
+                "ClassArea": "bradesco-seguros-elo-internacional",
+                "SubMenu": [
+                  {
+                    "NomeArea": "Benefícios e Serviços",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-seguros-elo-internacional/beneficios.shtm",
+                    "ClassArea": "beneficios"
+                  },
+                  {
+                    "NomeArea": "Segurança",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-seguros-elo-internacional/seguranca.shtm",
+                    "ClassArea": "seguranca"
+                  },
+                  {
+                    "NomeArea": "Soluções de Pagamento",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-seguros-elo-internacional/solucoes-de-pagamento.shtm",
+                    "ClassArea": "solucoes-de-pagamento"
+                  },
+                  {
+                    "NomeArea": "Seguros e Assistências",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-seguros-elo-internacional/seguros-e-assistencias.shtm",
+                    "ClassArea": "seguros-e-assistencias"
+                  },
+                  {
+                    "NomeArea": "Promoções e Ofertas",
+                    "UrlArea": "/cartoes/ofertasebeneficios/",
+                    "ClassArea": "promocoes-e-ofertas"
+                  }
+                ]
+              },
+                {
+                "NomeArea": "Bradesco Seguros Elo Mais",
+                "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-seguros-elo-mais/meu-cartao.shtm",
+                "ClassArea": "bradesco-seguros-elo-mais",
+                "SubMenu": [
+                  {
+                    "NomeArea": "Benefícios e Serviços",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-seguros-elo-mais/beneficios.shtm",
+                    "ClassArea": "beneficios"
+                  },
+                  {
+                    "NomeArea": "Segurança",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-seguros-elo-mais/seguranca.shtm",
+                    "ClassArea": "seguranca"
+                  },
+                  {
+                    "NomeArea": "Soluções de Pagamento",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-seguros-elo-mais/solucoes-de-pagamento.shtm",
+                    "ClassArea": "solucoes-de-pagamento"
+                  },
+                  {
+                    "NomeArea": "Seguros e Assistências",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-seguros-elo-mais/seguros-e-assistencias.shtm",
+                    "ClassArea": "seguros-e-assistencias"
+                  },
+                  {
+                    "NomeArea": "Promoções e Ofertas",
+                    "UrlArea": "/cartoes/ofertasebeneficios/",
+                    "ClassArea": "promocoes-e-ofertas"
+                  }
+                ]
+              },
+               {
+                "NomeArea": "Bradesco Seguros Elo Grafite",
+                "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-seguro-elo-grafite/meu-cartao.shtm",
+                "ClassArea": "bradesco-seguro-elo-grafite",
+                "SubMenu": [
+                  {
+                    "NomeArea": "Benefícios e Serviços",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-seguro-elo-grafite/beneficios.shtm",
+                    "ClassArea": "beneficios"
+                  },
+                  {
+                    "NomeArea": "Segurança",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-seguro-elo-grafite/seguranca.shtm",
+                    "ClassArea": "seguranca"
+                  },
+                  {
+                    "NomeArea": "Soluções de Pagamento",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-seguro-elo-grafite/solucoes-de-pagamento.shtm",
+                    "ClassArea": "solucoes-de-pagamento"
+                  },
+                  {
+                    "NomeArea": "Seguros e Assistências",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-seguro-elo-grafite/seguros-e-assistencias.shtm",
+                    "ClassArea": "seguros-e-assistencias"
+                  },
+                  {
+                    "NomeArea": "Promoções e Ofertas",
+                    "UrlArea": "/cartoes/ofertasebeneficios/",
+                    "ClassArea": "promocoes-e-ofertas"
+                  }
+                ]
+              },
+              {
+                "NomeArea": "Bradesco Seguros Visa Gold",
+                "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-seguros-visa-gold/meu-cartao.shtm",
+                "ClassArea": "bradesco-seguros-visa-gold",
+                "SubMenu": [
+                  {
+                    "NomeArea": "Benefícios e Serviços",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-seguros-visa-gold/beneficios.shtm",
+                    "ClassArea": "beneficios"
+                  },
+                  {
+                    "NomeArea": "Segurança",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-seguros-visa-gold/seguranca.shtm",
+                    "ClassArea": "seguranca"
+                  },
+                  {
+                    "NomeArea": "Soluções de Pagamento",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-seguros-visa-gold/solucoes-de-pagamento.shtm",
+                    "ClassArea": "solucoes-de-pagamento"
+                  },
+                  {
+                    "NomeArea": "Seguros e Assistências",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-seguros-visa-gold/seguros-e-assistencias.shtm",
+                    "ClassArea": "seguros-e-assistencias"
+                  },
+                  {
+                    "NomeArea": "Promoções e Ofertas",
+                    "UrlArea": "/cartoes/ofertasebeneficios/",
+                    "ClassArea": "promocoes-e-ofertas"
+                  }
+                ]
+              },
+              {
+                "NomeArea": "Bradesco Seguros Visa Internacional",
+                "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-seguros-visa-internacional/meu-cartao.shtm",
+                "ClassArea": "bradesco-seguros-visa-internacional",
+                "SubMenu": [
+                  {
+                    "NomeArea": "Benefícios e Serviços",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-seguros-visa-internacional/beneficios.shtm",
+                    "ClassArea": "beneficios"
+                  },
+                  {
+                    "NomeArea": "Segurança",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-seguros-visa-internacional/seguranca.shtm",
+                    "ClassArea": "seguranca"
+                  },
+                  {
+                    "NomeArea": "Soluções de Pagamento",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-seguros-visa-internacional/solucoes-de-pagamento.shtm",
+                    "ClassArea": "solucoes-de-pagamento"
+                  },
+                  {
+                    "NomeArea": "Seguros e Assistências",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-seguros-visa-internacional/seguros-e-assistencias.shtm",
+                    "ClassArea": "seguros-e-assistencias"
+                  },
+                  {
+                    "NomeArea": "Promoções e Ofertas",
+                    "UrlArea": "/cartoes/ofertasebeneficios/",
+                    "ClassArea": "promocoes-e-ofertas"
+                  }
+                ]
+              },
+              {
+                "NomeArea": "Bradesco Seguros Visa Platinum",
+                "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-seguros-visa-platinum/meu-cartao.shtm",
+                "ClassArea": "bradesco-seguros-visa-platinum",
+                "SubMenu": [
+                  {
+                    "NomeArea": "Benefícios e Serviços",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-seguros-visa-platinum/beneficios.shtm",
+                    "ClassArea": "beneficios"
+                  },
+                  {
+                    "NomeArea": "Segurança",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-seguros-visa-platinum/seguranca.shtm",
+                    "ClassArea": "seguranca"
+                  },
+                  {
+                    "NomeArea": "Soluções de Pagamento",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-seguros-visa-platinum/solucoes-de-pagamento.shtm",
+                    "ClassArea": "solucoes-de-pagamento"
+                  },
+                  {
+                    "NomeArea": "Seguros e Assistências",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-seguros-visa-platinum/seguros-e-assistencias.shtm",
+                    "ClassArea": "seguros-e-assistencias"
+                  },
+                  {
+                    "NomeArea": "Promoções e Ofertas",
+                    "UrlArea": "/cartoes/ofertasebeneficios/",
+                    "ClassArea": "promocoes-e-ofertas"
+                  }
+                ]
+              },
+              {
+                "NomeArea": "Bradesco Music Elo Internacional",
+                "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-music-elo-internacional/meu-cartao.shtm",
+                "ClassArea": "bradesco-music-elo-internacional",
+                "SubMenu": [
+                  {
+                    "NomeArea": "Benefícios e Serviços",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-music-elo-internacional/beneficios.shtm",
+                    "ClassArea": "beneficios"
+                  },
+                  {
+                    "NomeArea": "Segurança",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-music-elo-internacional/seguranca.shtm",
+                    "ClassArea": "seguranca"
+                  },
+                  {
+                    "NomeArea": "Soluções de Pagamento",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-music-elo-internacional/solucoes-de-pagamento.shtm",
+                    "ClassArea": "solucoes-de-pagamento"
+                  },
+                  {
+                    "NomeArea": "Seguros e Assistências",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-music-elo-internacional/seguros-e-assistencias.shtm",
+                    "ClassArea": "seguros-e-assistencias"
+                  },
+                  {
+                    "NomeArea": "Promoções e Ofertas",
+                    "UrlArea": "/cartoes/ofertasebeneficios/",
+                    "ClassArea": "promocoes-e-ofertas"
+                  }
+                ]
+              },
+              {
+                "NomeArea": "Bradesco Music Visa Gold",
+                "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-music-visa-gold/meu-cartao.shtm",
+                "ClassArea": "bradesco-music-visa-gold",
+                "SubMenu": [
+                  {
+                    "NomeArea": "Benefícios e Serviços",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-music-visa-gold/beneficios.shtm",
+                    "ClassArea": "beneficios"
+                  },
+                  {
+                    "NomeArea": "Segurança",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-music-visa-gold/seguranca.shtm",
+                    "ClassArea": "seguranca"
+                  },
+                  {
+                    "NomeArea": "Soluções de Pagamento",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-music-visa-gold/solucoes-de-pagamento.shtm",
+                    "ClassArea": "solucoes-de-pagamento"
+                  },
+                  {
+                    "NomeArea": "Seguros e Assistências",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-music-visa-gold/seguros-e-assistencias.shtm",
+                    "ClassArea": "seguros-e-assistencias"
+                  },
+                  {
+                    "NomeArea": "Promoções e Ofertas",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-music-visa-gold/promocoes.shtm",
+                    "ClassArea": "promocoes-e-ofertas"
+                  }
+                ]
+              },
+              {
+                "NomeArea": "Cartão de Benefício de Prestação Continuada Elo",
+                "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-inss-elo-debito/meu-cartao.shtm",
+                "ClassArea": "bradesco-inss-elo-debito",
+                "SubMenu": [
+                  {
+                    "NomeArea": "Benefícios",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-inss-elo-debito/beneficios.shtm",
+                    "ClassArea": "beneficios"
+                  },
+                  {
+                    "NomeArea": "Segurança",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-inss-elo-debito/seguranca.shtm",
+                    "ClassArea": "seguranca"
+                  },
+                  {
+                    "NomeArea": "Serviços",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-inss-elo-debito/servicos.shtm",
+                    "ClassArea": "servicos"
+                  },
+                  {
+                    "NomeArea": "Informações Importantes",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-inss-elo-debito/informacoes-importantes.shtm",
+                    "ClassArea": "informacoes-importantes"
+                  }
+                ]
+              },
+              {
+                "NomeArea": "Cartão de Pagamento de Benefício Visa",
+                "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-inss-visa-debito/meu-cartao.shtm",
+                "ClassArea": "bradesco-inss-visa-debito",
+                "SubMenu": [
+                  {
+                    "NomeArea": "Benefícios",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-inss-visa-debito/beneficios.shtm",
+                    "ClassArea": "beneficios"
+                  },
+                  {
+                    "NomeArea": "Segurança",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-inss-visa-debito/seguranca.shtm",
+                    "ClassArea": "seguranca"
+                  },
+                  {
+                    "NomeArea": "Serviços",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-inss-visa-debito/servicos.shtm",
+                    "ClassArea": "servicos"
+                  },
+                  {
+                    "NomeArea": "Informações Importantes",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-inss-visa-debito/informacoes-importantes.shtm",
+                    "ClassArea": "informacoes-importantes"
+                  }
+                ]
+              },
+              {
+                "NomeArea": "Cartão de Benefício de Prestação Continuada Elo",
+                "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-bpc-elo-debito/meu-cartao.shtm",
+                "ClassArea": "bradesco-bpc-elo-debito",
+                "SubMenu": [
+                  {
+                    "NomeArea": "Benefícios",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-bpc-elo-debito/beneficios.shtm",
+                    "ClassArea": "beneficios"
+                  },
+                  {
+                    "NomeArea": "Segurança",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-bpc-elo-debito/seguranca.shtm",
+                    "ClassArea": "seguranca"
+                  },
+                  {
+                    "NomeArea": "Serviços",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-bpc-elo-debito/servicos.shtm",
+                    "ClassArea": "servicos"
+                  },
+                  {
+                    "NomeArea": "Informações Importantes",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-bpc-elo-debito/informacoes-importantes.shtm",
+                    "ClassArea": "informacoes-importantes"
+                  }
+                ]
+              },
+              {
+                "NomeArea": "Cartão de Benefício de Prestação Continuada Visa",
+                "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-bpc-visa-debito/meu-cartao.shtm",
+                "ClassArea": "bradesco-bpc-visa-debito",
+                "SubMenu": [
+                  {
+                    "NomeArea": "Benefícios",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-bpc-visa-debito/beneficios.shtm",
+                    "ClassArea": "beneficios"
+                  },
+                  {
+                    "NomeArea": "Segurança",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-bpc-visa-debito/seguranca.shtm",
+                    "ClassArea": "seguranca"
+                  },
+                  {
+                    "NomeArea": "Serviços",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-bpc-visa-debito/servicos.shtm",
+                    "ClassArea": "servicos"
+                  },
+                  {
+                    "NomeArea": "Informações Importantes",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-bpc-visa-debito/informacoes-importantes.shtm",
+                    "ClassArea": "informacoes-importantes"
+                  }
+                ]
+              },
+              {
+                "NomeArea": "Cartão Click Conta Bradesco Elo",
+                "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-click-conta-elo-debito/meu-cartao.shtm",
+                "ClassArea": "bradesco-click-conta-elo-debito",
+                "SubMenu": [
+                  {
+                    "NomeArea": "Benefícios",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-click-conta-elo-debito/beneficios.shtm",
+                    "ClassArea": "beneficios"
+                  },
+                  {
+                    "NomeArea": "Segurança",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-click-conta-elo-debito/seguranca.shtm",
+                    "ClassArea": "seguranca"
+                  },
+                  {
+                    "NomeArea": "Serviços",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-click-conta-elo-debito/servicos.shtm",
+                    "ClassArea": "servicos"
+                  },
+                  {
+                    "NomeArea": "Canal Exclusivo",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-click-conta-elo-debito/canal-exclusivo.shtm",
+                    "ClassArea": "canal-exclusivo"
+                  }
+                ]
+              },
+             {
+                "NomeArea": "Cartão Click Conta Elo Internacional",
+                "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-click-conta-elo-debito-internacional/meu-cartao.shtm",
+                "ClassArea": "bradesco-click-conta-elo-debito-internacional",
+                "SubMenu": [
+                  {
+                    "NomeArea": "Benefícios",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-click-conta-elo-debito-internacional/beneficios.shtm",
+                    "ClassArea": "beneficios"
+                  },
+                  {
+                    "NomeArea": "Segurança",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-click-conta-elo-debito-internacional/seguranca.shtm",
+                    "ClassArea": "seguranca"
+                  },
+                  {
+                    "NomeArea": "Serviços",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-click-conta-elo-debito-internacional/servicos.shtm",
+                    "ClassArea": "servicos"
+                  },
+                  {
+                    "NomeArea": "Canal Exclusivo",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-click-conta-elo-debito-internacional/canal-exclusivo.shtm",
+                    "ClassArea": "canal-exclusivo"
+                  }
+                ]
+              },
+             {
+                "NomeArea": "Cartão Click Conta Bradesco Visa",
+                "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-click-conta-visa-debito/meu-cartao.shtm",
+                "ClassArea": "bradesco-click-conta-visa-debito",
+                "SubMenu": [
+                  {
+                    "NomeArea": "Benefícios",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-click-conta-visa-debito/beneficios.shtm",
+                    "ClassArea": "beneficios"
+                  },
+                  {
+                    "NomeArea": "Segurança",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-click-conta-visa-debito/seguranca.shtm",
+                    "ClassArea": "seguranca"
+                  },
+                  {
+                    "NomeArea": "Serviços",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-click-conta-visa-debito/servicos.shtm",
+                    "ClassArea": "servicos"
+                  },
+                  {
+                    "NomeArea": "Canal Exclusivo",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-click-conta-visa-debito/canal-exclusivo.shtm",
+                    "ClassArea": "canal-exclusivo"
+                  }
+                ]
+              },
+              {
+                "NomeArea": "Bradesco Fundação Amazonas Sustentável Elo Mais",
+                "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-faz-elo-mais/meu-cartao.shtm",
+                "ClassArea": "bradesco-faz-elo-mais",
+                "SubMenu": [
+                  {
+                    "NomeArea": "Benefícios",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-faz-elo-mais/beneficios.shtm",
+                    "ClassArea": "beneficios"
+                  },
+                  {
+                    "NomeArea": "Segurança",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-faz-elo-mais/seguranca.shtm",
+                    "ClassArea": "seguranca"
+                  },
+                  {
+                    "NomeArea": "Seguros e Assistencias",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-faz-elo-mais/seguros-e-assistencias.shtm",
+                    "ClassArea": "seguros-e-assistencias"
+                  },
+                  {
+                    "NomeArea": "Solucoes de Pagamento",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-faz-elo-mais/solucoes-de-pagamento.shtm",
+                    "ClassArea": "solucoes-de-pagamento"
+                  }
+                ]
+              },
+              {
+                "NomeArea": "Bradesco Fundação Amazonas Sustentável Elo Internacional",
+                "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-elo-fas-internacional/meu-cartao.shtm",
+                "ClassArea": "bradesco-elo-fas-internacional",
+                "SubMenu": [
+                  {
+                    "NomeArea": "Benefícios",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-elo-fas-internacional/beneficios.shtm",
+                    "ClassArea": "beneficios"
+                  },
+                  {
+                    "NomeArea": "Segurança",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-elo-fas-internacional/seguranca.shtm",
+                    "ClassArea": "seguranca"
+                  },
+                  {
+                    "NomeArea": "Seguros e Assistencias",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-elo-fas-internacional/seguros-e-assistencias.shtm",
+                    "ClassArea": "seguros-e-assistencias"
+                  },
+                  {
+                    "NomeArea": "Solucoes de Pagamento",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-elo-fas-internacional/solucoes-de-pagamento.shtm",
+                    "ClassArea": "solucoes-de-pagamento"
+                  },
+                  {
+                    "NomeArea": "Promoções e Ofertas",
+                    "UrlArea": "/cartoes/ofertasebeneficios/",
+                    "ClassArea": "promocoes-e-ofertas"
+                  }
+                ]
+              },
+              {
+                "NomeArea": "Bradesco Fundação Amazonas Sustentável Mastercard Nacional",
+                "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/fundacao-amazonas-sustentavel-bradesco-mastercard-nacional/meu-cartao.shtm",
+                "ClassArea": "fundacao-amazonas-sustentavel-bradesco-mastercard-nacional",
+                "SubMenu": [
+                  {
+                    "NomeArea": "Benefícios",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/fundacao-amazonas-sustentavel-bradesco-mastercard-nacional/beneficios.shtm",
+                    "ClassArea": "beneficios"
+                  },
+                  {
+                    "NomeArea": "Segurança",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/fundacao-amazonas-sustentavel-bradesco-mastercard-nacional/seguranca.shtm",
+                    "ClassArea": "seguranca"
+                  },
+                  {
+                    "NomeArea": "Seguros e Assistencias",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/fundacao-amazonas-sustentavel-bradesco-mastercard-nacional/seguros-e-assistencias.shtm",
+                    "ClassArea": "seguros-e-assistencias"
+                  },
+                  {
+                    "NomeArea": "Solucoes de Pagamento",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/fundacao-amazonas-sustentavel-bradesco-mastercard-nacional/solucoes-de-pagamento.shtm",
+                    "ClassArea": "solucoes-de-pagamento"
+                  },
+                  {
+                    "NomeArea": "Promoções e Ofertas",
+                    "UrlArea": "/cartoes/ofertasebeneficios/",
+                    "ClassArea": "promocoes-e-ofertas"
+                  }
+                ]
+              },
+              {
+                "NomeArea": "Bradesco Fundação SOS Mata Atlântica Elo Mais",
+                "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-sos-elo-mais/meu-cartao.shtm",
+                "ClassArea": "bradesco-sos-elo-mais",
+                "SubMenu": [
+                  {
+                    "NomeArea": "Benefícios",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-sos-elo-mais/beneficios.shtm",
+                    "ClassArea": "beneficios"
+                  },
+                  {
+                    "NomeArea": "Segurança",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-sos-elo-mais/seguranca.shtm",
+                    "ClassArea": "seguranca"
+                  },
+                  {
+                    "NomeArea": "Seguros e Assistencias",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-sos-elo-mais/seguros-e-assistencias.shtm",
+                    "ClassArea": "seguros-e-assistencias"
+                  },
+                  {
+                    "NomeArea": "Solucoes de Pagamento",
+                    "UrlArea": "/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-sos-elo-mais/solucoes-de-pagamento.shtm",
+                    "ClassArea": "solucoes-de-pagamento"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+                        "NomeArea":"Serviços",
+                        "UrlArea":"/html/classic/produtos-servicos/cartoes/servicos/index.shtm",
+                        "ClassArea":"servicos 1",
+                        "SubMenu":[
+                            {
+                                "NomeArea":"Serviços On-line",
+                                "UrlArea":"/html/classic/produtos-servicos/cartoes/servicos/servicos-online/index.shtm",
+                                "ClassArea":"servicos-online",
+                                "SubMenu":[
+                                    {
+                                        "NomeArea":"2ª Via da Fatura e Serviços On-line – Cartão de Crédito",
+                                        "UrlArea":"/html/classic/produtos-servicos/cartoes/servicos/servicos-online/2-via-de-boleto.shtm",
+                                        "ClassArea":"2-via-de-boleto"
+                                    },
+                                    {
+                                        "NomeArea":"2ª Via de Senha",
+                                        "UrlArea":"/html/classic/produtos-servicos/cartoes/servicos/servicos-seguranca/alteracao-de-senha-do-cartao.shtm",
+                                        "ClassArea":"alteracao-de-senha-do-cartao"
+                                    },
+                                    {
+                                        "NomeArea":"Alteração da Data de Pagamento",
+                                        "UrlArea":"/html/classic/produtos-servicos/cartoes/servicos/servicos-online/alteracao-da-data-de-pagamento.shtm",
+                                        "ClassArea":"alteracao-da-data-de-pagamento"
+                                    },
+                                    {
+                                        "NomeArea":"Alteração de Agência e Conta de Débito",
+                                        "UrlArea":"/html/classic/produtos-servicos/cartoes/servicos/servicos-online/alteracao-de-agencia-e-conta-de-debito.shtm",
+                                        "ClassArea":"alteracao-de-agencia-e-conta-de-debito"
+                                    },
+                                    {
+                                        "NomeArea":"Alteração de Endereço",
+                                        "UrlArea":"/html/classic/produtos-servicos/cartoes/servicos/servicos-online/alteracao-de-endereco.shtm",
+                                        "ClassArea":"alteracao-de-endereco"
+                                    },
+                                    {
+                                        "NomeArea":"Alteração de Forma de Pagamento",
+                                        "UrlArea":"/html/classic/produtos-servicos/cartoes/servicos/servicos-online/alteracao-de-forma-de-pagamento.shtm",
+                                        "ClassArea":"alteracao-de-forma-de-pagamento"
+                                    },
+                                    {
+                                        "NomeArea":"Atendimento On-line",
+                                        "UrlArea":"https://xwc-bradesco.fnis.com.br/bradesco/pop_chat_bradesco_cartoes.html",
+                                        "ClassArea":"pop_chat_bradesco_cartoes"
+                                    },
+                                    {
+                                        "NomeArea":"Aviso de Viagem",
+                                        "UrlArea":"/html/classic/produtos-servicos/cartoes/servicos/servicos-online/aviso-de-viagem.shtm",
+                                        "ClassArea":"aviso-de-viagem"
+                                    },
+                                    {
+                                        "NomeArea":"Cancelamento do Cartão",
+                                        "UrlArea":"/html/classic/produtos-servicos/cartoes/servicos/servicos-online/cancelamento-do-cartao.shtm",
+                                        "ClassArea":"cancelamento-do-cartao"
+                                    },
+                                    {
+                                        "NomeArea":"Consultar Extratos",
+                                        "UrlArea":"/html/classic/produtos-servicos/cartoes/servicos/servicos-online/consultar-extratos.shtm",
+                                        "ClassArea":"consultar-extratos"
+                                    },
+                                     {
+                                        "NomeArea":"Desbloqueio de Cartão",
+                                        "UrlArea":"/html/classic/produtos-servicos/cartoes/servicos/servicos-online/desbloqueio-do-cartao.shtm",
+                                        "ClassArea":"desbloqueio-do-cartao"
+                                    },
+                                    {
+                                        "NomeArea":"Infoemail",
+                                        "UrlArea":"/html/classic/produtos-servicos/cartoes/servicos/servicos-online/infoemail.shtm",
+                                        "ClassArea":"infoemail"
+                                    },
+                                    {
+                                        "NomeArea":"Limite do Cartão",
+                                        "UrlArea":"/html/classic/produtos-servicos/cartoes/servicos/servicos-online/limite-do-cartao.shtm",
+                                        "ClassArea":"limite-do-cartao"
+                                    },
+                                    {
+                                        "NomeArea":"Pagamento de Fatura",
+                                        "UrlArea":"/html/classic/produtos-servicos/cartoes/servicos/servicos-online/pagamento-de-fatura.shtm",
+                                        "ClassArea":"pagamento-de-fatura"
+                                    },
+                                    {
+                                        "NomeArea":"Pesquisa de Cartão Não Recebido",
+                                        "UrlArea":"/html/classic/produtos-servicos/cartoes/servicos/servicos-online/pesquisa-de-cartao-nao-recebido.shtm",
+                                        "ClassArea":"pesquisa-de-cartao-nao-recebido"
+                                    },
+                                    {
+                                        "NomeArea":"Serviços Verified by Visa",
+                                        "UrlArea":"/html/classic/produtos-servicos/cartoes/servicos/servicos-online/servicos-verified-by-visa.shtm",
+                                        "ClassArea":"servicos-verified-by-visa"
+                                    }
+                                ]
+                            },
+                            {
+                                "NomeArea":"Serviços Financeiros",
+                                "UrlArea":"/html/classic/produtos-servicos/cartoes/servicos/servicos-financeiros/index.shtm",
+                                "ClassArea":"servicos-financeiros",
+                                "SubMenu":[
+                                    {
+                                        "NomeArea":"Crédito Rotativo",
+                                        "UrlArea":"/html/classic/produtos-servicos/cartoes/servicos/servicos-financeiros/credito-rotativo.shtm",
+                                        "ClassArea":"credito-rotativo"
+                                    },
+									{
+                                        "NomeArea":"Parcelamento de Fatura",
+                                        "UrlArea":"/html/classic/produtos-servicos/cartoes/servicos/servicos-financeiros/parcelamento-exclusivo-de-fatura.shtm",
+                                        "ClassArea":"parcelamento-exclusivo-de-fatura"
+                                    },
+									{
+                                        "NomeArea":"Pagamento de Contas com Cartão de Crédito",
+                                        "UrlArea":"/html/classic/produtos-servicos/cartoes/servicos/servicos-financeiros/pagamento-de-contas-com-cartao-de-credito.shtm",
+                                        "ClassArea":"pagamento-de-contas-com-cartao-de-credito"
+                                    },
+									{
+                                        "NomeArea":"Limite Emergencial",
+                                        "UrlArea":"/html/classic/produtos-servicos/cartoes/servicos/servicos-financeiros/limite-emergencial.shtm",
+                                        "ClassArea":"limite-emergencial"
+                                    },
+									{
+                                        "NomeArea":"Crediário Cartão de Crédito Bradesco",
+                                        "UrlArea":"/html/classic/produtos-servicos/cartoes/servicos/servicos-financeiros/crediario-cartao-de-credito-bradesco.shtm",
+                                        "ClassArea":"crediario-bradesco"
+                                    },
+									{
+                                        "NomeArea":"Função Débito",
+                                        "UrlArea":"/html/classic/produtos-servicos/cartoes/servicos/servicos-financeiros/funcao-debito.shtm",
+                                        "ClassArea":"funcao-debito"
+                                    },
+									{
+                                        "NomeArea":"Liberação da função Crédito",
+                                        "UrlArea":"/html/classic/produtos-servicos/cartoes/servicos/servicos-financeiros/liberacao-da-funcao-credito.shtm",
+                                        "ClassArea":"liberacao-da-funcao-credito"
+                                    },
+									{
+                                        "NomeArea":"Parcelamento de Compras",
+                                        "UrlArea":"/html/classic/produtos-servicos/cartoes/servicos/servicos-financeiros/parcelamento-de-compras.shtm",
+                                        "ClassArea":"parcelamento-de-compras"
+                                    },
+									{
+                                        "NomeArea":"Restabelecimento de Limite – Cartão de Crédito",
+                                        "UrlArea":"/html/classic/produtos-servicos/cartoes/servicos/servicos-financeiros/restabelecimento-de-limite.shtm",
+                                        "ClassArea":"restabelecimento-de-limite"
+                                    },
+									{
+                                        "NomeArea":"Saque emergencial",
+                                        "UrlArea":"/html/classic/produtos-servicos/cartoes/servicos/servicos-financeiros/saques-de-emergencia-express-cash.shtm",
+                                        "ClassArea":"saques-de-emergencia-express-cash"
+                                    },
+									{
+                                        "NomeArea":"Transferência de Cartão de Crédito para Conta Bradesco",
+                                        "UrlArea":"/html/classic/produtos-servicos/cartoes/servicos/servicos-financeiros/transferencia-de-limite-de-saque.shtm",
+                                        "ClassArea":"transferencia-de-limite-de-saque"
+                                    },
+									{
+                                        "NomeArea":"Renegociação de Dívidas",
+                                        "UrlArea":"/html/classic/produtos-servicos/cartoes/servicos/servicos-financeiros/renegociacao-de-divida.shtm",
+                                        "ClassArea":"renegociacao-de-dividas1"
+                                    },
+                                    {
+                                        "NomeArea":"Serviço de Saque com Visa Electron",
+                                        "UrlArea":"/html/classic/produtos-servicos/cartoes/servicos/servicos-financeiros/servico-de-saque-com-visa-electron.shtm",
+                                        "ClassArea":"servico-de-saque-com-visa-electron"
+                                    },
+                                    {
+                                        "NomeArea":"Premium Cash",
+                                        "UrlArea":"/html/classic/produtos-servicos/cartoes/servicos/servicos-financeiros/premium-cash.shtm",
+                                        "ClassArea":"premium-cash"
+                                    }
+                                ]
+                            },
+                            {
+                                "NomeArea":"Serviços de Segurança",
+                                "UrlArea":"/html/classic/produtos-servicos/cartoes/servicos/servicos-seguranca/index.shtm",
+                                "ClassArea":"servicos-seguranca",
+                                "SubMenu":[
+                                    {
+                                        "NomeArea":"Chip",
+                                        "UrlArea":"/html/classic/produtos-servicos/cartoes/servicos/servicos-seguranca/chip.shtm",
+                                        "ClassArea":"chip"
+                                    },
+                                    {
+                                        "NomeArea":"Chip Amex",
+                                        "UrlArea":"/html/classic/produtos-servicos/cartoes/servicos/servicos-seguranca/chip-amex.shtm",
+                                        "ClassArea":"chip-amex"
+                                    },
+                                    {
+                                        "NomeArea":"Proteção em Caixas Eletrônicos",
+                                        "UrlArea":"/html/classic/produtos-servicos/cartoes/servicos/servicos-seguranca/protecao-em-caixas-eletronicos.shtm",
+                                        "ClassArea":"protecao-em-caixas-eletronicos"
+                                    },
+                                    {
+                                        "NomeArea":"Protection-Line",
+                                        "UrlArea":"/html/classic/produtos-servicos/cartoes/servicos/servicos-seguranca/protection-line.shtm",
+                                        "ClassArea":"protection-line"
+                                    },
+                                    {
+                                        "NomeArea":"Serviço de Proteção On-line Contra Fraude",
+                                        "UrlArea":"/html/classic/produtos-servicos/cartoes/servicos/servicos-seguranca/servico-de-protecao-on-line-contra-fraude.shtm",
+                                        "ClassArea":"servico-de-protecao-on-line-contra-fraude"
+                                    }
+                                ]
+                            },
+                            {
+                                "NomeArea":"Seguros Opcionais",
+                                "UrlArea":"/html/classic/produtos-servicos/cartoes/servicos/seguros-opcionais/index.shtm",
+                                "ClassArea":"seguros-opcionais",
+                                "SubMenu":[
+                                    {
+                                        "NomeArea": "Plano Odontológico Bradesco Dental Ideal",
+                                        "UrlArea": "/html/classic/produtos-servicos/cartoes/servicos/seguros-opcionais/seguro-bradesco-dental-ideal.shtm",
+                                        "ClassArea": "seguro-bradesco-dental-ideal"
+                                    },
+                                    {
+                                        "NomeArea": "Seguro Proteção Vida Bradesco",
+                                        "UrlArea": "/html/classic/produtos-servicos/cartoes/servicos/seguros-opcionais/seguro-protecao-vida-bradesco.shtm",
+                                        "ClassArea": "seguro-protecao-vida-bradesco"
+                                    },
+                                    {
+                                        "NomeArea": "Seguro Proteção Especial Bradesco",
+                                        "UrlArea": "/html/classic/produtos-servicos/cartoes/servicos/seguros-opcionais/seguro-protecao-especial-bradesco.shtm",
+                                        "ClassArea": "seguro-protecao-especial-bradesco"
+                                    },
+                                    {
+                                        "NomeArea": "Seguros American Express",
+                                        "UrlArea": "/html/classic/produtos-servicos/cartoes/servicos/seguros-opcionais/seguro-american-express.shtm",
+                                        "ClassArea": "seguro-american-express"
+                                    },
+                                    {
+                                        "NomeArea":"Proteção Pessoal Bradesco",
+                                        "UrlArea":"/html/classic/produtos-servicos/cartoes/servicos/seguros-opcionais/protecao-pessoal-bradesco.shtm",
+                                        "ClassArea":"protecao-pessoal-bradesco"
+                                    },
+
+                                    {
+                                        "NomeArea":"Seguro Cartão de Débito Bradesco",
+                                        "UrlArea":"/html/classic/produtos-servicos/cartoes/servicos/seguros-opcionais/seguro-mais-protecao-bradesco.shtm",
+                                        "ClassArea":"seguro-mais-protecao-bradesco"
+                                    },
+
+                                    {
+                                        "NomeArea":"Seguro Proteção Desemprego Bradesco",
+                                        "UrlArea":"/html/classic/produtos-servicos/cartoes/servicos/seguros-opcionais/seguro-protecao-desemprego-bradesco.shtm",
+                                        "ClassArea":"seguro-protecao-desemprego-bradesco"
+                                    },
+                                    {
+                                        "NomeArea":"Seguro Proteção Plus Bradesco",
+                                        "UrlArea":"/html/classic/produtos-servicos/cartoes/servicos/seguros-opcionais/seguro-protecao-plus-bradesco.shtm",
+                                        "ClassArea":"seguro-protecao-plus-bradesco"
+                                    },
+                                    {
+                                        "NomeArea": "Seguro Segurança Familiar",
+                                        "UrlArea": "/html/classic/produtos-servicos/cartoes/servicos/seguros-opcionais/seguro-familiar.shtm",
+                                        "ClassArea": "seguro-familiar"
+                                    },
+                                    {
+                                        "NomeArea":"Seguro Superprotegido Premiável",
+                                        "UrlArea":"/html/classic/produtos-servicos/cartoes/servicos/seguros-opcionais/seguro-cartao-superprotegido-premiavel.shtm",
+                                        "ClassArea":"seguro-cartao-superprotegido-premiavel"
+                                    },
+				                            {
+                                        "NomeArea":"Seguro Residencial Bradesco",
+                                        "UrlArea":"/html/classic/produtos-servicos/cartoes/servicos/seguros-opcionais/seguro-residencial-bradesco.shtm",
+                                        "ClassArea":"seguro-residencial-bradesco"
+                                    }
+                                ]
+                            },
+                            {
+                                "NomeArea":"Taxas dos Cartões de Créditos",
+                                "UrlArea":"/html/classic/produtos-servicos/cartoes/servicos/taxas-dos-cartoes-de-credito.shtm",
+                                "ClassArea":"taxas-dos-cartoes-de-credito"
+                            },
+                            {
+                                "NomeArea":"Correspondente no País",
+                                "UrlArea":"/html/classic/produtos-servicos/cartoes/servicos/correspondente-no-pais.shtm",
+                                "ClassArea":"correspondente-no-pais"
+                            }
+                        ]
+                    },
+                    {
+                        "NomeArea":"Benefícios e Ofertas",
+                        "UrlArea":"https://banco.bradesco/cartoes/ofertasebeneficios",
+                        "ClassArea":"beneficios"
+                    },
+                    {
+                        "NomeArea":"Aplicativo<br/> Bradesco Cartões",
+                        "UrlArea":"/html/classic/produtos-servicos/cartoes/bradesco-cartoes/index.shtm",
+                        "ClassArea":"bradesco-cartoes"
+                    },
+				        	  {
+                        "NomeArea":"Pagamentos Digitais",
+                        "UrlArea":"/html/classic/produtos-servicos/cartoes/pagamentos-digitais.shtm",
+                        "ClassArea":"carteiras-digitais",
+                        "SubMenu":[
+                            {
+                                "NomeArea":"Google Pay",
+                                "UrlArea":"/cartoes/googlepay/",
+                                "ClassArea":"samsumg-pay"
+                            },{
+                                "NomeArea":"Samsung Pay",
+                                "UrlArea":"/cartoes/samsungpay/",
+                                "ClassArea":"samsumg-pay"
+                            },
+                            {
+                                "NomeArea":"Apple Pay",
+                                "UrlArea":"/cartoes/applepay/",
+                                "ClassArea":"samsumg-pay"
+                            },
+                            {
+                                "NomeArea": "Qr Code",
+                                "UrlArea": "/qrcode/",
+                                "ClassArea": "samsumg-pay"
+                            }
+                        ]
+                    },
+                    {
+                        "NomeArea":"Cotação do Dólar",
+                        "UrlArea":"/html/classic/produtos-servicos/cartoes/cotacao-moeda/index.shtm",
+                        "ClassArea":"cotacao-moeda"
+                    }
+                ]
+            },
+            {
+                "NomeArea":"Cestas de Serviços e Tarifas",
+                "UrlArea":"/html/classic/produtos-servicos/tarifas/index.shtm",
+                "ClassArea":"tarifas"
+            },
+            {
+                "NomeArea":"Consórcios",
+                "UrlArea":"/html/classic/produtos-servicos/consorcios/index.shtm",
+                "ClassArea":"consorcios 1",
+                "SubMenu":[
+                    {
+                      "NomeArea":"Simule seu Consórcio",
+                      "UrlArea":"/html/classic/produtos-servicos/consorcios/simule-seu-consorcio/index.shtm",
+                      "ClassArea":"simule-seu-consorcio",
+                      "SubMenu":[
+                          {
+                              "NomeArea":"Automóveis",
+                              "UrlArea":"/html/classic/produtos-servicos/consorcios/simule-seu-consorcio/simuladores-automoveis.shtm",
+                              "ClassArea":"simuladores-automoveis"
+                          },
+                          {
+                            "NomeArea":"Veículos Pesados",
+                            "UrlArea":"/html/classic/produtos-servicos/consorcios/simule-seu-consorcio/simuladores-veiculos-pesados.shtm",
+                            "ClassArea":"simuladores-veiculos-pesados"
+                          },
+                          {
+                            "NomeArea":"Imóveis",
+                            "UrlArea":"/html/classic/produtos-servicos/consorcios/simule-seu-consorcio/simuladores-imoveis.shtm",
+                            "ClassArea":"simuladores-imoveis"
+                          }
+                        ]
+                    },
+                    {
+                        "NomeArea":"Automóveis",
+                        "UrlArea":"/html/classic/produtos-servicos/consorcios/automoveis/index.shtm",
+                        "ClassArea":"automoveis",
+                        "SubMenu":[
+                            {
+                                "NomeArea":"Consórcio de Automóveis Bradesco",
+                                "UrlArea":"/html/classic/produtos-servicos/consorcios/automoveis/consorcio-automoveis.shtm",
+                                "ClassArea":"consorcio-automoveis"
+                            },
+                            {
+                                "NomeArea":"Consórcio Bradesco Especial Mulher",
+                                "UrlArea":"/html/classic/produtos-servicos/consorcios/automoveis/consorcio-bradesco-especial-mulher.shtm",
+                                "ClassArea":"consorcio-bradesco-especial-mulher"
+                            },
+                            {
+                                "NomeArea":"Consórcio Servidor Público - Automóveis",
+                                "UrlArea":"/html/classic/produtos-servicos/consorcios/automoveis/consorcio-servidor-publico.shtm",
+                                "ClassArea":"consorcio-servidor-publico"
+                            },
+                            {
+                                "NomeArea":"Consórcio Universitário Bradesco – Automóveis",
+                                "UrlArea":"/html/classic/produtos-servicos/consorcios/automoveis/consorcio-universitario-bradesco.shtm",
+                                "ClassArea":"consorcio-universitario-bradesco"
+                            }
+                        ]
+                    },
+                    {
+                        "NomeArea":"Veículos Pesados",
+                        "UrlArea":"/html/classic/produtos-servicos/consorcios/veiculos-pesados/index.shtm",
+                        "ClassArea":"veiculos-pesados",
+                        "SubMenu":[
+                            {
+                                "NomeArea":"Consórcio de Caminhões Bradesco",
+                                "UrlArea":"/html/classic/produtos-servicos/consorcios/veiculos-pesados/consorcio-caminhoes.shtm",
+                                "ClassArea":"consorcio-caminhoes"
+                            },
+                            {
+                                "NomeArea":"Consórcio de Tratores Bradesco",
+                                "UrlArea":"/html/classic/produtos-servicos/consorcios/veiculos-pesados/consorcio-tratores.shtm",
+                                "ClassArea":"consorcio-tratores"
+                            },
+                            {
+                                "NomeArea":"Consórcio de Ônibus Bradesco",
+                                "UrlArea":"/html/classic/produtos-servicos/consorcios/veiculos-pesados/consorcio-onibus.shtm",
+                                "ClassArea":"consorcio-onibus"
+                            }
+                        ]
+                    },
+                    {
+                        "NomeArea":"Imóveis",
+                        "UrlArea":"/html/classic/produtos-servicos/consorcios/imoveis/index.shtm",
+                        "ClassArea":"imoveis 1",
+                        "SubMenu":[
+                            {
+                                "NomeArea":"Consórcio de Imóveis Bradesco",
+                                "UrlArea":"/html/classic/produtos-servicos/consorcios/imoveis/consorcio-imoveis.shtm",
+                                "ClassArea":"consorcio-imoveis"
+                            },
+                            {
+                                "NomeArea":"Consórcio Servidor Público – Imóveis",
+                                "UrlArea":"/html/classic/produtos-servicos/consorcios/imoveis/consorcio-imoveis-servidor.shtm",
+                                "ClassArea":"consorcio-imoveis-servidor"
+                            },
+                            {
+                                "NomeArea":"Consórcio Universitário Bradesco – Imóveis",
+                                "UrlArea":"/html/classic/produtos-servicos/consorcios/imoveis/consorcio-imoveis-universitario.shtm",
+                                "ClassArea":"consorcio-imoveis-universitario"
+                            }
+                        ]
+                    },
+                    {
+                        "NomeArea":"Outras soluções de consórcios",
+                        "UrlArea":"/html/classic/produtos-servicos/consorcios/outras-solucoes-de-consorcios/index.shtm",
+                        "ClassArea":"outras-solucoes-de-consorcios",
+                        "SubMenu":[
+                          {
+                            "NomeArea":"Renovação de frotas",
+                            "UrlArea":"/html/classic/produtos-servicos/consorcios/outras-solucoes-de-consorcios/consorcio-renovacao-frota.shtm",
+                            "ClassArea":"consorcio-renovacao-frota"
+                          },
+                          {
+                            "NomeArea":"Consórcio de Equipamentos Odontologicos",
+                            "UrlArea":"/html/classic/produtos-servicos/consorcios/outras-solucoes-de-consorcios/consorcio-cadeira-dentista.shtm",
+                            "ClassArea":"consorcio-cadeira-dentista"
+                          }
+                        ]
+                    },
+                    {
+                        "NomeArea":"Todos os Consórcios",
+                        "UrlArea":"/html/classic/produtos-servicos/consorcios/todos-os-consorcios.shtm",
+                        "ClassArea":"todos-os-consorcios"
+                    },
+                    {
+                        "NomeArea":"Serviços",
+                        "UrlArea":"/html/classic/produtos-servicos/consorcios/servicos.shtm",
+                        "ClassArea":"servicos 18",
+                        "SubMenu":[
+                            {
+                                "NomeArea":"2ª Via de Boleto",
+                                "UrlArea":"/html/classic/produtos-servicos/consorcios/servicos/segunda-via-de-boleto.shtm",
+                                "ClassArea":"segunda-via-de-boleto"
+                            },
+                            {
+                              "NomeArea": "Atualização Cadastral",
+                              "UrlArea": "/html/classic/produtos-servicos/consorcios/servicos/alteracao-de-endereco.shtm",
+                              "ClassArea": "alteracao-de-endereco"
+                            },
+                            {
+                                "NomeArea":"Atualização de Cotas em Atraso de Clientes Contemplados",
+                                "UrlArea":"/html/classic/produtos-servicos/consorcios/servicos/atualizacao-de-cotas-em-atraso.shtm",
+                                "ClassArea":"pagamento-de-consorcio"
+                            },
+                            {
+                                "NomeArea":"Baixa de Gravame",
+                                "UrlArea":"/html/classic/produtos-servicos/consorcios/servicos/baixagravame.shtm",
+                                "ClassArea":"baixagravame"
+                            },
+                            {
+                                "NomeArea":"Calendário de Assembleias",
+                                "UrlArea":"/html/classic/produtos-servicos/consorcios/servicos/calendario-assembleias.shtm",
+                                "ClassArea":"calendario-assembleias"
+                            },
+                            {
+                                "NomeArea":"Contemplação",
+                                "UrlArea":"/html/classic/produtos-servicos/consorcios/servicos/contemplacao.shtm",
+                                "ClassArea":"contemplacao"
+                            },
+                            {
+                                "NomeArea":"Contratos",
+                                "UrlArea":"/html/classic/produtos-servicos/consorcios/servicos/documentos-contratos.shtm",
+                                "ClassArea":"documentos-contratos"
+                            },
+                            {
+                                "NomeArea":"Cotas Inativas e Grupos Encerrados",
+                                "UrlArea":"/html/classic/produtos-servicos/consorcios/servicos/cotas-inativas-grupos-encerrados.shtm",
+                                "ClassArea":"cotas-inativas-grupos-encerrados"
+                            },
+                            {
+                                "NomeArea":"Declaração de IR",
+                                "UrlArea":"/html/classic/produtos-servicos/consorcios/servicos/declaracao-de-ir.shtm",
+                                "ClassArea":"declaracao-de-ir"
+                            },
+                            {
+                                "NomeArea":"Diluição do Lance",
+                                "UrlArea":"/html/classic/produtos-servicos/consorcios/servicos/diluicao-do-lance.shtm",
+                                "ClassArea":"diluicao-do-lance"
+                            },
+                            {
+                                "NomeArea":"Documentos para liberação de crédito",
+                                "UrlArea":"/html/classic/produtos-servicos/consorcios/servicos/documentos-liberacao-credito.shtm",
+                                "ClassArea":"documentos-liberacao-credito"
+                            },
+                            {
+                                "NomeArea":"Extrato",
+                                "UrlArea":"/html/classic/produtos-servicos/consorcios/servicos/aceita-extrato-sustentavel.shtm",
+                                "ClassArea":"aceita-extrato-sustentavel"
+                            },
+                            {
+                                "NomeArea":"Grupos Encerrados",
+                                "UrlArea":"/html/classic/produtos-servicos/consorcios/servicos/grupos-encerrados.shtm",
+                                "ClassArea":"consorcios 2"
+                            },
+                            {
+                                "NomeArea":"Mudança do Bem",
+                                "UrlArea":"/html/classic/produtos-servicos/consorcios/servicos/mudanca.shtm",
+                                "ClassArea":"mudanca"
+                            },
+                            {
+                                "NomeArea":"Ofertas de Lance",
+                                "UrlArea":"/html/classic/produtos-servicos/consorcios/servicos/ofertas-de-lance.shtm",
+                                "ClassArea":"ofertas-de-lance"
+                            },
+                            {
+                                "NomeArea":"Pagamento do Crédito em Espécie",
+                                "UrlArea":"/html/classic/produtos-servicos/consorcios/servicos/pagamento.shtm",
+                                "ClassArea":"pagamento"
+                            },
+                            {
+                                "NomeArea":"Regularização de parcelas em atraso",
+                                "UrlArea":"/html/classic/produtos-servicos/consorcios/servicos/parcelas-em-atraso.shtm",
+                                "ClassArea":"parcelas-em-atraso"
+                            },
+                            {
+                                "NomeArea":"Quitação do Saldo Devedor",
+                                "UrlArea":"/html/classic/produtos-servicos/consorcios/servicos/quitacao-do-saldo-devedor.shtm",
+                                "ClassArea":"quitacao-do-saldo-devedor"
+                            },
+                            {
+                                "NomeArea":"Reajuste ou Redução do Valor do Bem",
+                                "UrlArea":"/html/classic/produtos-servicos/consorcios/servicos/reajuste.shtm",
+                                "ClassArea":"reajuste"
+                            },
+                            {
+                                "NomeArea":"Substituição de Garantia - bens móveis",
+                                "UrlArea":"/html/classic/produtos-servicos/consorcios/servicos/substituicao-de-garantia.shtm",
+                                "ClassArea":"substituicao-de-garantia-bens-moveis"
+                            },
+                            {
+                                "NomeArea":"Transferência de Titularidade",
+                                "UrlArea":"/html/classic/produtos-servicos/consorcios/servicos/transferenciatitularidade.shtm",
+                                "ClassArea":"transferenciatitularidade"
+                            },
+                            {
+                                "NomeArea":"Uso do FGTS",
+                                "UrlArea":"/html/classic/produtos-servicos/consorcios/servicos/uso-do-fgts.shtm",
+                                "ClassArea":"uso-do-fgts"
+                            }
+                        ]
+                    },
+					{
+                        "NomeArea":"Tarifas Consórcio",
+                        "UrlArea":"/assets/common/pdf/folheto-pf-tarifas.pdf",
+                        "ClassArea":"Tarifas",
+                        "Target":"_blank"
+                    }
+                ]
+            },
+            {
+                "NomeArea":"Empréstimos e Financiamentos",
+                "UrlArea":"/html/classic/produtos-servicos/emprestimo-e-financiamento/index.shtm",
+                "ClassArea":"emprestimo-e-financiamento",
+                "SubMenu": [
+                   	{
+                  	"NomeArea":"Crédito Parcelado",
+                  	"UrlArea":"/html/classic/produtos-servicos/emprestimo-e-financiamento/credito-parcelado.shtm",
+                  	"ClassArea":"credito-parcelado"
+                	},
+                    {
+            		"NomeArea":"Cheque Especial",
+		            "UrlArea":"/html/classic/produtos-servicos/emprestimo-e-financiamento/cheque-especial.shtm",
+		            "ClassArea":"cheque-especial"
+          			},
+          			{
+            		"NomeArea":"Crédito Consignado",
+		            "UrlArea":"/html/classic/produtos-servicos/emprestimo-e-financiamento/credito-pessoal-consignado.shtm",
+		            "ClassArea":"credito-pessoal-consignado"
+          			},
+          			{
+                    "NomeArea":"Crédito Pessoal",
+            		"UrlArea":"/html/classic/produtos-servicos/emprestimo-e-financiamento/credito-pessoal/index.shtm",
+                        "ClassArea":"credito-pessoal",
+                        "SubMenu": [
+              				{
+                                "NomeArea":"Limite de Crédito Pessoal",
+                                "UrlArea":"/html/classic/produtos-servicos/emprestimo-e-financiamento/credito-pessoal/limite-de-credito-pessoal.shtm",
+                                "ClassArea":"limite-de-credito-pessoal"
+                            },
+
+                            {
+                                "NomeArea":"Crédito Pessoal Bradesco",
+                                "UrlArea":"/html/classic/produtos-servicos/emprestimo-e-financiamento/credito-pessoal/credito-pessoal-bradesco.shtm",
+                                "ClassArea":"credito-pessoal-bradesco"
+                            },
+              				{
+                                "NomeArea":"Crédito Pessoal Vinculado",
+                                "UrlArea":"/html/classic/produtos-servicos/emprestimo-e-financiamento/credito-pessoal/credito-pessoal-vinculado.shtm",
+                                "ClassArea":"credito-pessoal-vinculado"
+                            },
+                    {
+                                "NomeArea":"Credimóvel Bradesco",
+                                "UrlArea":"/html/classic/produtos-servicos/emprestimo-e-financiamento/credito-pessoal/credito-pessoal-com-garantia-de-imovel.shtm",
+                                "ClassArea":"credito-pessoal-com-garantia-de-imovel"
+                            },
+              				{
+                                "NomeArea":"Credfácil Veículo Bradesco",
+                                "UrlArea":"/html/classic/produtos-servicos/emprestimo-e-financiamento/credito-pessoal/credfacil-veiculo-bradesco.shtm",
+                                "ClassArea":"credfacil-veiculo-bradesco"
+                            }
+                        ]
+          			},
+          			{
+		            "NomeArea":"Crédito Flex",
+		            "UrlArea":"/html/classic/produtos-servicos/emprestimo-e-financiamento/credito-flex-bradesco.shtm",
+		            "ClassArea":"credito-flex-bradesco"
+		          	},
+          			{
+                    "NomeArea":"Antecipações",
+            		"UrlArea":"/html/classic/produtos-servicos/emprestimo-e-financiamento/antecipacoes/index.shtm",
+                    "ClassArea":"antecipacoes",
+                    	"SubMenu": [
+	              			{
+	                        "NomeArea":"Antecipação de 13º",
+	                        "UrlArea":"/html/classic/produtos-servicos/emprestimo-e-financiamento/antecipacoes/antecipacao-de-13.shtm",
+	                        "ClassArea":"antecipacao-de-13"
+	                        },
+	                        {
+	                        "NomeArea":"Antecipação de IR",
+	                        "UrlArea":"/html/classic/produtos-servicos/emprestimo-e-financiamento/antecipacoes/antecipacao-de-ir.shtm",
+	                        "ClassArea":"antecipacao-de-ir"
+	                        },
+	                        {
+	                        "NomeArea":"Antecipação a Fornecedores",
+	                        "UrlArea":"/html/classic/produtos-servicos/emprestimo-e-financiamento/antecipacoes/antecipacao-fornecedores.shtm",
+	                        "ClassArea":"antecipacao-fornecedores"
+	                        }
+                    	]
+          			},
+          			{
+                        "NomeArea":"Crédito Imobiliário",
+            			      "UrlArea":"/html/classic/produtos-servicos/emprestimo-e-financiamento/imoveis/index.shtm",
+                        "ClassArea":"imoveis 2",
+                        "SubMenu": [
+                        ]
+                  },
+                
+          				{
+                        "NomeArea":"Financiamento de Veículos",
+            			      "UrlArea":"/html/classic/produtos-servicos/emprestimo-e-financiamento/financiamento-veiculos.shtm",
+                        "ClassArea":"financiamento-veiculos"
+                        
+                  },
+                  
+          				{
+                        "NomeArea":"Bens e Serviços",
+            			"UrlArea":"/html/classic/produtos-servicos/emprestimo-e-financiamento/outros-bens-e-servicos/index.shtm",
+                        "ClassArea":"outros-bens-e-servicos",
+                        "SubMenu": [
+              				{
+                                "NomeArea":"CDC Acessibilidade",
+                                "UrlArea":"/html/classic/produtos-servicos/emprestimo-e-financiamento/outros-bens-e-servicos/cdc-acessibilidade.shtm",
+                                "ClassArea":"cdc-acessibilidade"
+                            },
+                            {
+                                "NomeArea":"CDC Cirurgia Plástica",
+                                "UrlArea":"/html/classic/produtos-servicos/emprestimo-e-financiamento/outros-bens-e-servicos/cirurgia-plastica.shtm",
+                                "ClassArea":"cirurgia-plastica"
+                            },
+                            {
+                                "NomeArea":"CDC Seminários e Congressos",
+                                "UrlArea":"/html/classic/produtos-servicos/emprestimo-e-financiamento/outros-bens-e-servicos/cdc-seminarios-e-congressos.shtm",
+                                "ClassArea":"cdc-seminarios-e-congressos"
+                            },
+                            {
+                                "NomeArea":"CDC Outros Bens",
+                                "UrlArea":"/html/classic/produtos-servicos/emprestimo-e-financiamento/outros-bens-e-servicos/cdc-outros-bens.shtm",
+                                "ClassArea":"cdc-outros-bens"
+                            },
+                            {
+                                "NomeArea":"CDC Kit Gás",
+                                "UrlArea":"/html/classic/produtos-servicos/emprestimo-e-financiamento/outros-bens-e-servicos/veiculos-cdc-kit-gas.shtm",
+                                "ClassArea":"veiculos-cdc-kit-gas"
+                            }
+                        ]
+          				},
+          				{
+                        "NomeArea":"Agronegócio",
+            			"UrlArea":"https://www.bradescoagronegocio.com.br/html/rural/produtos-servicos/index.shtm",
+                        "ClassArea":"agronegocios"
+                    	},
+          				{
+                        "NomeArea":"MicroCrédito",
+            			"UrlArea":"/html/classic/produtos-servicos/emprestimo-e-financiamento/microcredito/index.shtm",
+                        "ClassArea":"microcredito",
+                        "SubMenu": [
+              				{
+                                "NomeArea":"Envie sua proposta",
+                                "UrlArea":"/html/classic/produtos-servicos/emprestimo-e-financiamento/microcredito/microcredito-produtivo-orientado-solicitar.shtm",
+                                "ClassArea":"microcredito-produtivo-orientado-solicitar"
+                            }
+                        ]
+                    },
+          			{
+                        "NomeArea":"Leasing",
+            			"UrlArea":"/html/classic/produtos-servicos/emprestimo-e-financiamento/leasing/index.shtm",
+                        "ClassArea":"leasing",
+                        "SubMenu": [
+                            {
+                                "NomeArea":"Leasing Ambiental",
+                                "UrlArea":"/html/classic/produtos-servicos/emprestimo-e-financiamento/leasing/leasing-ambiental.shtm",
+                                "ClassArea":"leasing-ambiental"
+                            },
+                            {
+                                "NomeArea":"Leasing Outros Bens",
+                                "UrlArea":"/html/classic/produtos-servicos/emprestimo-e-financiamento/leasing/leasing-outros-bens.shtm",
+                                "ClassArea":"leasing-outros-bens"
+                            }
+                        ]
+                    },
+                   {
+                        "NomeArea":"Universitários",
+                        "UrlArea":"/html/classic/produtos-servicos/emprestimo-e-financiamento/universitario/index.shtm",
+                        "ClassArea":"universitario",
+                        "SubMenu": [
+                            {
+                                "NomeArea":"Crédito Universitário Bradesco",
+                                "UrlArea":"/html/classic/produtos-servicos/emprestimo-e-financiamento/universitario/credito-universitario-bradesco.shtm",
+                                "ClassArea":"credito-universitario-bradesco"
+                            },
+                            {
+                                "NomeArea":"Limite de Crédito Pessoal Universitário",
+                                "UrlArea":"/html/classic/produtos-servicos/emprestimo-e-financiamento/universitario/limite-de-credito-pessoal.shtm",
+                                "ClassArea":"limite-de-credito-pessoal"
+                            },
+                            {
+                                "NomeArea":"CDC Intercâmbio",
+                                "UrlArea":"/html/classic/produtos-servicos/emprestimo-e-financiamento/universitario/cdc-intercambio.shtm",
+                                "ClassArea":"cdc-intercambio"
+                            },
+                            {
+                                "NomeArea":"CDC Material Didático Universitário",
+                                "UrlArea":"/html/classic/produtos-servicos/emprestimo-e-financiamento/universitario/cdc-material-didatico-universitarios.shtm",
+                                "ClassArea":"cdc-material-didatico-universitarios"
+                            },
+                            {
+                                "NomeArea":"CDC Matrícula/Material Escolar",
+                                "UrlArea":"/html/classic/produtos-servicos/emprestimo-e-financiamento/universitario/cdc-matricula-material-escolar.shtm",
+                                "ClassArea":"cdc-matricula-material-escolar"
+                            },
+                            {
+                                "NomeArea":"CDC MBA e Pós-Graduação",
+                                "UrlArea":"/html/classic/produtos-servicos/emprestimo-e-financiamento/universitario/cdc-mba-e-pos-graduacao.shtm",
+                                "ClassArea":"cdc-mba-e-pos-graduacao"
+                            },
+                            {
+                                "NomeArea":"CDC Seminários e Congressos",
+                                "UrlArea":"/html/classic/produtos-servicos/emprestimo-e-financiamento/universitario/cdc-seminarios-e-congressos.shtm",
+                                "ClassArea":"cdc-seminarios-e-congressos"
+                            },
+                            {
+                                "NomeArea":"CDC Outros Bens Universitário",
+                                "UrlArea":"/html/classic/produtos-servicos/emprestimo-e-financiamento/universitario/cdc-outros-bens-universitarios.shtm",
+                                "ClassArea":"cdc-outros-bens-universitarios"
+                            },
+                            {
+                                "NomeArea":"Crédito Pessoal Bradesco Universitário",
+                                "UrlArea":"/html/classic/produtos-servicos/emprestimo-e-financiamento/universitario/credito-pessoal-bradesco-universitarios.shtm",
+                                "ClassArea":"credito-pessoal-bradesco-universitarios"
+                            }
+                        ]
+                },
+
+          			{
+                        "NomeArea":"Aposentados",
+            			"UrlArea":"https://www.bradescoaposentados.com.br/html/aposentados/produtos-servicos/index.shtm",
+                        "ClassArea":"aposentados"
+                    }
+                ]
+            },
+            {
+                "NomeArea":"Investimentos",
+                "UrlArea":"/html/classic/produtos-servicos/investimentos/index.shtm",
+                "ClassArea":"investimentos 1",
+                "SubMenu":[
+					{
+                        "NomeArea":"Assessoria para Investir",
+                        "UrlArea":"/html/classic/produtos-servicos/investimentos/assessoria-para-investir/index.shtm",
+                        "ClassArea":"assessoria-para-investir",
+                        "SubMenu":[
+                            {
+                              
+                                "NomeArea":"API - Análise de Perfil do Investidor",
+                                "UrlArea":"/html/classic/produtos-servicos/investimentos/assessoria-para-investir/analise-do-perfil-do-investidor.shtm",
+                                "ClassArea":"analise-do-perfil-do-investidor"
+                            },
+                            {
+                                "NomeArea":"Meu 1° Investimento",
+                                "UrlArea":"/html/classic/produtos-servicos/investimentos/assessoria-para-investir/meu-primeiro-investimento.shtm",
+                                "ClassArea":"meu-primeiro-investimento"
+                            }
+                        ]
+                    },
+                    {
+                        "NomeArea":"Ações",
+                        "UrlArea":"/html/classic/produtos-servicos/investimentos/acoes.shtm",
+                        "ClassArea":"acoes"
+                    },
+                    {
+                        "NomeArea":"CDB",
+                        "UrlArea":"/html/classic/produtos-servicos/investimentos/cdb.shtm",
+                        "ClassArea":"cdb"
+                    },
+                    {
+                        "NomeArea":"Invest Bradesco",
+                        "UrlArea":"/html/classic/produtos-servicos/investimentos/invest.shtm",
+                        "ClassArea":"invest"
+                    },
+                    {
+                        "NomeArea":"Fundos",
+                        "UrlArea":"/html/classic/produtos-servicos/investimentos/fundos/index.shtm",
+                        "ClassArea":"fundos",
+                        "SubMenu":[
+                            {
+                                "NomeArea":"Fundos Imobiliários",
+                                "UrlArea":"/html/classic/produtos-servicos/investimentos/fundos/fundos-imobiliarios.shtm",
+                                "ClassArea":"fundos-imobiliarios"
+                            },
+                            {
+                                "NomeArea":"Entenda os Fundos",
+                                "UrlArea":"/html/classic/produtos-servicos/investimentos/fundos/entenda-os-fundos.shtm",
+                                "ClassArea":"entenda-os-fundos"
+                            },
+                            {
+                                "NomeArea":"Informações aos Cotistas",
+                                "UrlArea":"/html/classic/produtos-servicos/investimentos/fundos/informacoes-aos-cotistas.shtm",
+                                "ClassArea":"informacoes-aos-cotistas"
+                            },
+                            {
+                                "NomeArea":"Tabela Rentabilidade",
+                                "UrlArea":"/html/classic/produtos-servicos/investimentos/fundos/tabela-de-rentabilidade.shtm",
+                                "ClassArea":"tabela-de-rentabilidade"
+                            }
+                        ]
+                    },
+                    {
+                      "NomeArea":"Letra de Crédito Imobiliário",
+                      "UrlArea":"/html/classic/produtos-servicos/investimentos/letra-credito-imobiliario.shtm",
+                      "ClassArea":"letra-credito-imobiliario"
+                  },
+                  {
+                    "NomeArea":"Letra Imobiliária Garantida",
+                    "UrlArea":"/html/classic/produtos-servicos/investimentos/letra-imobiliaria-garantida.shtm",
+                    "ClassArea":"letra-imobiliaria-garantida"
+                  },
+                    {
+                        "NomeArea":"Mercados Futuros",
+                        "UrlArea":"/html/classic/produtos-servicos/investimentos/mercados-futuros.shtm",
+                        "ClassArea":"mercados-futuros"
+                    },
+                    {
+                        "NomeArea":"Poupança",
+                        "UrlArea":"/html/classic/produtos-servicos/investimentos/poupanca.shtm",
+                        "ClassArea":"poupanca"
+                    },
+                    {
+                        "NomeArea":"Poupa Troco",
+                        "UrlArea":"/html/classic/produtos-servicos/investimentos/poupa-troco.shtm",
+                        "ClassArea":"poupa-troco"
+                    },
+                    {
+                        "NomeArea":"Tesouro Direto",
+                        "UrlArea":"/html/classic/produtos-servicos/investimentos/tesouro-direto.shtm",
+                        "ClassArea":"tesouro-direto"
+                    },
+                    {
+                        "NomeArea":"Portabilidade de Investimentos e Normas para Operar",
+                        "UrlArea":"/html/classic/produtos-servicos/investimentos/normas-para-operar.shtm",
+                        "ClassArea":"normas-para-operar"
+                    }
+                ]
+            },
+            {
+                "NomeArea":"Leilões de Imóveis",
+                "UrlArea":"https://portalpatrimonio.bradesco.com.br/",
+                "ClassArea":"leiloes-de-imoveis"
+            },
+            {
+                "NomeArea": "Renegociação de Dívidas",
+                "UrlArea": "/html/classic/produtos-servicos/renegociacao-de-dividas/index.shtm",
+                "ClassArea": "renegociacao-de-dividas",
+                "SubMenu": [
+                  
+                ]
+            },
+            {
+                "NomeArea":"Seguros",
+                "UrlArea":"/html/classic/produtos-servicos/seguros/index.shtm",
+                "ClassArea":"seguros 1"
+            },
+            {
+                "NomeArea":"Tipos de Contas",
+                "UrlArea":"/html/classic/produtos-servicos/tipos-de-conta/index.shtm",
+                "ClassArea":"tipos-de-conta"
+            },
+            {
+                "NomeArea":"Vida e Previdência",
+                "UrlArea":"/html/classic/produtos-servicos/vida-e-previdencia/index.shtm",
+                "ClassArea":"vida-e-previdencia"
+            },
+            {
+                "NomeArea":"Termos Aplicativos Bradesco",
+                "UrlArea":"/html/classic/produtos-servicos/termos-bradesco-celular.shtm",
+                "ClassArea":"termos-bradesco-celular"
+            },
+            {
+                "NomeArea":"Serviços",
+                "UrlArea":"/html/classic/produtos-servicos/index.shtm#tabServicos",
+                "ClassArea":"mais-produtos-servicos"
+            }
+        ]
+    },
+    {
+        "NomeArea":"Benefícios <span>e Novidades</span>",
+        "UrlArea":"/html/classic/promocoes/index.shtm",
+        "ClassArea":"promocoes"
+    },
+    {
+        "NomeArea":"Acessibilidade",
+        "UrlArea":"/html/classic/acessibilidade/index.shtm",
+        "ClassArea":"acessibilidade 2"
+    },
+    {
+        "NomeArea":"Educação <span>Financeira</span>",
+        "UrlArea":"/html/classic/novo-educacao-financeira/index.shtm",
+        "ClassArea":"educacao-financeira",
+        "SubMenu":[
+            {
+                "NomeArea":"Em destaque",
+                "UrlArea":"/html/classic/novo-educacao-financeira/index.shtm?em-destaque",
+                "ClassArea":"em-destaque"
+            },
+            {
+                "NomeArea":"Simule seus Sonhos",
+                "UrlArea":"/html/classic/novo-educacao-financeira/index.shtm?simule-seus-sonhos",
+                "ClassArea":"simule-seus-sonhos"
+            },
+
+            {
+                "NomeArea":"Jogo de Valores",
+                "UrlArea":"/html/classic/novo-educacao-financeira/index.shtm?jogo-de-valores",
+                "ClassArea":"jogo-de-valores"
+            },
+
+            {
+                "NomeArea":"Soluções Financeiras",
+                "UrlArea":"/html/classic/novo-educacao-financeira/index.shtm?solucoes-financeiras",
+                "ClassArea":"solucoes-financeiras"
+            }
+        ]
+    },
+
+    {
+        "NomeArea":"Canais <span>Digitais</span>",
+        "UrlArea":"/html/classic/canais-digitais/index.shtm",
+        "ClassArea":"canais-digitais"
+    },
+    {
+        "NomeArea":"Atendimento",
+        "UrlArea":"/html/classic/atendimento/atendimento.shtm",
+        "ClassArea":"atendimento"
+    },
+    {
+        "NomeArea":"Como Usar",
+        "UrlArea":"/canaisdigitais/baixar-app.shtm#conteudo-ancora",
+        "ClassArea":"como-usar",
+        "SubMenu":[
+            {
+                "NomeArea":"Como Acessar sua Conta",
+                "UrlArea":"/html/classic/como-usar/como-acessar-sua-conta.shtm",
+                "ClassArea":"como-acessar-sua-conta"
+            },
+            {
+                "NomeArea":"Senhas e Dispositivos de Segurança",
+                "UrlArea":"/html/classic/como-usar/senhas-e-dispositivos-de-seguranca.shtm",
+                "ClassArea":"senhas-e-dispositivos-de-seguranca"
+            },
+            {
+                "NomeArea":"Chat Internet Banking",
+                "UrlArea":"#",
+                "ClassArea":"chat-internet-banking"
+            },
+            {
+                "NomeArea":"Navegador Exclusivo Bradesco",
+                "UrlArea":"/html/classic/como-usar/navegador-exclusivo-bradesco.shtm",
+                "ClassArea":"navegador-exclusivo-bradesco"
+            }
+        ]
+    },
+    {
+        "NomeArea":"Redes Sociais",
+        "UrlArea":"/html/classic/redes-sociais/index.shtm",
+        "ClassArea":"redes-sociais"
+    },
+    {
+        "NomeArea":"TV Samsung",
+        "UrlArea":"/html/classic/tv-samsung/index.shtm",
+        "ClassArea":"tv-samsung"
+    },
+    {
+        "NomeArea":"Mais Bradesco",
+        "UrlArea":"/html/classic/mais-bradesco/index.shtm",
+        "ClassArea":"mais-bradesco"
+    },
+    {
+        "NomeArea":"Resultado de Busca",
+        "UrlArea":"/html/classic/resultado-busca/index.shtm",
+        "ClassArea":"resultado-busca"
+    }
+]

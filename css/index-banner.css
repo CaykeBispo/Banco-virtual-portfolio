@@ -1,0 +1,97 @@
+#carousel-banner #carousel .flex-viewport {
+    bottom: 7vw;
+    height: auto;
+    right: 0;
+    justify-content: center;
+    display: flex;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    height: 20px;
+}
+
+#carousel-banner #carousel .flex-viewport ul.slides {
+    padding-right: 0;
+    transform: none !important;
+}
+
+#carousel-banner #carousel .flex-viewport ul.slides>li.flex-active-slide {
+    margin-right: 5px !important;
+    margin-left: 5px !important;
+}
+
+#carousel-banner #carousel .flex-viewport ul.slides>li {
+    max-width: 25px;
+    height: 4px;
+    transition: height 0.2s linear;
+}
+#carousel-banner #carousel .flex-viewport ul.slides>li:hover {
+    height: 15px;
+}
+
+.filtro_topo {
+    display: none;
+}
+
+.home div#carousel {
+    display: block;
+}
+
+.flex-control-nav {
+    display: none;
+}
+
+.progress-bar {
+    position: relative;
+    height: 6px;
+    background-color: rgba(255, 255, 255, 0.8);
+    cursor: pointer;
+    padding: 10px 0;
+}
+
+.progress-bar div {
+    position: absolute;
+    height: 3px;
+    width: 0;
+
+}
+
+.progress-bar .progress {
+    background-color: #fff;
+}
+
+
+
+@keyframes toggle {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+
+@media (min-width : 768px) {
+
+
+    #carousel-banner #carousel .flex-viewport {
+        bottom: 4vw;
+    }
+
+
+    #carousel-banner #carousel .flex-viewport ul.slides>li {
+        max-width: 50px;
+    }
+
+    .progress-bar div {
+        height: 4px;
+    }
+}
+
+@media (min-width : 1024px) {
+    .filtro_topo {
+        display: block;
+        z-index: 3;
+    }
+}

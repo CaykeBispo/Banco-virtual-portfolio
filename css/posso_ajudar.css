@@ -1,0 +1,76 @@
+﻿@font-face {
+  font-family: 'Montserrat';
+  src: url('../../fonts/montserrat/Montserrat-Regular.otf'); /* IE9 Compat Modes */
+    font-family: 'MontserratBold';
+  src: url('../../fonts/montserrat/Montserrat-SemiBold.otf'); /* IE9 Compat Modes */
+}
+
+
+.posso_ajudar {
+      display: none;
+    /* width: 250px; */
+    /* overflow: hidden; */
+    position: fixed;
+    bottom: 0;
+    right: 2%;
+    z-index: 999;
+    bottom: 5%;
+}
+
+.posso_ajudar a, .posso_ajudar a:hover{
+    text-decoration: none;
+}
+.img-balon{
+    text-align: center;
+    margin: 0 auto 10px auto;
+    width: 40px;
+}
+.posso_ajudar .header_chat{
+    background-image: linear-gradient(to right, #f36279, #cc092f,#b41a83);
+    height: 150px;
+    width: 150px;
+    cursor: pointer;
+    border-radius: 50%;
+    -webkit-box-shadow: 0px 0px 31px -4px rgba(0,0,0);
+    -moz-box-shadow: 0px 0px 31px -4px rgba(0,0,0);
+    box-shadow: 0px 0px 31px -4px rgba(0,0,0);
+}
+
+.posso_ajudar .header_chat .titulo{
+    color: white;
+    font: 10px Montserrat;
+    margin: 0;
+    position: relative;
+    text-transform: uppercase;
+    text-align: center;
+    margin-top: 7%;
+    width: 100%;
+    float: left;
+    padding: 0 10%;
+    line-height: 16px;
+    letter-spacing: 1px;
+}
+
+.titulo-footer{
+    color: white;
+    font: 12px Montserrat;
+    font-weight: 500;
+    margin: 0;
+    position: relative;
+    text-transform: uppercase;
+    text-align: center;
+    width: 100%;
+    padding: 0 25%;
+    line-height: 15px;
+    letter-spacing: 1px;
+
+}
+.spacer-rule{
+   width: 50%;
+    border-top: 1px solid #fff;
+    height: 1px;
+    float: left;
+    text-align: center;
+    margin: 5% 25%;
+    padding: 0;
+}

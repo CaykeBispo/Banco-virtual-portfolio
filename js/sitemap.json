@@ -1,0 +1,288 @@
+[
+	{
+		"letters": "a",
+		"links": [
+			{
+				"text": "Ágora Investimentos",
+				"title": "Ir para: Ágora Investimentos",
+				"url": "https://www.agorainvestimentos.com.br/",
+				"track": "trackBradesco('Classic_Mais_Bradesco','Clique_Destaque','Ágora Investimentos');"
+			},
+			{
+				"text": "Agronegócio",
+				"title": "Ir para: Agronegócio",
+				"url": "https://www.bradescoagronegocio.com.br/html/rural/index.shtm",
+				"track":"trackBradesco('Classic_Mais_Bradesco','Clique_Destaque','Agronegócio');"
+			},
+			{
+				"text": "Aposentados",
+				"title": "Ir para: Aposentados",
+				"url": "https://www.bradescoaposentados.com.br/html/aposentados/index.shtm",
+				"track":"trackBradesco('Classic_Mais_Bradesco','Clique_Destaque','Aposentados');"
+			},
+			{
+				"text": "Autoline",
+				"title": "Ir para: Autoline",
+				"url": "https://autoline.com.br/",
+				"track":"trackBradesco('Classic_Mais_Bradesco','Clique_Destaque','Autoline');"
+			}
+		]
+	},
+	{
+		"letters": "b",
+		"links": [
+			{
+				"text": "BBI",
+				"title": "Ir para: BBI",
+				"url": "https://www.bradescobbi.com.br/Site/Home/Default.aspx",
+				"track":"trackBradesco('Classic_Mais_Bradesco','Clique_Destaque','BBI');"
+			},
+			{
+				"text": "BEM DTVM",
+				"title": "Ir para: BEM DTVM",
+				"url": "https://bemdtvm.bradesco/html/bemdtvm/index.shtm",
+				"track":"trackBradesco('Classic_Mais_Bradesco','Clique_Destaque','EM DTVM');"
+			},
+			{
+				"text": "Bradescard",
+				"title": "Ir para: Bradescard",
+				"url": "https://www.bradescard.com.br/SiteBradescard",
+				"track":"trackBradesco('Classic_Mais_Bradesco','Clique_Destaque','Bradescard');"
+			},
+			{
+				"text": "Bradespar",
+				"title": "Ir para: Bradespar",
+				"url": "https://www.bradespar.com.br/SiteBradespar/Inicio",
+				"track":"trackBradesco('Classic_Mais_Bradesco','Clique_Destaque','Bradespar');"
+			},
+			{
+				"text": "BRAM - Bradesco Asset Management",
+				"title": "Ir para: BRAM - Bradesco Asset Management",
+				"url": "https://www.bradescoasset.com.br/SiteBram/ptbr",
+				"track":"trackBradesco('Classic_Mais_Bradesco','Clique_Destaque','BRAM - Bradesco Asset Management');"
+			}
+		]
+	},
+	{
+		"letters": "c",
+		"links": [
+			{
+				"text": "Comércio Eletrônico",
+				"title": "Ir para: Comércio Eletrônico",
+				"url": "https://www.bradescocomercioeletronico.com.br/",
+				"track":"trackBradesco('Classic_Mais_Bradesco','Clique_Destaque','Comércio Eletrônico');"
+			},
+			{
+				"text": "Corporate",
+				"title": "Ir para: Corporate",
+				"url": "/html/corporate/",
+				"track":"trackBradesco('Classic_Mais_Bradesco','Clique_Destaque','Corporate');"
+			},
+			{
+				"text": "Custódia",
+				"title": "Ir para: Custódia",
+				"url": "https://custodia.bradesco/html/custodia/index.shtm",
+				"track":"trackBradesco('Classic_Mais_Bradesco','Clique_Destaque','Custódia');"
+			},
+			{
+				"text": "Cultura Bradesco",
+				"title": "Ir para: Cultura Bradesco",
+				"url": "https://wspf.banco.bradesco/culturabradesco/",
+				"track":"trackBradesco('Classic_Mais_Bradesco','Clique_Destaque','Cultura Bradesco');"
+			}
+		]
+	},
+	{
+		"letters": "d",
+		"links": [
+			{
+				"text": "Despachantes e Autoescolas ",
+				"title": "Ir para: Despachantes e Autoescolas ",
+				"url": "https://www.cidadetran.com.br/html/despachantes/index.shtm",
+				"track":"trackBradesco('Classic_Mais_Bradesco','Clique_Destaque','Despachantes e Autoescolas');"
+			}
+		]
+	},
+	{
+		"letters": "e",
+		"links": [
+			{
+				"text": "Economia em Dia",
+				"title": "Ir para: Economia em Dia",
+				"url": "https://www.economiaemdia.com.br/",
+				"track":"trackBradesco('Classic_Mais_Bradesco','Clique_Destaque','Economia em Dia');"
+			},
+			{
+				"text": "Esportes e Educação",
+				"title": "Ir para: Esportes e Educação",
+				"url": "https://www.bradescoesportes.com.br/",
+				"track":"trackBradesco('Classic_Mais_Bradesco','Clique_Destaque','Esportes e Educação');"
+			},
+			{
+				"text": "Europa",
+				"title": "Ir para: Europa",
+				"url": "https://www.bradescoeuropa.eu/SiteBradescoEuropa/Europa-e-um-Cliente",
+				"track":"trackBradesco('Classic_Mais_Bradesco','Clique_Destaque','Europa');"
+			},
+			{
+				"text": "Empresas e Negócios ",
+				"title": "Ir para: Empresas e Negócios ",
+				"url": "/html/pessoajuridica/",
+				"track":"trackBradesco('Classic_Mais_Bradesco','Clique_Destaque','Empresas e Negócios');"
+			},
+			{
+				"text": "Expresso",
+				"title": "Ir para: Expresso",
+				"url": "https://expresso.bradesco/html/index.shtm",
+				"track":"trackBradesco('Classic_Mais_Bradesco','Clique_Destaque','Expresso');"
+			}
+		]
+	},
+	{
+		"letters": "f",
+		"links": [
+			{
+				"text": "Financiamentos  ",
+				"title": "Ir para: Financiamentos  ",
+				"url": "https://financiamentos.bradesco/html/home.shtm",
+				"track":"trackBradesco('Classic_Mais_Bradesco','Clique_Destaque','Financiamentos');"
+			},
+			{
+				"text": "Fornecedores",
+				"title": "Ir para: Fornecedores",
+				"url": "https://www.bradescofornecedores.com.br/html/fornecedores/index.shtm",
+				"track":"trackBradesco('Classic_Mais_Bradesco','Clique_Destaque','Fornecedores');"
+			},
+			{
+				"text": "Fundação Bradesco",
+				"title": "Ir para: Fundação Bradesco",
+				"url": "https://fundacao.bradesco/",
+				"track":"trackBradesco('Classic_Mais_Bradesco','Clique_Destaque','Fundação Bradesco');"
+			}
+		]
+	},
+	{
+		"letters": "h",
+		"links": [
+			{
+				"text": "Hospital Edmundo Vasconcelos",
+				"title": "Ir para: Hospital Edmundo Vasconcelos",
+				"url": "https://www.hospitaledmundovasconcelos.com.br/conteudo/home/default.aspx",
+				"track":"trackBradesco('Classic_Mais_Bradesco','Clique_Destaque','Hospital Edmundo Vasconcelos');"
+			}
+		]
+	},
+	{
+		"letters": "i",
+		"links": [
+			{
+				"text": "Investimentos",
+				"title": "Ir para: Investimentos",
+				"url": "http://investimentos.bradesco/",
+				"track":"trackBradesco('Classic_Mais_Bradesco','Clique_Destaque','Investimentos');"
+			},
+			{
+				"text": "InovaBRA",
+				"title": "Ir para: InovaBRA",
+				"url": "https://www.inovabra.com.br/index.html",
+				"track":"trackBradesco('Classic_Mais_Bradesco','Clique_Destaque','InovaBRA');"
+			}
+		]
+	},
+	{
+		"letters": "m",
+		"links": [
+			{
+				"text": "MEI",
+				"title": "Ir para: MEI",
+				"url": "https://mei.bradesco/pdpj-fed-mei-web/",
+				"track":"trackBradesco('Classic_Mais_Bradesco','Clique_Destaque','MEI');"
+			},
+			{
+				"text": "Museu Histórico",
+				"title": "Ir para: Museu Histórico",
+				"url": "",
+				"track":"trackBradesco('Classic_Mais_Bradesco','Clique_Destaque','Museu Histórico');"
+			}
+		]
+	},
+	{
+		"letters": "n",
+		"links": [
+			{
+				"text": "Next",
+				"title": "Ir para: Next",
+				"url": "https://next.me/",
+				"track":"trackBradesco('Classic_Mais_Bradesco','Clique_Destaque','Next');"
+			},
+			{
+				"text": "Nikkei",
+				"title": "Ir para: Nikkei",
+				"url": "",
+				"track":"trackBradesco('Classic_Mais_Bradesco','Clique_Destaque','Nikkei');"
+			}
+		]
+	},
+	{
+		"letters": "p",
+		"links": [
+			{
+				"text": "Poder Público",
+				"title": "Ir para: Poder Público",
+				"url": "https://www.bradescopoderpublico.com.br/",
+				"track":"trackBradesco('Classic_Mais_Bradesco','Clique_Destaque','Poder Público');"
+			}
+		]
+	},
+	{
+		"letters": "r",
+		"links": [
+			{
+				"text": "RI",
+				"title": "Ir para: RI",
+				"url": "https://www.bradescori.com.br/",
+				"track":"trackBradesco('Classic_Mais_Bradesco','Clique_Destaque','RI');"
+			}
+		]
+	},
+	{
+		"letters": "s",
+		"links": [
+			{
+				"text": "Segurança",
+				"title": "Ir para: Segurança",
+				"url": "https://www.bradescoseguranca.com.br/html/seguranca_corporativa/pf/index.shtm",
+				"track":"trackBradesco('Classic_Mais_Bradesco','Clique_Destaque','');"
+			},
+			{
+				"text": "Seguros",
+				"title": "Ir para: Seguros",
+				"url": "https://www.bradescoseguros.com.br/",
+				"track":"trackBradesco('Classic_Mais_Bradesco','Clique_Destaque','Seguros');"
+			},
+			{
+				"text": "ShopFácil",
+				"title": "Ir para: ShopFácil",
+				"url": "https://www.shopfacil.com.br/",
+				"track":"trackBradesco('Classic_Mais_Bradesco','Clique_Destaque','ShopFácil');"
+			},
+			{
+				"text": "Sustentabilidade",
+				"title": "Ir para: Sustentabilidade",
+				"url": "https://www.bradescosustentabilidade.com.br/site/",
+				"track":"trackBradesco('Classic_Mais_Bradesco','Clique_Destaque','Sustentabilidade');"
+			}
+		]
+	},
+	{
+		"letters": "u",
+		"links": [
+			{
+				"text": "Unibrad",
+				"title": "Ir para: Unibrad",
+				"url": "https://www.unibrad.com.br/UniversidadeCorporativa/",
+				"track":"trackBradesco('Classic_Mais_Bradesco','Clique_Destaque','Unibrad');"
+			}
+		]
+	}
+]

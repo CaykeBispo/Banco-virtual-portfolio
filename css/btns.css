@@ -1,0 +1,27 @@
+.btn__classic, .btn__classic_solid, .btn__exclusive, .btn__exclusive_solid, .btn__prime, .btn__prime_solid { display: inline-flex !important; align-items: center; justify-content: center; border: 2px solid transparent; height: 42px; font-family: "Montserrat" sans-serif; font-weight: 600; font-size: 13px; text-align: center; padding: 0 20px 0 0; text-transform: uppercase; text-decoration: none !important; }
+
+.btn__classic::before, .btn__classic_solid::before, .btn__exclusive::before, .btn__exclusive_solid::before, .btn__prime::before, .btn__prime_solid::before, .icon-seta-longa-branca::before { content: ""; position: relative; margin: 0 10px 0 20px; white-space: nowrap; position: relative; background-repeat: no-repeat; background-size: 80%; background-position: 50% 50%; }
+
+.btn__classic { border-color: #E5173F; color: #E5173F !important; }
+.btn__classic::before { width: 10px; height: 15px; background-image: url("/assets/classic/img/produtos-servicos/mais-produtos-servicos/regularizacao/icon-read-hover.png") !important; }
+.btn__classic:hover { color: #AF2230; border-color: #AF2230; }
+.btn__classic_solid { background-color: #E5173F; color: #FFF !important; }
+.btn__classic_solid::before { width: 10px; height: 15px; background-image: url("/assets/classic/img/produtos-servicos/mais-produtos-servicos/regularizacao/icon-read-more-white.png") !important; }
+.btn__classic_solid:hover { background-color: #AF2230; }
+.btn__classic_vitrine { font-size: 9px !important; }
+.btn__exclusive { border-color: #AB8F62; color: #AB8F62 !important; }
+.btn__exclusive::before { width: 10px; height: 15px; background-image: url("/assets/exclusive/img/produtos-servicos/mais-produtos-servicos/regularizacao/ico_seta_exclusive.png") !important; }
+.btn__exclusive:hover { filter: brightness(70%); }
+.btn__exclusive_solid { background-color: #AB8F62; color: #FFF !important; }
+.btn__exclusive_solid::before { width: 10px; height: 15px; background-image: url("/assets/classic/img/produtos-servicos/mais-produtos-servicos/regularizacao/icon-read-more-white.png") !important; }
+.btn__exclusive_solid:hover { background-color: #7b5c29; }
+.btn__exclusive_vitrine { font-size: 9px !important; }
+.btn__prime { border: 1px solid #0e1e64; color: #0e1e64 !important; }
+.btn__prime::before { width: 15px; height: 15px; background-image: url("/assets/prime/img/icons/arrows/arrow-right-prime.svg") !important; }
+.btn__prime:hover { filter: brightness(70%); }
+.btn__prime_solid { background-color: #0e1e64; color: #FFF !important; }
+.btn__prime_solid::before { width: 17px; height: 17px; background-image: url("/assets/common/img/icons/arrows/arrow-right-branca.svg") !important; }
+.btn__prime_solid:hover { background-color: #081137; }
+.btn__prime_vitrine { font-size: 9px !important; }
+
+.icon-seta-longa-branca::before { width: 17px; height: 17px; background-image: url("/assets/common/img/icons/arrows/arrow-right-branca.svg") !important; }

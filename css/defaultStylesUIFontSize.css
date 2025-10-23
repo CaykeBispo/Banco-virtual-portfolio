@@ -1,0 +1,31 @@
+/**
+Propósito:
+Definição de estilos do componente UIFontSize
+
+Descrição:
+Arquivo que define o estilo para os elementos html que compõem o componente
+*/
+.UIFontSize {margin: 0; padding: 0; list-style: none; outline-color:-moz-use-text-color; outline-style:none; outline-width:medium; }
+.UIFontSize-li {background-image:url(../images/bgr_conteudo.jpg);background-repeat:repeat-x;border-left:1px solid #D5D5D5;float:left;line-height:30px; list-style-image:none; list-style-position:outside; list-style-type:none;}
+.UIFontSize-firstButton-li, UIFontSize-firstButton-li-On {background-position:0 -62px;text-indent:-9999px;width:23px;}
+.UIFontSize-firstButton-li-On {background-position:0 0;}
+.UIFontSize-secondButton-li, UIFontSize-secondButton-li-On {background-position:-22px -62px;text-indent:-9999px;width:23px;}
+.UIFontSize-secondButton-li-On {background-position:-22px -31px;}
+.UIFontSize-thirdButton-li, UIFontSize-thirdButton-li-On {background-position:-45px 0;text-indent:-9999px;width:24px;}
+.UIFontSize-thirdButton-li-On {background-position:-45px -62px;}
+.UIFontSize-firstButton-li a, .UIFontSize-secondButton-li a, .UIFontSize-thirdButton-li a {display:block;height:100%;}
+.UIFontSize-level-1 {font-size: 0.92em;}
+.UIFontSize-level-2 {font-size: 1em;}
+.UIFontSize-level-3 {font-size: 1.08em;}
+/**
+Class css utilizada no Drag and Drop 
+*/
+
+.UIFontSize-dragAndDrop{
+	background-image:url(../images/bgr_conteudo.jpg);
+	background-repeat:no-repeat;
+	background-position:0px 0px;
+	height: 31px;
+    width: 69px;
+	
+	}

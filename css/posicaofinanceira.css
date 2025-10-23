@@ -1,0 +1,231 @@
+div#posicao-financeira {
+	/* body */
+	/* CONTEUDO */
+	/* COLUNA DA ESQUERDA */
+	/* BOX 1 */
+	/* Collapsible */
+	/* linha separadora */
+  }
+  div#posicao-financeira body {
+	background-color: #FFFFFF !important;
+  }
+  div#posicao-financeira #conteudo {
+	width: 328px !important;
+	float: left !important;
+  }
+  div#posicao-financeira #conteudo .miolo {
+	background: #FFFFFF !important;
+  }
+  div#posicao-financeira #conteudo .miolo .box {
+	clear: both;
+	margin-top: 27px;
+  }
+  div#posicao-financeira #conteudo .miolo .box h2 {
+	border-bottom: 1px solid #CCC;
+	color: #BF0000;
+	font-size: 154%;
+	padding-bottom: 3px;
+  }
+  div#posicao-financeira #conteudo .miolo .box h2 sup {
+	color: #333;
+	font-size: 0.62em;
+	padding-bottom: 4px;
+	padding-left: 1px;
+	vertical-align: middle;
+  }
+  div#posicao-financeira #conteudo .miolo .box .topo {
+	width: 100%;
+  }
+  div#posicao-financeira #conteudo .miolo .box .topo h2 {
+	border-bottom: 0;
+	float: left;
+	width: 225px;
+  }
+  div#posicao-financeira #conteudo .miolo .box .topo a {
+	background: url(../images/ico_setas.gif) 0 5px no-repeat;
+	display: inline-block;
+	float: right;
+	line-height: 16px;
+	margin-top: 3px;
+	padding-left: 8px;
+  }
+  div#posicao-financeira #conteudo .miolo .boxP25_30 {
+	padding: 0 0;
+  }
+  div#posicao-financeira #conteudo .miolo .col1 {
+	width: 328px;
+  }
+  div#posicao-financeira #conteudo .miolo .col1 .box h2 {
+	line-height: 110%;
+  }
+  div#posicao-financeira #conteudo .miolo .box1 {
+	margin-top: 1px;
+  }
+  div#posicao-financeira #listaBoxPosicaoFinanceira li {
+	border-bottom: 1px solid #E5E5E5;
+	clear: both;
+	width: 328px;
+  }
+  div#posicao-financeira #listaBoxPosicaoFinanceira li:after {
+	content: ".";
+	display: block;
+	clear: both;
+	visibility: hidden;
+	height: 0;
+	overflow: hidden;
+  }
+  div#posicao-financeira #listaBoxPosicaoFinanceira li.on {
+	border-bottom: 0;
+  }
+  div#posicao-financeira #listaBoxPosicaoFinanceira li.on .principal {
+	color: #BF0000;
+  }
+  div#posicao-financeira #listaBoxPosicaoFinanceira .desc,
+  div#posicao-financeira #listaBoxPosicaoFinanceira .valor {
+	display: inline-block;
+	line-height: 34px;
+	padding-left: 13px;
+  }
+  div#posicao-financeira #listaBoxPosicaoFinanceira .valor {
+	float: right;
+	padding: 0 13px 0 0;
+  }
+  div#posicao-financeira #listaBoxPosicaoFinanceira .desc {
+	float: left;
+	background: transparent url(../images/ico_setas.gif) 0 -57px no-repeat;
+	padding-left: 13px;
+  }
+  div#posicao-financeira #listaBoxPosicaoFinanceira li.on .desc {
+	background-position: -497px -21px;
+  }
+  div#posicao-financeira #listaBoxPosicaoFinanceira .detalhe {
+	background-color: #F3F3F3;
+	border-color: #CBCBCB #E6E6E6 #E6E6E6 #CBCBCB;
+	border-style: solid;
+	border-width: 1px;
+	float: left;
+	padding: 0 13px;
+	width: 299px;
+  }
+  div#posicao-financeira #listaBoxPosicaoFinanceira .detalhe strong {
+	display: block;
+	font-weight: bold;
+	padding: 10px 0 8px;
+  }
+  div#posicao-financeira #listaBoxPosicaoFinanceira .detalhe_erro {
+	padding-bottom: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-left: 0px;
+	width: 328px;
+	border-bottom: 0;
+  }
+  div#posicao-financeira #listaBoxPosicaoFinanceira .detalhe .tp1 li {
+	background: transparent url(../images/ico_setas.gif) 0 4px no-repeat;
+	clear: none;
+	border-bottom: 0;
+	cursor: text;
+	float: none;
+	padding: 0 0 10px 10px;
+	width: auto;
+  }
+  div#posicao-financeira #listaBoxPosicaoFinanceira .detalhe .tp2 {
+	margin-top: 5px;
+	width: 100%;
+  }
+  div#posicao-financeira #listaBoxPosicaoFinanceira .detalhe .tp2 li,
+  div#posicao-financeira #listaBoxPosicaoFinanceira .detalhe .tp3 li {
+	border-bottom: 0;
+	width: 299px;
+  }
+  div#posicao-financeira #listaBoxPosicaoFinanceira .detalhe .tp3 li {
+	border-bottom: 1px solid #DADADA;
+  }
+  div#posicao-financeira #listaBoxPosicaoFinanceira .detalhe .tp3 li.outros {
+	border-bottom: 0;
+	height: 30px;
+	padding-top: 6px;
+  }
+  div#posicao-financeira #listaBoxPosicaoFinanceira .detalhe .tp3 li.outros .desc {
+	line-height: 24px;
+  }
+  div#posicao-financeira #listaBoxPosicaoFinanceira .detalhe .tp3 li ul {
+	clear: both;
+	width: 299px;
+  }
+  div#posicao-financeira #listaBoxPosicaoFinanceira .detalhe .tp3 li li {
+	border-bottom: 0;
+	clear: none;
+	display: block;
+	float: none;
+	padding: 0 0 10px 0px;
+	width: auto;
+  }
+  div#posicao-financeira #listaBoxPosicaoFinanceira .detalhe .tp3 li li a {
+	background: transparent url(../images/ico_setas.gif) 0 4px no-repeat;
+	padding-left: 13px;
+  }
+  div#posicao-financeira #listaBoxPosicaoFinanceira .detalhe .tp2 li.outros {
+	border-color: #DADADA;
+	border-style: solid;
+	border-width: 1px 0 0 0;
+	padding: 5px 0 0 0;
+  }
+  div#posicao-financeira #listaBoxPosicaoFinanceira .detalhe .tp2 li.linha {
+	border-color: #DADADA;
+	border-style: solid;
+	border-width: 1px 0 0 0;
+  }
+  div#posicao-financeira #listaBoxPosicaoFinanceira .detalhe .tp2 li .desc,
+  div#posicao-financeira #listaBoxPosicaoFinanceira .detalhe .tp3 li .desc {
+	background: none;
+	line-height: 24px;
+	padding: 0;
+  }
+  div#posicao-financeira #listaBoxPosicaoFinanceira .detalhe .tp2 li .visa,
+  div#posicao-financeira #listaBoxPosicaoFinanceira .detalhe .tp2 li .amex,
+  div#posicao-financeira #listaBoxPosicaoFinanceira .detalhe .tp2 li .master {
+	background: transparent url(../../../imagens/meubradesco/ico-cartoes2.png) 0 0px no-repeat;
+	padding: 2px 0 8px 40px;
+  }
+  div#posicao-financeira #listaBoxPosicaoFinanceira .detalhe .tp2 li .master {
+	background-position: -368px 0px;
+  }
+  div#posicao-financeira #listaBoxPosicaoFinanceira .detalhe .tp2 li .elo {
+	background: transparent url(../../../imagens/meubradesco/ico-cartoes2.png) 0 0px no-repeat;
+	padding: 2px 0 8px 40px;
+  }
+  div#posicao-financeira #listaBoxPosicaoFinanceira .detalhe .tp2 li .elo {
+	background-position: -870px 0px;
+  }
+  div#posicao-financeira #listaBoxPosicaoFinanceira .detalhe .tp2 li .amex {
+	background-position: -1238px 0;
+	margin-left: 3px;
+	padding: 2px 0 8px 30px !important;
+  }
+  div#posicao-financeira #listaBoxPosicaoFinanceira .detalhe .tp2 li .valor,
+  div#posicao-financeira #listaBoxPosicaoFinanceira .detalhe .tp3 li .valor {
+	line-height: 24px;
+	padding: 0;
+  }
+  div#posicao-financeira #listaBoxPosicaoFinanceira .list_infos_aliNov {
+	border-bottom: 0;
+  }
+  div#posicao-financeira #listaBoxPosicaoFinanceira .divSaldo,
+  div#posicao-financeira #listaBoxPosicaoFinanceira .divLimiteCredito,
+  div#posicao-financeira #listaBoxPosicaoFinanceira .divInvestimento,
+  div#posicao-financeira #listaBoxPosicaoFinanceira .divCapitalizacao,
+  div#posicao-financeira #listaBoxPosicaoFinanceira .divCartaoCredito,
+  div#posicao-financeira #listaBoxPosicaoFinanceira .divPrevidencia {
+	border: 1px solid #FFFFFF;
+  }
+  div#posicao-financeira #listaBoxPosicaoFinanceira .linhaOn {
+	border-bottom-width: 1px;
+  }
+  div#posicao-financeira #listaBoxPosicaoFinanceira .linhaOff {
+	border-bottom-width: 0px;
+  }
+  div#posicao-financeira #listaBoxPosicaoFinanceira .labelCollapse {
+	border-bottom-width: 0px;
+	float: left;
+  }

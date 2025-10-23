@@ -1,0 +1,21 @@
+/* CONTEUDO  Instalacao plugin */
+#conteudoPlugin {background:#FFF url(../../../imagens/geral/pix_fill.gif) left bottom repeat-x;float:right;position:relative;width:752px;}
+
+#conteudoPlugin .topo_canto_L{background:transparent url(../../../imagens/geral/bgr_canto_top_branco.jpg) left 0  no-repeat; position:absolute; top:0; left:0; width:6px; height:6px;}
+#conteudoPlugin .topo_canto_R{background:transparent url(../../../imagens/geral/bgr_canto_top_branco.jpg) right 0 no-repeat; position:absolute; top:0; right:0; width:6px; height:6px;}
+
+#conteudoPlugin .miolo {background:url(../../../imagens/geral/bgr_conteudo.jpg) 0 -132px repeat-x; position:relative; padding-bottom:10px; }
+
+#conteudoPlugin .miolo_noBg {background-image:none} 
+#conteudoPlugin .mioloFs12 {font-size:0.92em;}
+#conteudoPlugin .mioloFs13 {font-size:1.00em;}
+#conteudoPlugin .mioloFs14 {font-size:1.08em;}
+
+#conteudoPlugin .base {height:8px;position:relative;width:100%;}
+
+#conteudoPlugin span.c1, #conteudoPlugin span.c2 {background-image:url(../../../imagens/geral/bgr_conteudo.jpg);background-repeat:no-repeat;display:block;height:8px;font-size:0;line-height:0;position:absolute;width:8px;}
+#conteudoPlugin span.c1 {background-position:0 -124px;left:0;bottom:0;}
+#conteudoPlugin span.c2 {background-position:-8px -124px;bottom:0;right:0;}
+#conteudoPlugin div.c1, #conteudoPlugin div.c2 {background-image:url(../../../imagens/geral/bgr_conteudo.jpg);background-repeat:no-repeat;display:block;height:8px;font-size:0;line-height:0;position:absolute;width:8px;}
+#conteudoPlugin div.c1 {background-position:0 -124px;left:0;bottom:0;}
+#conteudoPlugin div.c2 {background-position:-8px -124px;bottom:0;right:0;}

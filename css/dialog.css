@@ -1,0 +1,351 @@
+@font-face {
+    font-family: Montserrat-Regular;
+    src: /* Pretty Modern Browsers */
+    url('fontes/Montserrat-Regular.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('../../../conteudo/fontes/geral/Montserrat-Regular.svg#Montserrat-Regular') format('svg');
+    /* Legacy iOS */
+}
+@font-face {
+	font-family: Montserrat-SemiBold;
+	src: /* Pretty Modern Browsers */
+	url('fontes/Montserrat-SemiBold.ttf') format('truetype'), /* Safari, Android, iOS */
+	url('../../../fontes/geral/Montserrat-SemiBold.svg#Montserrat-SemiBold') format('svg');
+	/* Legacy iOS */
+}
+.blocker {
+    z-index: 9999;
+
+}
+
+.modal {
+    border-radius: 0px!important;
+    padding: 0px;
+    min-height: 300px;
+    box-sizing: border-box;
+    font-family: 'Bradesco', sans-serif;
+    padding: 15px;
+    max-width: 750px;
+}
+
+div#modal div#header-modal{
+    width: 100%;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #d4d4d4;
+
+}
+
+div#modal div#header-modal > * {
+    vertical-align: bottom;
+    line-height: 20px;
+}
+
+
+div#modal div#header-modal span.titulo {
+    font-size: 28px;
+    font-weight: 800;
+    color: #525153;
+    display:inline-block;
+    
+
+  }
+
+  div#modal div#boxCarregando div.box-img{
+      
+    padding-top: 30px;
+    padding-bottom: 0px;
+  }
+
+  div#modal p strong{
+      font-weight: 600;
+  }
+  
+  div#modal div#header-modal span.subtitulo {
+    font-size: 18px;
+    font-weight: 400;
+    color: #8d8d8d;
+    line-height: 15px;
+    border-left: 2px solid #525153;
+    margin-left: 15px;
+    padding-left: 15px;
+  }
+
+  div#modal .center{
+      text-align: center;
+  }
+
+  div#modal div#boxCarregando img{
+    margin: 0 auto;
+  }
+
+  .hide{
+      display: none;
+  }
+
+
+  div#modal div.boxLinha{
+    border: 1px solid #CCCCCC;
+    border-bottom: 1px solid #CF3F3F;
+    background: #FFFFFF url(../images/bgr_box_redLine_bottom.jpg) left bottom repeat-x;
+    margin-bottom: 20px;
+    padding: 14px;
+    margin-top: 30px;
+    height: auto;
+    min-height: 100px;
+  }
+
+
+
+
+  div#modal p{
+    font: 14px/20px 'Montserrat-Regular';
+    color: #4A4A4A;
+    display: block;
+    text-align: center;
+    margin: 15px 0px;
+  }
+
+  div#modal div.left{
+      width: calc(45% - 5px);
+      float: left;
+  }
+
+  div#modal div.right{
+    width: calc(55% - 5px);
+    float: right;
+ }
+
+ div#modal span.serial {
+    font: 12px/14px 'Montserrat-Regular';
+    color: #4A4A4A;
+    line-height: 2;
+    line-height: 17px;
+}
+
+div#modal .form-code {
+    box-sizing: border-box;
+    position: relative;
+    width: 210px;
+    margin: 0 auto;
+    padding: 0 0 4px;
+    border-bottom: solid 1px #CDCCCD;
+    margin-top: 10px;
+
+}
+
+div#modal .form-code input[type=password].form-digits {
+    font-size: 28px !important;
+    letter-spacing: 21px;
+    
+}
+div#modal .form-code input.form-digits:focus{
+    outline: none;
+    border: none;
+}
+div#modal .form-code input[type=password] {
+    display: block;
+    font: 38px 'Montserrat-ExtraBold';
+    color: #4A4A4A;
+    letter-spacing: 45px;
+    margin: 0;
+    padding: 0 0 0 0;
+    border: 0;
+    width: 100%;
+    padding-left: 16px;
+    -webkit-transition: all 0.3s cubic-bezier(0.64, 0.09, 0.08, 1);
+    transition: all 0.3s cubic-bezier(0.64, 0.09, 0.08, 1);
+}
+
+
+div#modal .form-code input[type=text] {
+    display: block;
+    font: 17px 'Montserrat-Regular';
+    color: #4A4A4A;
+    margin: 0;
+    padding: 0 0 0 0;
+    border: 0;
+    width: 100%;
+    -webkit-transition: all 0.3s cubic-bezier(0.64, 0.09, 0.08, 1);
+    transition: all 0.3s cubic-bezier(0.64, 0.09, 0.08, 1);
+}
+
+div#modal .put-right{
+    text-align: right;
+}
+
+div#modal .clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+div#modal div.divBotoesPagina{
+    width: 300px;
+    margin: 0px auto;
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+
+div#modal .btn-action {
+    display: block;
+    width: calc(100% - 60px);
+    height: 40px;
+    margin: 0 auto;
+    padding: 0;
+    font: 14px/38px 'Montserrat-SemiBold';
+    border: solid 1px #9B9B9B;
+    border-radius: 25px;
+    text-align: center;
+    text-decoration: none;
+    opacity: 0.5;
+    color: #FFF;
+    background: #9B9B9B;
+    cursor: pointer;
+}
+
+
+
+div#modal .btn-action.btn-action-active {
+    border-color: #FF0844;
+    color: #FFF;
+    background-color: #FF0844;
+}
+div#modal div.box .action-button {
+    margin-top: 48px;
+}
+div#modal .btn-action.btn-action-active {
+    opacity: 1;
+}
+
+
+div#modal span.txt_msg_erro_disp {
+    display: block;
+    margin-bottom: 20px;
+}
+
+
+div#modal .erro_msg.error-show {
+    display: block !important;
+}
+div#modal .erro_msg {
+    display: none !important;
+    padding-top: 5px !important;
+    font: 14px/20px 'Montserrat-Regular' !important;
+    color: #EE102B !important;
+    text-align: center !important;
+    margin: 0 0 0 !important;
+}
+
+div#modal .hide{
+    display: none!important;
+}
+div#modal div#boxQrCode h1{
+    font: 16px/38px 'Montserrat-SemiBold';
+}
+
+div#modal div#boxQrCode div.itemQr{
+    border-bottom: solid 1px #E5E5E5;
+    padding: 15px 0;
+}
+
+div#modal div#boxQrCode div.itemQr span.number{
+    font:16px Tahoma, Arial, Sans-Serif;
+    color: #333;
+    position: absolute;
+    left: -20px;
+    top: -2px;
+}
+div#modal div#boxQrCode div.itemQr p{
+    position: relative;
+    display: inline-block;
+    font: 0.81em/120% Tahoma, Arial, Sans-Serif;
+    color: #333;
+    list-style: none;
+    font-size: 1.0em;
+    outline: none;
+    margin: 0;
+    padding: 0;
+    vertical-align: bottom;
+    float: left;
+    text-align: justify;
+    font-size: 12px;
+    margin-left: 20px;
+}
+div#modal div#boxQrCode div.itemQr input#qrCodeToken{
+    list-style: none;
+    outline: none;
+    margin: 0;
+    font-family: Tahoma,Arial,Sans-Serif;
+    border-bottom: 1px solid #D4D4D4;
+    border-right: 1px solid #D4D4D4;
+    border-left: 1px solid #7A7A7A;
+    border-top: 1px solid #7A7A7A;
+    padding: 2px;
+    background: #F4F4F4;
+    font-size: 0.92em;
+    margin-right: 5px;
+    vertical-align: middle;
+    width: 84px;
+    
+}
+
+div#modal div#boxQrCode div.itemQr span.leg{
+     font: 10px Tahoma, Arial, Sans-Serif;
+    color: #333;
+    list-style: none;
+    outline: none;
+    line-height: 180%;
+}
+div#modal div#boxQrCode div.boxLinha div.esquerdaQr{
+    float: left;
+    width: calc(35% - 5px);
+}
+
+div#modal div#boxQrCode div.boxLinha div.direitaQr{
+    float: left;
+    width: calc(65% - 5px);
+}
+
+div#aguardeQR{
+    text-align: center!important;
+}
+
+div#aguardeQR p{
+    font-size: 13px;
+}
+
+div#aguardeQR p{
+    margin-bottom: 25px;
+    font: 143x/20px 'Montserrat-Regular' !important;
+}
+
+div#aguardeQR p strong{
+    font-weight: bold;
+}
+
+div#aguardeQR img.loadingQr{
+    margin-bottom: 25px;
+
+}
+
+
+div#boxAtualizarModulo h1{
+    font: 16px/38px 'Montserrat-SemiBold';
+    text-align: center;
+}
+
+div#boxAtualizarModulo p.porcentagem{
+    font: 16px/38px 'Montserrat-SemiBold';
+}
+
+div#boxAtualizarModulo div.barra{
+    border: 1px solid #d4d4d4;
+    width: 400px;;
+    padding: 3px;
+    margin: 0 auto;
+}
+
+div.miolo{
+    height: 10px;
+    width: 0%;
+    background-image: linear-gradient(90deg, rgb(225, 23, 63) 0px, rgb(224, 23, 64) 20%, rgb(221, 24, 71) 36%, rgb(216, 25, 81) 50%, rgb(210, 26, 92) 62%, rgb(202, 27, 103) 71%, rgb(194, 28, 114) 78%, rgb(184, 29, 124) 83%, rgb(174, 30, 134) 87%, rgb(164, 31, 143) 90%, rgb(154, 32, 150) 93%, rgb(145, 33, 156) 95%, rgb(138, 33, 161) 96%, rgb(133, 34, 164) 98%, rgb(131, 34, 165) 100%);
+}

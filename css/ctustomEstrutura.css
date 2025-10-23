@@ -1,0 +1,8 @@
+.hide{
+    display: none!important;
+}
+
+#conteudo span.txt_msg_erro_disp{
+	display: block;
+	margin-bottom: 20px;
+}

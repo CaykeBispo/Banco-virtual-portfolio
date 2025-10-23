@@ -1,0 +1,358 @@
+#divCaptcha{
+	margin-left: 100px;
+}
+#captcha {
+	margin-top: 30px;
+}
+#captcha-UICaptcha-table {
+	background-color: white;
+}
+
+/* FORMS */
+ul.formulario {padding:0;}
+ul.formulario li {list-style:none;width:auto;}
+.formulario li {padding-bottom:15px;}
+
+.formulario label,
+.formulario span.label {width:150px;}
+.formulario label.identificacaoPositiva {width:200px;}
+
+.form_erro {margin-bottom:20px;padding-top:0;}
+form input {padding:4px 2px;}
+
+/* BOXES */
+.box-direita { float:right; display:block; width:217px; }
+.box-direita li { padding-bottom:10px; }
+.box-direita li.ultimo { padding-bottom:0; }
+
+.box-direita .box { background:#F3F3F3 url(../images/box_dir_top.gif) no-repeat left top; padding-top:6px; }
+.box-direita .box .boxP14 { padding-top:11px; padding-bottom:11px; }
+.box-direita .box .bottom { background:url(../images/box_dir_bottom.gif) no-repeat left top; height:7px; }
+.box-direita .box h2 { font-weight:bold; font-size:1.15em; height:28px; line-height:28px; background:url(../images/box_dir_icons.jpg) no-repeat left -60px; padding:0 0 10px 35px; }
+.box-direita .box span { font-size:0.92em; }
+.box-direita h2.atencao { background-position:left top; }
+.box-direita h2.duvida { background:none; padding-left:0; line-height:normal; height:auto; }
+.box-direita .box a { font-size:0.92em; color:#CF3F3F; background:url(../images/ico_external_link_vermelho.gif) no-repeat right 2px; padding-right:15px; }
+.box-direita .box ul.duvida { list-style:disc outside; padding-left:15px; }
+.box-direita .linha { margin:10px auto; height:2px; width:187px; background:url(../images/box_dir_linha.gif) no-repeat left top; }
+
+.list_login_nome {padding-top:8px}
+.list_login_nome li {float:left; padding-right:15px}
+.list_login_nome li input {padding:0; margin:0; width:18px; height:18px;border:0;background:none;}
+.list_login_nome li .bTip {margin:0;}
+.list_login_nome li label,
+.list_login_nome li span.label {font-size:1.03em;}
+
+.tbl-senha-impropria { border-left:1px #c3c3c3 solid; border-top:1px #c3c3c3 solid;}
+.tbl-senha-impropria td { font-size:0.92em; font-weight:bold; padding:7px 13px; border-right:1px #c3c3c3 solid; border-bottom:1px #c3c3c3 solid; color:#000000; }
+
+/* CADASTRO COMPUTADOR */
+.leg { font-size:0.88em; color:#666666; }
+
+.leg.contador_frase {font-size:0.92em; line-height:180%}
+
+/* TOOLTIP (in�cio) */
+
+#tooltip {
+	position: absolute;
+	z-index: 3000;
+	border: 1px solid #EBE4D1;
+	padding: 3px 10px;
+	opacity: 1.0;
+	font-family:Arial;
+	background:#FEFBEC;
+	width: auto;
+}
+/* TOOLTIP (fim) */
+
+/* lista para saudacao */
+.login .saudacao li {display: inline;list-style-type: none;}
+
+/* para Virtual Vision */
+a .linkInvisivel {display:none;}
+
+/* conteudo logoff*/
+.logoff {width:100% !important;}
+
+/*Plugin de Seguranca*/
+.pluginSeguranca {height: 40px; width: 100%; border-width: 2px; border-color: #ffb919; border-style: solid}
+.frmPassWord4SemBloqueio {width:75px;color:gray;padding:0 4px;letter-spacing:15px;text-align:left}
+
+/* Troca figura box-alerta para X */
+.sinal-X {  background:#FFF7D9 url(../images/ico_alert_error_yellow.gif) no-repeat 22px center;  }
+.sinal-X .ctn-box a , .link_ext { background:url(../images/ico_external_link_vermelho.gif) no-repeat right 2px; padding-right:15px; padding-left:1px; color:#BF0000 !important; text-decoration:underline; }
+.no-link-ico .sinal-X .ctn-box a { background:transparent !important; padding-right:0px; color:#BF0000 !important; text-decoration:underline; }
+.sinal-X .ctn-box a:hover , .link_ext:hover { text-decoration:underline; }
+.sinal-X.lk_int {background-image:none !important; padding-right:0 !important;}
+
+
+/* Para alinhar input do teclado */
+.pl163 {padding-left:163px !important;}
+
+/* Login - sequencia passos */
+.passoLogin-steps {
+clear:both;
+font-family:Tahoma,Arial,Sans-Serif;
+height:48px;
+}
+.passoLogin-steps steps_nh {
+clear:both;
+height:auto !important;
+}
+.passoLogin-steps ol {
+list-style-type:none;
+}
+.passoLogin-steps li {
+color:#999999;
+float:left;
+margin-right:11px;
+position:relative;
+text-align:center;
+}
+
+.mioloFs13 .passoLogin-steps li,
+.UIFontSize-level-2 .UISequenciaPasso-steps li {font-size:1.1em;}
+
+.mioloFs14 .passoLogin-steps li,
+.UIFontSize-level-3 .UISequenciaPasso-steps li {font-size:1.2em;}
+
+.passoLogin-steps li div {
+background:url("../images/bgr_steps.jpg") no-repeat scroll 100% -129px transparent;
+float:left;
+padding-right:4px;
+}
+.passoLogin-steps li strong {
+border-bottom:2px solid #CCCCCC;
+display:block;
+float:left;
+height:24px;
+letter-spacing:-0.04em;
+line-height:24px;
+padding:0 0 0 3px;
+}
+.passoLogin-last {
+background-position:100% -79px;
+margin-right:1.8px;
+}
+.passoLogin-last div {
+background-position:100% -179px !important;
+margin-right:0;
+padding-right:2px !important;
+}
+.passoLogin-active {
+background-position:100% -29px !important;
+color:#000000;
+}
+.passoLogin-active span {
+background:url("../images/bgr_steps.jpg") no-repeat scroll 0 0 transparent;
+color:#FFFFFF;
+display:block;
+font-weight:normal;
+height:24px;
+left:0;
+position:absolute !important;
+top:0;
+width:21px;
+}
+.passoLogin-active em {
+display:block;
+padding-left:26px;
+}
+.passoLogin-last-active {
+background-position:100% -79px !important;
+padding-right:1.8px !important;
+}
+.passoLogin-a a:hover {
+color:#CC092F;
+text-decoration:none;
+}
+.passoLogin-a a {
+color:#999999;
+text-decoration:none;
+}
+.passoLogin-steps li .passoLogin-active strong {
+border-color:#900000 !important;
+padding-left:27px;
+}
+
+.jqmWrapper .after .btn a { display:block; text-indent:-9999px; float:right; padding:0; text-decoration:none; margin-right:8px; height:25px; line-height:25px; background:url(../images/bto_recebi_nao_cartao.gif) no-repeat 0 0; }
+.jqmWrapper .after .btn a.recebi { width:122px; background-position:-160px 0; }
+.jqmWrapper .after .btn a.nao-recebi { width:146px; }
+
+/* Recebi - Nao recebi como botao */
+.jqmWrapper .after .btn input { display:block; text-indent:-9999px; float:right; padding:0; text-decoration:none; margin-right:8px; height:25px; line-height:25px; background:url(../images/bto_recebi_nao_cartao.gif) no-repeat 0 0; }
+.jqmWrapper .after .btn input.recebi { width:122px; background-position:-160px 0; }
+.jqmWrapper .after .btn input.nao-recebi { width:146px; }
+
+.jqmWrapper .after .btn a.recebi:hover { background-position:-160px -27px; }
+.jqmWrapper .after .btn a.nao-recebi:hover { background-position:0 -27px; }
+.jqmWrapper .after div.txt-cartao-seguranca { float:left; width:450px; }
+.jqmWrapper .after div.img-cartao-seguranca { float:right; padding-bottom:10px; background:url(../images/img_chave_seg_solic.gif) no-repeat left top; width:148px; height:97px; }
+
+
+.cursor_default { cursor:default !important;}
+
+.btnRecebiCartao {background-image:url(../images/bto_recebi_nao_cartao.gif); background-position: -160px 0px; width:122px; height:26px;}
+.btnRecebiCartao:hover {background-position: -160px -27px;}
+.btnNaoRecebiCartao {background-image:url(../images/bto_recebi_nao_cartao.gif); background-position: 0px 0px; width:146px; height:26px;}
+.btnNaoRecebiCartao:hover {background-position: 0px -27px;}
+.bt_download {background-image:url(../images/btn-download.png); width:97px; height:26px;}
+.bt_download:hover {background-position:left bottom}
+.bt_instrucoes {background-image:url(../images/btn-instrucoes.png); width:125px; height:26px;}
+.bt_instrucoes:hover {background-position:left bottom}
+.bt_instalar {background-image:url(../images/btn-instalar.png); width:83px; height:26px;}
+.bt_instalar:hover {background-position:left bottom}
+
+/* Para usar como botao */
+#topo .login_topo li.bto_cancelar_acesso input {background:transparent url(../images/btn_cancelar_acesso.jpg) 0 0 no-repeat; width:157px; height:28px; }
+#topo.prime .login_topo li.bto_cancelar_acesso input{background:transparent url(../images/btn_cancelar_acesso_prime.jpg) 0 0 no-repeat; width:157px; height:28px; }
+#topo.univer .login_topo li.bto_cancelar_acesso input {background:transparent url(../images/temas/btn_cancelar_acesso_univer.jpg) 0 0 no-repeat; width:157px; height:28px;}
+#topo.private .login_topo li.bto_cancelar_acesso input {background:transparent url(../images/temas/btn_cancelar_acesso_private.jpg) 0 0 no-repeat; width:157px; height:28px;}
+
+#loading_compseg {float:none !important; margin-right:auto; margin-left:auto;}
+
+body {background-color:#E4E4E4}
+
+#loading_novocompseg {float:none !important; margin-right:auto; margin-left:auto;}
+/*.botoesLote {margin-left: auto; margin-right: auto; width: 252px;}*/
+
+.mt40 {margin-top:40px !important;}
+
+/*****************/
+.jcarousel-wrapper {
+    margin: 20px auto;
+    position: relative;
+    border: 10px solid #fff;
+    width:  626px;
+    height: 286px;
+    -webkit-border-radius: 5px;
+       -moz-border-radius: 5px;
+            border-radius: 5px;
+    -webkit-box-shadow: 0 0 2px #999;
+       -moz-box-shadow: 0 0 2px #999;
+            box-shadow: 0 0 2px #999;
+}
+
+
+/** Carousel **/
+
+.jcarousel {
+    position: relative;
+    overflow: hidden;
+}
+
+.jcarousel ul {
+    width: 20000em;
+    position: relative;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+
+}
+
+.jcarousel li {
+	width:  626px;
+	height: 286px;
+    float: left;
+}
+
+.jcarousel li img {
+	width:  400px;
+	height: 286px;
+    
+}
+
+.jcarousel li div.passo_informacoes {
+  display: inline-block; 
+  height: 100%; 
+  width: 226px;
+}
+
+.jcarousel li div.passo_titulo {
+  padding-left: 10px;
+  padding-bottom: 20px;
+  font-size: 1.3em;
+  font-weight: bold;
+}
+
+.jcarousel li div.passo_texto {
+  padding-left: 10px;
+}
+
+.jcarousel li div.passo_rodape {
+  position: absolute;
+  bottom: 0px;
+  padding-left: 10px;
+  font-size: 10px;
+}
+/** Carousel Controls **/
+
+.jcarousel-control-prev,
+.jcarousel-control-next {
+	background-image: url("../images/btn-paginador.png");
+	background-repeat: no-repeat;
+	display: block;
+	position: absolute;
+	top: 50%;
+	height: 41px;
+	margin-top: -21px;
+	width: 21px;
+	text-indent: -9999px;
+	z-index: 9999;
+}
+
+.jcarousel-control-prev {
+    left: -10px;
+    background-position: 0px -200px;
+}
+
+.jcarousel-control-next {
+    right: -10px;
+    background-position: -42px -200px;
+}
+
+.jcarousel-control-prev:hover span,
+.jcarousel-control-next:hover span {
+    display: block;
+}
+
+.jcarousel-control-prev.inactive,
+.jcarousel-control-next.inactive {
+    opacity: .5;
+    cursor: default;
+}
+
+/** Carousel Pagination **/
+
+.jcarousel-pagination {
+    position: absolute;
+    bottom: 0;
+    left: 15px;
+}
+
+.jcarousel-pagination a {
+    text-decoration: none;
+    display: inline-block;
+    
+    font-size: 11px;
+    line-height: 14px;
+    min-width: 14px;
+    
+    background: #fff;
+    color: #4E443C;
+    border-radius: 14px;
+    padding: 3px;
+    text-align: center;
+    
+    margin-right: 2px;
+    
+    opacity: .75;
+}
+
+.jcarousel-pagination a.active {
+    background: #4E443C;
+    color: #fff;
+    opacity: 1;
+    text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.75);
+}
+

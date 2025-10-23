@@ -1,0 +1,24 @@
+/**
+Propósito:
+Definição de estilos do componente UISessionTimeout
+
+Descrição:
+Arquivo que define o estilo para os elementos html que compõem o componente
+*/
+.UISessionTimeout {font-family:Tahoma,Arial,Sans-Serif;font-size:12px;margin:0;padding:0;float:left;line-height:13px;}
+.UISessionTimeout-p {padding-left:21px;font-weight:bold;margin-left:5px;line-height:13px;}
+.UISessionTimeouttR1_8 {background:transparent url(../images/ico_relogio.gif) no-repeat scroll 0 0px;}
+.UISessionTimeouttR3_8 {background:transparent url(../images/ico_relogio.gif) no-repeat scroll 0 -20px;}
+.UISessionTimeouttR5_8 {background:transparent url(../images/ico_relogio.gif) no-repeat scroll 0 -40px;}
+.UISessionTimeouttR7_8 {background:transparent url(../images/ico_relogio.gif) no-repeat scroll 0 -60px;}
+.UISessionTimeouttR0_8 {background:transparent url(../images/ico_relogio.gif) no-repeat scroll 0 -80px;}
+.UISessionTimeout-DragAndDrop{
+	  background-image:url(../images/ico_relogio.gif);      
+      padding-left: 10px;
+      padding-right: 0px;      
+      background-repeat:no-repeat;
+      height: 12px;
+      width: 15px;
+}
+
+					
