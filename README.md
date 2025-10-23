@@ -81,14 +81,14 @@ banco-virtual-portfolio/
 ## 📸 **Screenshots**
 
 ### **Desktop**
-![Home Desktop](screenshots/desktop-home.png)
+![Home Desktop](screenshots/Screenshot_1.png)
 *Interface principal da versão desktop*
 
-![Login Desktop](screenshots/desktop-login.png)
+![Login Desktop](screenshots/Screenshot_2.png)
 *Tela de identificação desktop*
 
 ### **Mobile**
-![Home Mobile](screenshots/mobile-home.png)
+![Home Mobile](screenshots/Screenshot_3.png)
 *Interface mobile responsiva*
 
 ![Login Mobile](screenshots/mobile-login.png)
